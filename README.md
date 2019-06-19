@@ -42,6 +42,8 @@ approach enables the system to recognize patterns across domains (e.g, slots for
 date or time are specified in a similar manner across different services)
 without providing an explicit alignment between slots of different services.
 
+![](schema_guided_overview.png)
+
 ## Data
 
 The dataset consists of conversations between a virtual assistant and a user.
@@ -162,14 +164,11 @@ Each frame consists of the following fields:
         "NONE" if none of the intents are active.
     *   **requested_slots** - A list of slots requested by the user in the
         current turn.
-    *   **slot_values** - A list containing assignments to different slots. Each
-        item in the list has the following fields:
-        *   **slot** - The name of the slot.
-        *   **values** - A list of strings containing values assigned to the
-            slot. For categorical slots, this list contains a single value. For
-            non-categorical slots, all the elements in the list are spoken
-            variations of each other and are equivalent (e.g, "6 pm", "six in
-            the evening", "evening at 6" etc.).
+    *   **slot_values** - A dictionary mapping slot name to a list of strings.
+        For categorical slots, this list contains a single value assigned to the
+        slot. For non-categorical slots, all the values in this list are spoken
+        variations of each other and are equivalent (e.g, "6 pm", "six in the
+        evening", "evening at 6" etc.).
 
 List of possible system acts:
 

@@ -1,0 +1,610 @@
+[
+  {
+    "service_name": "Hotels_1",
+    "description": "A popular service for searching and reserving rooms in hotels",
+    "slots": [
+      {
+        "name": "destination",
+        "description": "Location of the hotel",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "number_of_rooms",
+        "description": "Number of rooms in the reservation",
+        "is_categorical": true,
+        "possible_values": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "check_in_date",
+        "description": "Start date for the reservation",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "number_of_days",
+        "description": "Number of days in the reservation",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "star_rating",
+        "description": "Star rating of the hotel",
+        "is_categorical": true,
+        "possible_values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "name": "hotel_name",
+        "description": "Name of the hotel",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "street_address",
+        "description": "Address of the hotel",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "phone_number",
+        "description": "Phone number of the hotel",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "price_per_night",
+        "description": "Price per night for the reservation",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "has_wifi",
+        "description": "Boolean flag indicating if the hotel has wifi",
+        "is_categorical": true,
+        "possible_values": [
+          "True",
+          "False"
+        ]
+      }
+    ],
+    "intents": [
+      {
+        "name": "ReserveHotel",
+        "description": "Reserve a selected hotel for given dates",
+        "is_transactional": true,
+        "required_slots": [
+          "hotel_name",
+          "check_in_date",
+          "number_of_days"
+        ],
+        "optional_slots": {
+          "number_of_rooms": "1"
+        }
+      },
+      {
+        "name": "SearchHotel",
+        "description": "Find a hotel at a given location",
+        "is_transactional": false,
+        "required_slots": [
+          "destination"
+        ],
+        "optional_slots": {
+          "number_of_rooms": "",
+          "has_wifi": "",
+          "star_rating": ""
+        }
+      }
+    ]
+  },
+  {
+    "service_name": "Hotels_2",
+    "description": "A popular service for searching and booking houses for short term stay",
+    "slots": [
+      {
+        "name": "where_to",
+        "description": "Location of the house",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "number_of_adults",
+        "description": "Number of people for the reservation",
+        "is_categorical": true,
+        "possible_values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "name": "check_in_date",
+        "description": "Start date for the reservation or to find the house",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "check_out_date",
+        "description": "End date for the reservation or to find the house",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "rating",
+        "description": "Review rating of the house",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "address",
+        "description": "Address of the house",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "phone_number",
+        "description": "Phone number of the house",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "total_price",
+        "description": "Price per night of the house",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "has_laundry_service",
+        "description": "Boolean flag indicating if the house has laundry service",
+        "is_categorical": true,
+        "possible_values": [
+          "True",
+          "False"
+        ]
+      }
+    ],
+    "intents": [
+      {
+        "name": "BookHouse",
+        "description": "Book the selected house for given dates and number of adults",
+        "is_transactional": true,
+        "required_slots": [
+          "where_to",
+          "number_of_adults",
+          "check_in_date",
+          "check_out_date"
+        ],
+        "optional_slots": {}
+      },
+      {
+        "name": "SearchHouse",
+        "description": "Find a house at a given location",
+        "is_transactional": false,
+        "required_slots": [
+          "where_to"
+        ],
+        "optional_slots": {
+          "rating": "",
+          "number_of_adults": "",
+          "has_laundry_service": ""
+        }
+      }
+    ]
+  },
+  {
+    "service_name": "Hotels_3",
+    "description": "A leading provider for searching and booking hotel rooms",
+    "slots": [
+      {
+        "name": "location",
+        "description": "Location of the hotel",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "number_of_rooms",
+        "description": "Number of rooms to book",
+        "is_categorical": true,
+        "possible_values": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "check_in_date",
+        "description": "Start date for the hotel reservation",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "check_out_date",
+        "description": "End date for the hotel reservation",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "average_rating",
+        "description": "Average review rating for the hotel",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "hotel_name",
+        "description": "Name of the hotel",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "street_address",
+        "description": "Address of the hotel",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "phone_number",
+        "description": "Phone number of the hotel",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "price",
+        "description": "Total price for the stay",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "pets_welcome",
+        "description": "Boolean flag indicating if pets are allowed in the hotel",
+        "is_categorical": true,
+        "possible_values": [
+          "True",
+          "False"
+        ]
+      }
+    ],
+    "intents": [
+      {
+        "name": "ReserveHotel",
+        "description": "Reserve a selected hotel for given dates",
+        "is_transactional": true,
+        "required_slots": [
+          "hotel_name",
+          "check_in_date",
+          "check_out_date"
+        ],
+        "optional_slots": {
+          "number_of_rooms": "1"
+        }
+      },
+      {
+        "name": "SearchHotel",
+        "description": "Search for a hotel based on location",
+        "is_transactional": false,
+        "required_slots": [
+          "location"
+        ],
+        "optional_slots": {
+          "pets_welcome": "",
+          "number_of_rooms": ""
+        }
+      }
+    ]
+  },
+  {
+    "service_name": "Movies_1",
+    "description": "A go-to provider for finding movies, searching for show times and booking tickets",
+    "slots": [
+      {
+        "name": "price",
+        "description": "Price per ticket",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "number_of_tickets",
+        "description": "Number of tickets",
+        "is_categorical": true,
+        "possible_values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "name": "show_type",
+        "description": "Type of show",
+        "is_categorical": true,
+        "possible_values": [
+          "regular",
+          "3d",
+          "imax"
+        ]
+      },
+      {
+        "name": "theater_name",
+        "description": "Name of the theatre",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "show_time",
+        "description": "Time of the show",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "show_date",
+        "description": "Date of the show",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "genre",
+        "description": "Genre of the movie",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "street_address",
+        "description": "Address of the theatre",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "location",
+        "description": "City where the theatre is located",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "movie_name",
+        "description": "Name of the movie",
+        "is_categorical": false,
+        "possible_values": []
+      }
+    ],
+    "intents": [
+      {
+        "name": "BuyMovieTickets",
+        "description": "Buy movie tickets for a particular show",
+        "is_transactional": true,
+        "required_slots": [
+          "movie_name",
+          "number_of_tickets",
+          "show_date",
+          "location",
+          "show_time",
+          "show_type"
+        ],
+        "optional_slots": {}
+      },
+      {
+        "name": "FindMovies",
+        "description": "Search for movies by location, genre or other attributes",
+        "is_transactional": false,
+        "required_slots": [
+          "location"
+        ],
+        "optional_slots": {
+          "theater_name": "",
+          "genre": "",
+          "show_type": ""
+        }
+      },
+      {
+        "name": "GetTimesForMovie",
+        "description": "Get show times for a movie at a location on a given date",
+        "is_transactional": false,
+        "required_slots": [
+          "movie_name",
+          "location",
+          "show_date"
+        ],
+        "optional_slots": {
+          "theater_name": "",
+          "show_type": ""
+        }
+      }
+    ]
+  },
+  {
+    "service_name": "Movies_2",
+    "description": "A leading provider of movies for searching and watching on-demand",
+    "slots": [
+      {
+        "name": "title",
+        "description": "Title of the movie",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "genre",
+        "description": "Genre of the movie",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "subtitles",
+        "description": "Boolean flag indicating if subtitles are available for this movie",
+        "is_categorical": true,
+        "possible_values": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "name": "directed_by",
+        "description": "Name of the director of the movie",
+        "is_categorical": false,
+        "possible_values": []
+      }
+    ],
+    "intents": [
+      {
+        "name": "FindMovies",
+        "description": "Find movies by genre and optionally director",
+        "is_transactional": false,
+        "required_slots": [
+          "genre"
+        ],
+        "optional_slots": {
+          "directed_by": ""
+        }
+      },
+      {
+        "name": "PlayMovie",
+        "description": "Play the selected movie",
+        "is_transactional": true,
+        "required_slots": [
+          "title"
+        ],
+        "optional_slots": {
+          "subtitles": "False"
+        }
+      }
+    ]
+  },
+  {
+    "service_name": "Restaurants_1",
+    "description": "A leading provider for restaurant search and reservations",
+    "slots": [
+      {
+        "name": "restaurant_name",
+        "description": "Name of the restaurant",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "date",
+        "description": "Date for the reservation or to find availability",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "time",
+        "description": "Time for the reservation or to find availability",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "serves_alcohol",
+        "description": "Boolean flag indicating if the restaurant serves alcohol",
+        "is_categorical": true,
+        "possible_values": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "name": "has_live_music",
+        "description": "Boolean flag indicating if the restaurant has live music",
+        "is_categorical": true,
+        "possible_values": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "name": "phone_number",
+        "description": "Phone number of the restaurant",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "street_address",
+        "description": "Address of the restaurant",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "party_size",
+        "description": "Party size for a reservation",
+        "is_categorical": true,
+        "possible_values": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "name": "price_range",
+        "description": "Price range for the restaurant",
+        "is_categorical": true,
+        "possible_values": [
+          "inexpensive",
+          "moderate",
+          "expensive",
+          "very expensive"
+        ]
+      },
+      {
+        "name": "city",
+        "description": "City in which the restaurant is located",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "cuisine",
+        "description": "Cuisine of food served in the restaurant",
+        "is_categorical": false,
+        "possible_values": [
+          "Mexican",
+          "Chinese",
+          "Indian",
+          "American",
+          "Italian"
+        ]
+      }
+    ],
+    "intents": [
+      {
+        "name": "ReserveRestaurant",
+        "description": "Reserve a table at a restaurant",
+        "is_transactional": true,
+        "required_slots": [
+          "restaurant_name",
+          "city",
+          "time"
+        ],
+        "optional_slots": {
+          "date": "2019-03-01",
+          "party_size": "2"
+        }
+      },
+      {
+        "name": "FindRestaurants",
+        "description": "Find a restaurant of a particular cuisine in a city",
+        "is_transactional": false,
+        "required_slots": [
+          "cuisine",
+          "city"
+        ],
+        "optional_slots": {
+          "has_live_music": "",
+          "serves_alcohol": "",
+          "price_range": ""
+        }
+      }
+    ]
+  }
+]
