@@ -11,9 +11,15 @@ Pranav Khaitan
 | ----------------------------------------------- | :-------------------- |
 | Task description released.                      | 06/17/2019            |
 | Sample data released. Development phase begins. | 06/18/2019            |
-| Single domain dataset (train + dev) released    | 06/30/2019 (expected) |
+| Single domain dataset (train + dev) released    | 07/07/2019 (expected) |
 | Baseline Released                               | 07/07/2019 (expected) |
 | Multi domain dataset (train + dev) released     | 07/19/2019 (expected) |
+| Test phase begins.                              | 10/07/2019            |
+| Entry submission deadline.                      | 10/13/2019            |
+| Objective evaluation completed.                 | 10/20/2019            |
+
+**Update**: Due to some unforeseen delays, the single domain dataset is
+expected to be released on 07/07/2019. The other dates are unchanged.
 
 ## Introduction
 
