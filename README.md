@@ -7,18 +7,28 @@ Pranav Khaitan
 
 ## Important Dates
 
+
 |                                                 | Date                  |
 | ----------------------------------------------- | :-------------------- |
 | Task description released.                      | 06/17/2019            |
 | Sample data released. Development phase begins. | 06/18/2019            |
-| Single domain dataset (train + dev) released    | 07/07/2019 (expected) |
-| Baseline Released                               | 07/07/2019 (expected) |
+| Single domain dataset (train + dev) released    | 07/07/2019            |
+| Baseline Released                               | 07/19/2019 (expected) |
 | Multi domain dataset (train + dev) released     | 07/19/2019 (expected) |
 | Test phase begins.                              | 10/07/2019            |
 | Entry submission deadline.                      | 10/13/2019            |
 | Objective evaluation completed.                 | 10/20/2019            |
 
-**Update**: Due to some unforeseen delays, the single domain dataset is
+
+### Updates
+
+**07/07/2019** - Train and dev sets for the
+[single domain dataset](#single-domain-dataset) have been released. The baseline
+system will be released with the multi domain dataset on 07/19/2019. The sample
+dialogues released earlier in `train/dialogues_1.json` have been moved to
+`train/dialogues_43.json`.
+
+**06/30/2019** - Due to some unforeseen delays, the single domain dataset is
 expected to be released on 07/07/2019. The other dates are unchanged.
 
 ## Introduction
@@ -238,7 +248,57 @@ module. For date slots, some of the dialogues contain a relative quantifier
 
 ### Single Domain Dataset
 
-Expected to be released by 30th June.
+The single domain dataset includes dialogues involving interactions with a
+single service, possibly over multiple intents. The overall statistics of
+the train and dev sets are given below. The term *informable slots* refers to
+the slots over which the user can specify a constraint. For example, slots like
+*phone_number* are not informable.
+
+
+|                                                   | Train  | Dev      |
+| ------------------------------------------------- | :----: | :------: |
+| No. of dialogues                                  | 5414   | 836      |
+| No. of turns                                      | 82758  | 11928    |
+| No. of tokens (lower-cased)                       | 808598 | 117510   |
+| Average turns per dialogue                        | 15.286 | 14.268   |
+| Average tokens per dialogue                       | 9.771  | 9.852    |
+| Total unique tokens (lower-cased)                 | 16395  | 6804     |
+| Total no. of slots                                | 205    | 134      |
+| Total no. of informable slots                     | 147    | 94       |
+| Total unique slot values (lower-cased)            | 7081   | 2418     |
+| Total unique informable slot values (lower-cased) | 3847   | 1223     |
+| Total domains                                     | 14     | 16       |
+| Total services                                    | 25     | 17       |
+| Total intents                                     | 35     | 28       |
+
+The following table shows how the dialogues and services are distributed among
+different domains for the train and dev sets. Please note that a few domains
+like *Travel* and *Weather* are only present in the dev set. This is to test the
+generalization of models on unseen domains. The test set will similarly have
+some unseen domains which are neither present in the training nor in the dev
+set.
+
+
+| Domain      | # Dialogues <br> Train | # Services <br> Train | # Dialogues <br> Dev | # Services <br> Dev |
+| :---------- | :---------: | :--------: | :--------------: | :-------------: |
+| Alarm       | NA          | NA         | 37               | 1               |
+| Banks       | 207         | 1          | 42               | 1               |
+| Buses       | 310         | 2          | 44               | 1               |
+| Calendar    | 169         | 1          | NA               | NA              |
+| Events      | 788         | 2          | 73               | 1               |
+| Flights     | 985         | 2          | 94               | 1               |
+| Homes       | 268         | 1          | 81               | 1               |
+| Hotels      | 458         | 3          | 56               | 2               |
+| Media       | 266         | 1          | 46               | 1               |
+| Movies      | 311         | 1          | 47               | 1               |
+| Music       | 394         | 2          | 35               | 1               |
+| RentalCars  | 215         | 2          | 39               | 1               |
+| Restaurants | 367         | 1          | 73               | 1               |
+| RideSharing | 119         | 2          | 45               | 1               |
+| Services    | 557         | 3          | 44               | 1               |
+| Travel      | NA          | NA         | 45               | 1               |
+| Weather     | NA          | NA         | 35               | 1               |
+
 
 ### Multi Domain Dataset
 
