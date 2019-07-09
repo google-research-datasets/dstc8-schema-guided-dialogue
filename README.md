@@ -261,7 +261,7 @@ the slots over which the user can specify a constraint. For example, slots like
 | No. of turns                                      | 82758  | 11928    |
 | No. of tokens (lower-cased)                       | 808598 | 117510   |
 | Average turns per dialogue                        | 15.286 | 14.268   |
-| Average tokens per dialogue                       | 9.771  | 9.852    |
+| Average tokens per turn                           | 9.771  | 9.852    |
 | Total unique tokens (lower-cased)                 | 16395  | 6804     |
 | Total no. of slots                                | 205    | 134      |
 | Total no. of informable slots                     | 147    | 94       |
