@@ -43430,7 +43430,7 @@
         "speaker": "USER"
       },
       {
-        "utterance": "",
+        "utterance": "Great news, pets are indeed permitted. But unfortunately, the place is not furnished.",
         "frames": [
           {
             "slots": [],
