@@ -153,12 +153,13 @@ Each turn consists of the following fields:
 *   **frames** - A list of frames, each frame containing annotations for a
     single service.
 
-Each frame consists of the following fields:
+Each frame consists of the fields listed below. The fields marked with * will
+be excluded in the test data released to the participants.
 
 *   **service** - The name of the service corresponding to the frame. The slots
     and intents used in the following fields are taken from the schema of this
     service.
-*   **slots** - A list of slot spans in the utterance, only provided for
+*   **slots*** - A list of slot spans in the utterance, only provided for
     non-categorical slots. Each slot span contains the following fields:
     *   **slot** - The name of the slot.
     *   **start** - The index of the starting character in the utterance
@@ -173,7 +174,7 @@ Each frame consists of the following fields:
     *   **slot** (optional)- Aslot argument for some of the actions.
     *   **values** (optional)- A list of values assigned to the slot. If the
         values list is non-empty, then the slot must be present.
-*   **state** (user turns only) - The dialogue state corresponding to the
+*   **state*** (user turns only) - The dialogue state corresponding to the
     service. It consists of the following fields:
     *   **active_intent** - The intent corresponding to the service of the frame
         which is currently being fulfilled by the system. It takes the value
