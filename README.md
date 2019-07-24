@@ -13,14 +13,24 @@ Pranav Khaitan
 | Task description released.                      | 06/17/2019            |
 | Sample data released. Development phase begins. | 06/18/2019            |
 | Single domain dataset (train + dev) released    | 07/07/2019            |
-| Baseline Released                               | 07/19/2019 (expected) |
-| Multi domain dataset (train + dev) released     | 07/19/2019 (expected) |
+| Multi domain dataset (train + dev) released     | 07/23/2019            |
+| Baseline Released                               | 08/04/2019 (expected) |
 | Test phase begins.                              | 10/07/2019            |
 | Entry submission deadline.                      | 10/13/2019            |
 | Objective evaluation completed.                 | 10/20/2019            |
 
 
 ### Updates
+
+**07/23/2019** - Train and dev sets for multi domain dataset have been released.
+The dataset files have been renamed to accommodate additional dialogues in the
+multi domain dataset. The expected date for baseline release has been updated.
+We apologize for any inconvenience caused by these delays resulting from factors
+beyond our control.
+
+**07/18/2019** - The fields that will be missing from the unlabelled test data
+have been added to the [Dialogue Representation](#dialogue-representation)
+section.
 
 **07/07/2019** - Train and dev sets for the
 [single domain dataset](#single-domain-dataset) have been released. The baseline
@@ -246,63 +256,347 @@ module. For date slots, some of the dialogues contain a relative quantifier
 (e.g, "today", "tomorrow", "next thursday" etc.). For these values, March 1st,
 2019 has been treated as today's date for all dialogues.
 
-### Single Domain Dataset
+### Dataset Statistics
 
-The single domain dataset includes dialogues involving interactions with a
-single service, possibly over multiple intents. The overall statistics of
-the train and dev sets are given below. The term *informable slots* refers to
-the slots over which the user can specify a constraint. For example, slots like
-*phone_number* are not informable.
+The dataset consists of two kinds of dialogues.
+
+| Type of Dialogue | Train files                                  | Dev files                                    |
+| ---------------- | :------------------------------------------: | :------------------------------------------: |
+| Single Domain    | `dialogues_001.json` to `dialogues_043.json` | `dialogues_001.json` to `dialogues_007.json` |
+| Multi Domain     | `dialogues_044.json` to `dialogues_127.json` | `dialogues_008.json` to `dialogues_020.json` |
 
 
-|                                                   | Train  | Dev      |
-| ------------------------------------------------- | :----: | :------: |
-| No. of dialogues                                  | 5403   | 836      |
-| No. of turns                                      | 82588  | 11928    |
-| No. of tokens (lower-cased)                       | 807562 | 117510   |
-| Average turns per dialogue                        | 15.286 | 14.268   |
-| Average tokens per turn                           | 9.778  | 9.852    |
-| Total unique tokens (lower-cased)                 | 16362  | 6804     |
-| Total no. of slots                                | 201    | 134      |
-| Total no. of informable slots                     | 143    | 94       |
-| Total unique slot values (lower-cased)            | 7070   | 2418     |
-| Total unique informable slot values (lower-cased) | 3843   | 1223     |
-| Total domains                                     | 14     | 16       |
-| Total services                                    | 24     | 17       |
-| Total intents                                     | 35     | 28       |
+The single domain dialogues involve interactions with a single service, possibly
+over multiple intents. The multi-domain dialogues have interactions involving
+intents belonging to two or more different services. The multi-domain dialogues
+also involve transfer of dialogue state values from one service to the other
+wherever such a transfer is deemed natural. Eg, if a user finds a restaurant and
+searches for a movie next, the dialogue state for movie service is already
+initialized with the location from the dialogue state for restaurant service.
+
+The overall statistics of the train and dev sets are given below. The term
+*informable slots* refers to the slots over which the user can specify a
+constraint. For example, slots like *phone_number* are not informable.
+
+
+<table>
+    <tr>
+        <th rowspan="2"></th>
+        <th colspan="3">Train</th><th colspan="3">Dev</th>
+    </tr>
+    <tr>
+        <td>Single-domain</td>
+        <td>Multi-domain</td>
+        <td>Combined</td>
+        <td>Single-domain</td>
+        <td>Multi-domain</td>
+        <td>Combined</td>
+    </tr>
+    <tr>
+        <td>No. of dialogues</td>
+        <td align="center">5,403</td>
+        <td align="center">10,739</td>
+        <td align="center">16,142</td>
+        <td align="center">836</td>
+        <td align="center">1,646</td>
+        <td align="center">2,482</td>
+    </tr>
+    <tr>
+        <td>No. of turns</td>
+        <td align="center">82,588</td>
+        <td align="center">247,376</td>
+        <td align="center">329,964</td>
+        <td align="center">11,928</td>
+        <td align="center">36,978</td>
+        <td align="center">48,726</td>
+    </tr>
+    <tr>
+        <td>No. of tokens (lower-cased)</td>
+        <td align="center">807,562</td>
+        <td align="center">2,409,805</td>
+        <td align="center">3,217,367</td>
+        <td align="center">117,496</td>
+        <td align="center">353,381</td>
+        <td align="center">470,877</td>
+    </tr>
+     <tr>
+        <td>Average turns per dialogue</td>
+        <td align="center">15.286</td>
+        <td align="center">23.035</td>
+        <td align="center">20.441</td>
+        <td align="center">14.268</td>
+        <td align="center">22.356</td>
+        <td align="center">19.632</td>
+    </tr>
+    <tr>
+        <td>Average tokens per turn</td>
+        <td align="center">9.778</td>
+        <td align="center">9.741</td>
+        <td align="center">9.751</td>
+        <td align="center">9.850</td>
+        <td align="center">9.603</td>
+        <td align="center">9.664</td>
+    </tr>
+    <tr>
+        <td>Total unique tokens (lower-cased)</td>
+        <td align="center">16,353</td>
+        <td align="center">25,459</td>
+        <td align="center">30,352</td>
+        <td align="center">6,803</td>
+        <td align="center">10,533</td>
+        <td align="center">12,719</td>
+    </tr>
+    <tr>
+        <td>Total no. of slots</td>
+        <td align="center">201</td>
+        <td align="center">214</td>
+        <td align="center">214</td>
+        <td align="center">134</td>
+        <td align="center">132</td>
+        <td align="center">136</td>
+    </tr>
+    <tr>
+        <td>Total no. of informable slots</td>
+        <td align="center">143</td>
+        <td align="center">149</td>
+        <td align="center">151</td>
+        <td align="center">94</td>
+        <td align="center">91</td>
+        <td align="center">94</td>
+    </tr>
+    <tr>
+        <td>Total unique slot values (lower-cased)</td>
+        <td align="center">7,070</td>
+        <td align="center">11,635</td>
+        <td align="center">14,139</td>
+        <td align="center">2,418</td>
+        <td align="center">4,182</td>
+        <td align="center">5,101</td>
+    </tr>
+    <tr>
+        <td>Total unique informable slot values (lower-cased)</td>
+        <td align="center">3,843</td>
+        <td align="center">6,669</td>
+        <td align="center">7,998</td>
+        <td align="center">1,223</td>
+        <td align="center">2,254</td>
+        <td align="center">2,673</td>
+    </tr>
+    <tr>
+        <td>Total domains</td>
+        <td align="center">14</td>
+        <td align="center">16</td>
+        <td align="center">16</td>
+        <td align="center">16</td>
+        <td align="center">15</td>
+        <td align="center">16</td>
+    </tr>
+    <tr>
+        <td>Total services</td>
+        <td align="center">24</td>
+        <td align="center">26</td>
+        <td align="center">26</td>
+        <td align="center">17</td>
+        <td align="center">16</td>
+        <td align="center">17</td>
+    </tr>
+    <tr>
+        <td>Total intents</td>
+        <td align="center">35</td>
+        <td align="center">37</td>
+        <td align="center">37</td>
+        <td align="center">28</td>
+        <td align="center">26</td>
+        <td align="center">28</td>
+    </tr>
+</table>
+
 
 The following table shows how the dialogues and services are distributed among
-different domains for the train and dev sets. Please note that a few domains
-like *Travel* and *Weather* are only present in the dev set. This is to test the
-generalization of models on unseen domains. The test set will similarly have
-some unseen domains which are neither present in the training nor in the dev
-set.
+different domains for the train and dev sets. In this table, each multi-domain
+dialogue contirbutes to the count of every service present in the dialogue.
+Please note that a few domains like *Travel* and *Weather* are only present in
+the dev set. This is to test the generalization of models on unseen domains. The
+test set will similarly have some unseen domains which are neither present in
+the training nor in the dev set. Also, the number in parenthesis represents the
+number of unique services belonging to the corresponding domain.
 
+* In the first column, it indicates the number of unique services for the domain
+  in Train and Dev datasets combined.
+* In the fourth column, it indicates the number of such unique services in the
+  Train dataset only.
+* In the last column, it indicates the number of such unique services in the Dev
+  dataset only.
 
-| Domain      | # Dialogues <br> Train | # Services <br> Train | # Dialogues <br> Dev | # Services <br> Dev |
-| :---------- | :---------: | :--------: | :--------------: | :-------------: |
-| Alarm       | NA          | NA         | 37               | 1               |
-| Banks       | 207         | 1          | 42               | 1               |
-| Buses       | 310         | 2          | 44               | 1               |
-| Calendar    | 169         | 1          | NA               | NA              |
-| Events      | 788         | 2          | 73               | 1               |
-| Flights     | 985         | 2          | 94               | 1               |
-| Homes       | 268         | 1          | 81               | 1               |
-| Hotels      | 457         | 3          | 56               | 2               |
-| Media       | 281         | 1          | 46               | 1               |
-| Movies      | 292         | 1          | 47               | 1               |
-| Music       | 394         | 2          | 35               | 1               |
-| RentalCars  | 215         | 2          | 39               | 1               |
-| Restaurants | 367         | 1          | 73               | 1               |
-| RideSharing | 119         | 2          | 45               | 1               |
-| Services    | 551         | 3          | 44               | 1               |
-| Travel      | NA          | NA         | 45               | 1               |
-| Weather     | NA          | NA         | 35               | 1               |
+<table>
+    <tr>
+        <th rowspan="2"></th>
+        <th colspan="3"># Dialogues <br> Train</th>
+        <th colspan="3"># Dialogues <br> Dev</th>
+    </tr>
+    <tr>
+        <td>Single-domain</td>
+        <td>Multi-domain</td>
+        <td>Combined</td>
+        <td>Single-domain</td>
+        <td>Multi-domain</td>
+        <td>Combined</td>
+    </tr>
+    <tr>
+        <td>Alarm (1)</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">37</td>
+        <td align="center">NA</td>
+        <td align="center">37 (1)</td>
+    </tr>
+    <tr>
+        <td>Banks (2)</td>
+        <td align="center">207</td>
+        <td align="center">520</td>
+        <td align="center">727 (1)</td>
+        <td align="center">42</td>
+        <td align="center">252</td>
+        <td align="center">294 (1)</td>
+    </tr>
+    <tr>
+        <td>Buses (2)</td>
+        <td align="center">310</td>
+        <td align="center">1,970</td>
+        <td align="center">2,280 (2)</td>
+        <td align="center">44</td>
+        <td align="center">285</td>
+        <td align="center">329 (1)</td>
+    </tr>
+    <tr>
+        <td>Calendar (1)</td>
+        <td align="center">169</td>
+        <td align="center">1,433</td>
+        <td align="center">1,602 (1)</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+    </tr>
+    <tr>
+        <td>Events (2)</td>
+        <td align="center">788</td>
+        <td align="center">2,721</td>
+        <td align="center">3,509 (1)</td>
+        <td align="center">73</td>
+        <td align="center">345</td>
+        <td align="center">418 (1)</td>
+    </tr>
+    <tr>
+        <td>Flights (3)</td>
+        <td align="center">985</td>
+        <td align="center">1,762</td>
+        <td align="center">2,747 (2)</td>
+        <td align="center">94</td>
+        <td align="center">297</td>
+        <td align="center">391 (1)</td>
+    </tr>
+        <tr>
+        <td>Homes (1)</td>
+        <td align="center">268</td>
+        <td align="center">579</td>
+        <td align="center">847 (1)</td>
+        <td align="center">81</td>
+        <td align="center">99</td>
+        <td align="center">180 (1)</td>
+    </tr>
+        <tr>
+        <td>Hotels (4)</td>
+        <td align="center">457</td>
+        <td align="center">2,896</td>
+        <td align="center">3,353 (3)</td>
+        <td align="center">56</td>
+        <td align="center">521</td>
+        <td align="center">577 (2)</td>
+    </tr>
+        <tr>
+        <td>Media (2)</td>
+        <td align="center">281</td>
+        <td align="center">832</td>
+        <td align="center">1,113 (1)</td>
+        <td align="center">46</td>
+        <td align="center">133</td>
+        <td align="center">179 (1)</td>
+    </tr>
+        <tr>
+        <td>Movies (2)</td>
+        <td align="center">292</td>
+        <td align="center">1,325</td>
+        <td align="center">1,617 (1)</td>
+        <td align="center">47</td>
+        <td align="center">94</td>
+        <td align="center">141 (1)</td>
+    </tr>
+        <tr>
+        <td>Music (2)</td>
+        <td align="center">394</td>
+        <td align="center">896</td>
+        <td align="center">1,290 (2)</td>
+        <td align="center">35</td>
+        <td align="center">161</td>
+        <td align="center">196 (1)</td>
+    </tr>
+        <tr>
+        <td>RentalCars (2)</td>
+        <td align="center">215</td>
+        <td align="center">1,370</td>
+        <td align="center">1,585 (2)</td>
+        <td align="center">39</td>
+        <td align="center">342</td>
+        <td align="center">381 (1)</td>
+    </tr>
+        <tr>
+        <td>Restaurants (2)</td>
+        <td align="center">367</td>
+        <td align="center">2052</td>
+        <td align="center">2,419 (1)</td>
+        <td align="center">73</td>
+        <td align="center">263</td>
+        <td align="center">336 (1)</td>
+    </tr>
+        <tr>
+        <td>RideSharing (2)</td>
+        <td align="center">119</td>
+        <td align="center">1,584</td>
+        <td align="center">1,703 (2)</td>
+        <td align="center">45</td>
+        <td align="center">225</td>
+        <td align="center">270 (1)</td>
+    </tr>
+        <tr>
+        <td>Services (4)</td>
+        <td align="center">551</td>
+        <td align="center">1,338</td>
+        <td align="center">1,889 (3)</td>
+        <td align="center">44</td>
+        <td align="center">157</td>
+        <td align="center">201 (1)</td>
+    </tr>
+        <tr>
+        <td>Travel (1)</td>
+        <td align="center">NA</td>
+        <td align="center">1,871</td>
+        <td align="center">1,871 (1)</td>
+        <td align="center">45</td>
+        <td align="center">238</td>
+        <td align="center">283 (1)</td>
+    </tr>
+        <tr>
+        <td>Weather (1)</td>
+        <td align="center">NA</td>
+        <td align="center">951</td>
+        <td align="center">951 (1)</td>
+        <td align="center">35</td>
+        <td align="center">322</td>
+        <td align="center">357 (1)</td>
+    </tr>
+</table>
 
-
-### Multi Domain Dataset
-
-Expected to be released by 19th July.
 
 ## Evaluation
 

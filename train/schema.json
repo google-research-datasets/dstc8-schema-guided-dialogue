@@ -2298,5 +2298,134 @@
         "optional_slots": {}
       }
     ]
+  },
+  {
+    "service_name": "Travel_1",
+    "description": "The biggest database of tourist attractions and points of interest",
+    "slots": [
+      {
+        "name": "location",
+        "description": "City or town where the attraction is located",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "attraction_name",
+        "description": "Common name of the attraction",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "category",
+        "description": "Category to which the attraction belongs",
+        "is_categorical": true,
+        "possible_values": [
+          "Place of Worship",
+          "Theme Park",
+          "Museum",
+          "Historical Landmark",
+          "Park",
+          "Tourist Attraction",
+          "Sports Venue",
+          "Shopping Area",
+          "Performing Arts Venue",
+          "Nature Preserve"
+        ]
+      },
+      {
+        "name": "phone_number",
+        "description": "Phone number to contact the attraction",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "free_entry",
+        "description": "Boolean flag indicating whether entrance to attraction is free",
+        "is_categorical": true,
+        "possible_values": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "name": "good_for_kids",
+        "description": "Boolean flag indicating whether attraction is good for to take kids to",
+        "is_categorical": true,
+        "possible_values": [
+          "True",
+          "False"
+        ]
+      }
+    ],
+    "intents": [
+      {
+        "name": "FindAttractions",
+        "description": "Browse attractions in a given city",
+        "is_transactional": false,
+        "required_slots": [
+          "location"
+        ],
+        "optional_slots": {
+          "category": "dontcare",
+          "free_entry": "dontcare",
+          "good_for_kids": "dontcare"
+        }
+      }
+    ]
+  },
+  {
+    "service_name": "Weather_1",
+    "description": "Check the weather for any place and any date",
+    "slots": [
+      {
+        "name": "precipitation",
+        "description": "The possibility of rain or snow in percentage",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "humidity",
+        "description": "Percentage humidity",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "wind",
+        "description": "Wind speed in miles per hour",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "temperature",
+        "description": "Temperature in Fahrenheit",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "city",
+        "description": "Name of the city",
+        "is_categorical": false,
+        "possible_values": []
+      },
+      {
+        "name": "date",
+        "description": "Date for the weather",
+        "is_categorical": false,
+        "possible_values": []
+      }
+    ],
+    "intents": [
+      {
+        "name": "GetWeather",
+        "description": "Get the weather of a certain location on a date",
+        "is_transactional": false,
+        "required_slots": [
+          "city"
+        ],
+        "optional_slots": {
+          "date": "2019-03-01"
+        }
+      }
+    ]
   }
 ]
