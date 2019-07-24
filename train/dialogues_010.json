@@ -59204,18 +59204,18 @@
         "speaker": "USER"
       },
       {
-        "utterance": "It\\u2019s a Rock event. Starts at 7 pm.",
+        "utterance": "It's a Rock event. Starts at 7 pm.",
         "frames": [
           {
             "slots": [
               {
-                "start": 12,
-                "exclusive_end": 16,
+                "start": 7,
+                "exclusive_end": 11,
                 "slot": "category"
               },
               {
-                "start": 34,
-                "exclusive_end": 38,
+                "start": 29,
+                "exclusive_end": 33,
                 "slot": "time"
               }
             ],
@@ -59310,23 +59310,23 @@
         "speaker": "USER"
       },
       {
-        "utterance": "There\\u2019s another one in 3 days, next Tuesday. Also an Aftershock Festival at Discovery Park.",
+        "utterance": "There's another one in 3 days, next Tuesday. Also an Aftershock Festival at Discovery Park.",
         "frames": [
           {
             "slots": [
               {
-                "start": 36,
-                "exclusive_end": 48,
+                "start": 31,
+                "exclusive_end": 43,
                 "slot": "date"
               },
               {
-                "start": 58,
-                "exclusive_end": 77,
+                "start": 53,
+                "exclusive_end": 72,
                 "slot": "event_name"
               },
               {
-                "start": 81,
-                "exclusive_end": 95,
+                "start": 76,
+                "exclusive_end": 90,
                 "slot": "venue"
               }
             ],

@@ -24712,7 +24712,7 @@
     "dialogue_id": "39_00065",
     "turns": [
       {
-        "utterance": "Hey, can you show me when I\\u2019m free?",
+        "utterance": "Hey, can you show me when I'm free?",
         "frames": [
           {
             "state": {
@@ -24769,18 +24769,18 @@
         "speaker": "USER"
       },
       {
-        "utterance": "You\\u2019re free from 8 am to 4 pm.",
+        "utterance": "You're free from 8 am to 4 pm.",
         "frames": [
           {
             "slots": [
               {
-                "start": 22,
-                "exclusive_end": 26,
+                "start": 17,
+                "exclusive_end": 21,
                 "slot": "available_start_time"
               },
               {
-                "start": 30,
-                "exclusive_end": 34,
+                "start": 25,
+                "exclusive_end": 29,
                 "slot": "available_end_time"
               }
             ],
@@ -24891,7 +24891,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "It\\u2019s a General Practitioner appointment with John Toth, D.O. at 401 Gregory Ln # 248.",
+        "utterance": "It's a General Practitioner appointment with John Toth, D.O. at 401 Gregory Ln # 248.",
         "frames": [
           {
             "state": {
@@ -24914,13 +24914,13 @@
             },
             "slots": [
               {
-                "start": 12,
-                "exclusive_end": 65,
+                "start": 7,
+                "exclusive_end": 60,
                 "slot": "event_name"
               },
               {
-                "start": 69,
-                "exclusive_end": 89,
+                "start": 64,
+                "exclusive_end": 84,
                 "slot": "event_location"
               }
             ],
@@ -25145,7 +25145,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "No, that\\u2019s all.",
+        "utterance": "No, that's all.",
         "frames": [
           {
             "state": {
@@ -28851,7 +28851,7 @@
         "speaker": "USER"
       },
       {
-        "utterance": "Great. What\\u2019s the event?",
+        "utterance": "Great. What's the event?",
         "frames": [
           {
             "slots": [],
@@ -28921,7 +28921,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "At afternoon 3, please. It\\u2019s a Hairdresser appointment.",
+        "utterance": "At afternoon 3, please. It's a Hairdresser appointment.",
         "frames": [
           {
             "state": {
@@ -28952,8 +28952,8 @@
                 "slot": "event_time"
               },
               {
-                "start": 36,
-                "exclusive_end": 59,
+                "start": 31,
+                "exclusive_end": 54,
                 "slot": "event_name"
               }
             ],
@@ -29024,7 +29024,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "Yes, that\\u2019s it.",
+        "utterance": "Yes, that's it.",
         "frames": [
           {
             "state": {
@@ -29073,7 +29073,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "That\\u2019s all. Thanks for the help.",
+        "utterance": "That's all. Thanks for the help.",
         "frames": [
           {
             "state": {
@@ -47108,7 +47108,7 @@
         "speaker": "USER"
       },
       {
-        "utterance": "Please confirm: You want to schedule an event called Restaurant reservation for 3 at Perch + Plow for today. It\\u2019s located on 90 Old Courthouse Square at 6 pm.",
+        "utterance": "Please confirm: You want to schedule an event called Restaurant reservation for 3 at Perch + Plow for today. It's located on 90 Old Courthouse Square at 6 pm.",
         "frames": [
           {
             "slots": [
@@ -47123,13 +47123,13 @@
                 "slot": "event_date"
               },
               {
-                "start": 130,
-                "exclusive_end": 154,
+                "start": 125,
+                "exclusive_end": 149,
                 "slot": "event_location"
               },
               {
-                "start": 158,
-                "exclusive_end": 162,
+                "start": 153,
+                "exclusive_end": 157,
                 "slot": "event_time"
               }
             ],
@@ -47169,7 +47169,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "Yes, that\\u2019s it.",
+        "utterance": "Yes, that's it.",
         "frames": [
           {
             "state": {
@@ -47219,7 +47219,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "Thanks a lot. That\\u2019s all I need.",
+        "utterance": "Thanks a lot. That's all I need.",
         "frames": [
           {
             "state": {

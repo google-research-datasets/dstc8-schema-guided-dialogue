@@ -38156,23 +38156,23 @@
         "speaker": "USER"
       },
       {
-        "utterance": "I found 1 flight you may like. It\\u2019s a United Airlines flight bound to leave at 1:25 pm. The return flight time is 5:25 am and the ticket will cost you $223.",
+        "utterance": "I found 1 flight you may like. It's a United Airlines flight bound to leave at 1:25 pm. The return flight time is 5:25 am and the ticket will cost you $223.",
         "frames": [
           {
             "slots": [
               {
-                "start": 84,
-                "exclusive_end": 91,
+                "start": 79,
+                "exclusive_end": 86,
                 "slot": "outbound_departure_time"
               },
               {
-                "start": 119,
-                "exclusive_end": 126,
+                "start": 114,
+                "exclusive_end": 121,
                 "slot": "inbound_departure_time"
               },
               {
-                "start": 156,
-                "exclusive_end": 160,
+                "start": 151,
+                "exclusive_end": 155,
                 "slot": "price"
               }
             ],
@@ -38253,25 +38253,25 @@
         "speaker": "USER"
       },
       {
-        "utterance": "Your return flight arrives at -5:06 am. And the airport in which you\\u2019ll arrive on the way there is the Kingsford Smith International Airport.",
+        "utterance": "Your return flight arrives at 5:06 am. And the airport in which you'll arrive on the way there is the Kingsford Smith International Airport.",
         "frames": [
           {
             "slots": [
               {
                 "start": 30,
-                "exclusive_end": 38,
+                "exclusive_end": 37,
                 "slot": "inbound_arrival_time"
               },
               {
-                "start": 108,
-                "exclusive_end": 145,
+                "start": 102,
+                "exclusive_end": 139,
                 "slot": "destination_airport"
               }
             ],
             "actions": [
               {
                 "values": [
-                  "-5:06 am"
+                  "5:06 am"
                 ],
                 "act": "INFORM",
                 "slot": "inbound_arrival_time"
@@ -38290,7 +38290,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "That\\u2019s great.",
+        "utterance": "That's great.",
         "frames": [
           {
             "state": {
@@ -38349,7 +38349,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "No, that\\u2019s all.",
+        "utterance": "No, that's all.",
         "frames": [
           {
             "state": {

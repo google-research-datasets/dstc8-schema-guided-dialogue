@@ -22573,7 +22573,7 @@
     "dialogue_id": "31_00039",
     "turns": [
       {
-        "utterance": "Hey, I\\u2019m thinking of moving out. Can you find me a three baths apartment?",
+        "utterance": "Hey, I'm thinking of moving out. Can you find me a three baths apartment?",
         "frames": [
           {
             "state": {
@@ -22749,7 +22749,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "Are pets allowed in there? Do you have the property\\u2019s phone number?",
+        "utterance": "Are pets allowed in there? Do you have the property's phone number?",
         "frames": [
           {
             "state": {
@@ -22922,7 +22922,7 @@
         "speaker": "USER"
       },
       {
-        "utterance": "Almaden Garden Apartments is also nice. It\\u2019s located at 947 Branham Lane # C. It has 3 baths and 3 bedrooms, with a rent that costs $5,150 per month.",
+        "utterance": "Almaden Garden Apartments is also nice. It's located at 947 Branham Lane # C. It has 3 baths and 3 bedrooms, with a rent that costs $5,150 per month.",
         "frames": [
           {
             "slots": [
@@ -22932,13 +22932,13 @@
                 "slot": "property_name"
               },
               {
-                "start": 61,
-                "exclusive_end": 81,
+                "start": 56,
+                "exclusive_end": 76,
                 "slot": "address"
               },
               {
-                "start": 137,
-                "exclusive_end": 143,
+                "start": 132,
+                "exclusive_end": 138,
                 "slot": "rent"
               }
             ],
@@ -23059,7 +23059,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "Yes, that\\u2019s it. Do you know if pets are allowed in the apartment?",
+        "utterance": "Yes, that's it. Do you know if pets are allowed in the apartment?",
         "frames": [
           {
             "state": {
@@ -23117,7 +23117,7 @@
         "speaker": "SYSTEM"
       },
       {
-        "utterance": "Thanks very much. That\\u2019s all, for now.",
+        "utterance": "Thanks very much. That's all, for now.",
         "frames": [
           {
             "state": {

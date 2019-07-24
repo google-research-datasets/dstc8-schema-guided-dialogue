@@ -29903,7 +29903,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "No. Subtitles, I want none.",
+        "utterance": "No. Subtitles please.",
         "speaker": "USER"
       },
       {
@@ -29935,7 +29935,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "Okay. So you want to watch True Grit with None subtitles?",
+        "utterance": "Okay. So you want to watch True Grit with no subtitles?",
         "speaker": "SYSTEM"
       },
       {
@@ -30244,7 +30244,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "Please confirm rental of The Man Who Knew Too Much with None subtitles.",
+        "utterance": "Please confirm rental of The Man Who Knew Too Much with no subtitles.",
         "speaker": "SYSTEM"
       },
       {
@@ -30554,7 +30554,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "Can you confirm me that you wish to watch the movie Body Double with None subtitles, correct?",
+        "utterance": "Can you confirm me that you wish to watch the movie Body Double without bothering for subtitles, correct?",
         "speaker": "SYSTEM"
       },
       {
@@ -31089,7 +31089,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "Let's confirm the details. You would like to watch Josie and the Pussycats. You want None subtitles.",
+        "utterance": "Let's confirm the details. You would like to watch Josie and the Pussycats. You want no subtitles.",
         "speaker": "SYSTEM"
       },
       {
@@ -32191,7 +32191,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "So you want How to Train Your Dragon: The Hidden World, subtitles: None?",
+        "utterance": "So you want How to Train Your Dragon: The Hidden World, without subtitles?",
         "speaker": "SYSTEM"
       },
       {
@@ -32458,7 +32458,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "Yes please, with none subtitles",
+        "utterance": "Yes please, with no subtitles",
         "speaker": "USER"
       },
       {
@@ -32490,7 +32490,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "Please confirm: watch Dogman with None subtitles",
+        "utterance": "Please confirm: watch Dogman with no subtitles",
         "speaker": "SYSTEM"
       },
       {
@@ -33196,7 +33196,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "You would like to rent Gloria Bell and the amount of subtitles should be none?",
+        "utterance": "You would like to rent Gloria Bell with no subtitles?",
         "speaker": "SYSTEM"
       },
       {
@@ -33649,7 +33649,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "Fine. I need on rent and with None subtitles.",
+        "utterance": "Fine. I need on rent and with no subtitles.",
         "speaker": "USER"
       },
       {
@@ -33681,7 +33681,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "Then verify the demand; You need Body Double on rent with None subtitles.",
+        "utterance": "Then verify the demand; You need Body Double on rent without subtitles.",
         "speaker": "SYSTEM"
       },
       {
@@ -34034,7 +34034,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "No I don't want none subtitles.",
+        "utterance": "No I don't want any subtitles.",
         "speaker": "USER"
       },
       {
@@ -34066,7 +34066,7 @@
             "service": "Media_2"
           }
         ],
-        "utterance": "Playing The Mustang with none subtitles. Is that correct?",
+        "utterance": "Playing The Mustang with no subtitles. Is that correct?",
         "speaker": "SYSTEM"
       },
       {
