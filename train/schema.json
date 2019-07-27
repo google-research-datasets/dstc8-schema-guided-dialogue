@@ -906,7 +906,7 @@
   },
   {
     "service_name": "Homes_1",
-    "description": "A widely used service for finding aparments and scheduling visits",
+    "description": "A widely used service for finding apartments and scheduling visits",
     "slots": [
       {
         "name": "area",
@@ -2111,7 +2111,7 @@
       },
       {
         "name": "appointment_time",
-        "description": "Time of the appointmnet",
+        "description": "Time of the appointment",
         "is_categorical": false,
         "possible_values": []
       }
