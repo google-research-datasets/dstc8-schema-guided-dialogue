@@ -492,7 +492,7 @@
   },
   {
     "service_name": "Homes_1",
-    "description": "A widely used service for finding aparments and scheduling visits",
+    "description": "A widely used service for finding apartments and scheduling visits",
     "slots": [
       {
         "name": "area",
