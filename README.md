@@ -14,13 +14,20 @@ Pranav Khaitan
 | Sample data released. Development phase begins. | 06/18/2019            |
 | Single domain dataset (train + dev) released    | 07/07/2019            |
 | Multi domain dataset (train + dev) released     | 07/23/2019            |
-| Baseline Released                               | 08/04/2019 (expected) |
+| Evaluation Scripts released                     | 08/06/2019            |
+| Baseline Released                               | 08/11/2019 (expected) |
 | Test phase begins.                              | 10/07/2019            |
 | Entry submission deadline.                      | 10/13/2019            |
 | Objective evaluation completed.                 | 10/20/2019            |
 
 
 ### Updates
+
+**08/06/2019** - Scripts for evaluation and computing the different metrics
+have been released. You can access them
+[here](https://github.com/google-research/google-research/tree/master/schema_guided_dst).
+The expected date for baseline release has been updated. We apologize
+for any inconvenience caused by the delay in releasing the baseline.
 
 **07/23/2019** - Train and dev sets for multi domain dataset have been released.
 The dataset files have been renamed to accommodate additional dialogues in the
@@ -601,10 +608,10 @@ number of unique services belonging to the corresponding domain.
 
 ## Evaluation
 
-The following metrics are defined for evaluation of dialogue state tracking. A
-python script for computing these metrics will be released soon with additional
-details. The joint goal accuracy will be used as the primary metric for ranking
-submissions.
+The following metrics are defined for evaluation of dialogue state tracking. The
+joint goal accuracy will be used as the primary metric for ranking submissions.
+Python scripts for evaluation and computing the different metrics can be found
+[here](https://github.com/google-research/google-research/tree/master/schema_guided_dst).
 
 1.  **Active intent accuracy** - The fraction of user turns for which the active
     intent has been correctly predicted.
@@ -625,9 +632,9 @@ submissions.
     slots in this dataset, and the set of slots present in the training, dev and
     test set are not identical.
 5.  **Joint goal accuracy** - This is the average accuracy of predicting all
-    slot assignments for a turn correctly. A fuzzy matching based score is used
-    for non-categorical slots. This is the primary evaluation metric used for
-    ranking submissions. More details to follow with the evaluation script.
+    slot assignments for a turn correctly. This is the primary evaluation metric
+    used for ranking submissions. For non-categorical slots a fuzzy matching
+    score is used to reward partial matches with the ground truth.
 
 ## Rules
 
