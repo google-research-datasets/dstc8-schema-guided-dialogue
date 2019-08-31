@@ -66007,9 +66007,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -66065,9 +66062,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -66174,9 +66168,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -66244,9 +66235,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -66301,9 +66289,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -66715,9 +66700,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -66773,9 +66755,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -66882,9 +66861,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -66953,9 +66929,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67526,9 +67499,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67584,9 +67554,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67691,9 +67658,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67751,9 +67715,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67817,9 +67778,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -68357,9 +68315,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -68466,9 +68421,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -68537,9 +68489,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69159,9 +69108,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69265,9 +69211,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69323,9 +69266,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69867,9 +69807,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Altima"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69973,9 +69910,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Altima"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -70030,9 +69964,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Altima"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -70882,9 +70813,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -70940,9 +70868,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -71047,9 +70972,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -71104,9 +71026,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -71738,9 +71657,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -71846,9 +71762,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -71907,9 +71820,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -71974,9 +71884,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -72576,9 +72483,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -72683,9 +72587,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -72741,9 +72642,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -72799,9 +72697,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73236,9 +73131,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73293,9 +73185,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73399,9 +73288,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73456,9 +73342,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73970,9 +73853,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74078,9 +73958,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74148,9 +74025,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74636,9 +74510,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74744,9 +74615,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74813,9 +74681,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74869,9 +74734,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -75605,9 +75467,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota RAV4"
-                ],
                 "car_type": [
                   "Full-size"
                 ],
@@ -75663,9 +75522,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota RAV4"
-                ],
                 "car_type": [
                   "Full-size"
                 ],
@@ -75770,9 +75626,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota RAV4"
-                ],
                 "car_type": [
                   "Full-size"
                 ],
@@ -75828,9 +75681,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota RAV4"
-                ],
                 "car_type": [
                   "Full-size"
                 ],
@@ -76318,9 +76168,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -76425,9 +76272,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -76482,9 +76326,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -77188,9 +77029,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -77243,9 +77081,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -77351,9 +77186,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -77421,9 +77253,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -77939,9 +77768,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -77995,9 +77821,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -78100,9 +77923,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -78155,9 +77975,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -78210,9 +78027,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -78708,9 +78522,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -78817,9 +78628,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -78887,9 +78695,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -78944,9 +78749,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -79543,9 +79345,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -79600,9 +79399,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -79706,9 +79502,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -79763,9 +79556,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -79820,9 +79610,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -80409,9 +80196,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -80516,9 +80300,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -80574,9 +80355,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81120,9 +80898,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81177,9 +80952,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81285,9 +81057,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81354,9 +81123,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81410,9 +81176,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81957,9 +81720,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -82063,9 +81823,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -82120,9 +81877,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -82588,9 +82342,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -82697,9 +82448,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -82767,9 +82515,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -83236,9 +82981,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -83294,9 +83036,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -83401,9 +83140,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -83459,9 +83195,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -84111,9 +83844,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -84168,9 +83898,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -84274,9 +84001,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -84331,9 +84055,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -84791,9 +84512,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -84896,9 +84614,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -84954,9 +84669,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -85018,9 +84730,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -85074,9 +84783,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -85780,9 +85486,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -85887,9 +85590,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -85947,9 +85647,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -86013,9 +85710,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -86598,9 +86292,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -86654,9 +86345,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -86763,9 +86451,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -86834,9 +86519,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -87399,9 +87081,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -87505,9 +87184,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -87561,9 +87237,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -87617,9 +87290,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -88356,9 +88026,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -88414,9 +88081,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -88523,9 +88187,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -88593,9 +88254,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -88650,9 +88308,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -89371,9 +89026,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -89476,9 +89128,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -89532,9 +89181,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -90075,9 +89721,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -90133,9 +89776,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -90240,9 +89880,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -90300,9 +89937,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -90366,9 +90000,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -90424,9 +90055,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -90959,9 +90587,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -91015,9 +90640,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -91120,9 +90742,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -91175,9 +90794,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -91628,9 +91244,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -91735,9 +91348,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -91793,9 +91403,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -91851,9 +91458,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -92591,9 +92195,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Leaf"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -92698,9 +92299,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Nissan Leaf"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -92768,9 +92366,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Leaf"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -92825,9 +92420,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Leaf"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -93325,9 +92917,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -93432,9 +93021,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -93491,9 +93077,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -94209,9 +93792,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -94267,9 +93847,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -94374,9 +93951,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -94431,9 +94005,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -95047,9 +94618,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -95153,9 +94721,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -95212,9 +94777,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -95277,9 +94839,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -95966,9 +95525,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -96075,9 +95631,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -96147,9 +95700,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -96731,9 +96281,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -96837,9 +96384,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -96894,9 +96438,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -96951,9 +96492,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -97454,9 +96992,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -97560,9 +97095,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -97617,9 +97149,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -97674,9 +97203,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],

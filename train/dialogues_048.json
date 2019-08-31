@@ -90,9 +90,6 @@
                 ],
                 "date": [
                   "the 8th"
-                ],
-                "temperature": [
-                  "100"
                 ]
               }
             }
@@ -175,9 +172,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -247,9 +241,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "check_in_date": [
                   "Wednesday next week"
                 ],
@@ -343,9 +334,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "check_in_date": [
                   "March 6th",
                   "Wednesday next week"
@@ -424,9 +412,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "check_in_date": [
                   "March 6th",
                   "Wednesday next week"
@@ -613,9 +598,6 @@
                 ],
                 "date": [
                   "7th of March"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -693,9 +675,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -735,9 +714,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -796,9 +772,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "check_in_date": [
                   "7th of March",
                   "March 7th"
@@ -884,9 +857,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "check_in_date": [
                   "7th of March",
                   "March 7th"
@@ -938,9 +908,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "check_in_date": [
                   "7th of March",
                   "March 7th"
@@ -1009,9 +976,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "check_in_date": [
                   "7th of March",
                   "March 7th"
@@ -1060,9 +1024,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "check_in_date": [
                   "7th of March",
                   "March 7th"
@@ -1276,9 +1237,6 @@
               "slot_values": {
                 "city": [
                   "London"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -1409,9 +1367,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Baffin Way"
-                ],
                 "where_to": [
                   "London"
                 ]
@@ -1467,9 +1422,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Baffin Way"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -1512,9 +1464,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Baffin Way"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -1599,9 +1548,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Baffin Way"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -1648,9 +1594,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Baffin Way"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -1697,9 +1640,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Baffin Way"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -1878,9 +1818,6 @@
               "slot_values": {
                 "city": [
                   "New York"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -2007,9 +1944,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -2049,9 +1983,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -2115,9 +2046,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -2205,9 +2133,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -2256,9 +2181,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -2547,9 +2469,6 @@
                 ],
                 "date": [
                   "13th of March"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -2635,9 +2554,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "check_in_date": [
                   "March 12th"
                 ],
@@ -2692,9 +2608,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "check_in_date": [
                   "March 12th"
                 ],
@@ -2796,9 +2709,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "check_in_date": [
                   "March 10th"
                 ],
@@ -2873,9 +2783,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "check_in_date": [
                   "March 10th"
                 ],
@@ -2942,9 +2849,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "check_in_date": [
                   "March 10th"
                 ],
@@ -2998,9 +2902,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "check_in_date": [
                   "March 10th"
                 ],
@@ -3138,9 +3039,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -3223,9 +3121,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -3273,9 +3168,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -3335,9 +3227,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "7th of this month"
                 ],
@@ -3392,9 +3281,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "7th of this month"
                 ],
@@ -3485,9 +3371,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "7th of this month",
                   "March 7th"
@@ -3545,9 +3428,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "7th of this month",
                   "March 7th"
@@ -3622,9 +3502,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "7th of this month",
                   "March 7th"
@@ -3679,9 +3556,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "7th of this month",
                   "March 7th"
@@ -3841,9 +3715,6 @@
               "slot_values": {
                 "city": [
                   "New York City"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -3911,9 +3782,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -3959,9 +3827,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_out_date": [
                   "next Wednesday"
                 ],
@@ -4012,9 +3877,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -4099,9 +3961,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -4151,9 +4010,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -4212,9 +4068,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -4277,9 +4130,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -4509,9 +4359,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -4834,9 +4681,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "13A, District Centre, Mayur Vihar, New Delhi"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -4884,9 +4728,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "13A, District Centre, Mayur Vihar, New Delhi"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -4956,9 +4797,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "13A, District Centre, Mayur Vihar, New Delhi"
-                ],
                 "check_in_date": [
                   "Monday next week"
                 ],
@@ -5049,9 +4887,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "13A, District Centre, Mayur Vihar, New Delhi"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "Monday next week"
@@ -5106,9 +4941,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "13A, District Centre, Mayur Vihar, New Delhi"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "Monday next week"
@@ -5169,9 +5001,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "13A, District Centre, Mayur Vihar, New Delhi"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "Monday next week"
@@ -5402,9 +5231,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -5613,9 +5439,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1414 West Peachtree Street Northwest"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -5674,9 +5497,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1414 West Peachtree Street Northwest"
-                ],
                 "check_in_date": [
                   "MArch 9th"
                 ],
@@ -5770,9 +5590,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1414 West Peachtree Street Northwest"
-                ],
                 "check_in_date": [
                   "MArch 9th",
                   "March 9th"
@@ -5840,9 +5657,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1414 West Peachtree Street Northwest"
-                ],
                 "check_in_date": [
                   "MArch 9th",
                   "March 9th"
@@ -5897,9 +5711,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1414 West Peachtree Street Northwest"
-                ],
                 "check_in_date": [
                   "MArch 9th",
                   "March 9th"
@@ -6108,9 +5919,6 @@
                 ],
                 "date": [
                   "the 8th"
-                ],
-                "temperature": [
-                  "98"
                 ]
               }
             }
@@ -6178,9 +5986,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "where_to": [
                   "New Delhi"
                 ]
@@ -6219,9 +6024,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "where_to": [
                   "New Delhi"
                 ]
@@ -6277,9 +6079,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -6328,9 +6127,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -6417,9 +6213,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -6480,9 +6273,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -6530,9 +6320,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -6653,9 +6440,6 @@
               "slot_values": {
                 "city": [
                   "Chicago"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -6723,9 +6507,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "where_to": [
                   "Chicago"
                 ]
@@ -6775,9 +6556,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -6864,9 +6642,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -6928,9 +6703,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -6985,9 +6757,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -7287,9 +7056,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -7357,9 +7123,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "where_to": [
                   "Atlanta, GA"
                 ]
@@ -7409,9 +7172,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "March 3rd 2019"
@@ -7455,9 +7215,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "March 3rd 2019"
@@ -7545,9 +7302,6 @@
                 "has_laundry_service"
               ],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "March 3rd 2019"
@@ -7603,9 +7357,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "March 3rd 2019"
@@ -7654,9 +7405,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "March 3rd 2019"
@@ -7810,9 +7558,6 @@
               "slot_values": {
                 "city": [
                   "Toronto"
-                ],
-                "temperature": [
-                  "58"
                 ]
               }
             }
@@ -7943,9 +7688,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "where_to": [
                   "Toronto"
                 ]
@@ -7990,9 +7732,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "check_in_date": [
                   "later today"
                 ],
@@ -8032,9 +7771,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "check_in_date": [
                   "later today"
                 ],
@@ -8083,9 +7819,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "check_in_date": [
                   "later today"
                 ],
@@ -8172,9 +7905,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "check_in_date": [
                   "March 1st",
                   "later today"
@@ -8234,9 +7964,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "check_in_date": [
                   "March 1st",
                   "later today"
@@ -8283,9 +8010,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "check_in_date": [
                   "March 1st",
                   "later today"
@@ -8405,9 +8129,6 @@
               "slot_values": {
                 "city": [
                   "Phoenix, AZ"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -8501,9 +8222,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -8545,9 +8263,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -8600,9 +8315,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -8654,9 +8366,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -8747,9 +8456,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -8825,9 +8531,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -8878,9 +8581,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -9015,9 +8715,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -9097,9 +8794,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -9144,9 +8838,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -9195,9 +8886,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "check_out_date": [
                   "March 10th",
                   "March 10th 2019"
@@ -9258,9 +8946,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "check_in_date": [
                   "6th of this month"
                 ],
@@ -9349,9 +9034,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "check_in_date": [
                   "6th of this month",
                   "March 6th"
@@ -9402,9 +9084,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "check_in_date": [
                   "6th of this month",
                   "March 6th"
@@ -9455,9 +9134,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "check_in_date": [
                   "6th of this month",
                   "March 6th"
@@ -9629,9 +9305,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -9809,9 +9482,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1006 Spring Street"
-                ],
                 "where_to": [
                   "Seattle"
                 ]
@@ -9850,9 +9520,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1006 Spring Street"
-                ],
                 "where_to": [
                   "Seattle"
                 ]
@@ -9900,9 +9567,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1006 Spring Street"
-                ],
                 "check_out_date": [
                   "next Thursday"
                 ],
@@ -9953,9 +9617,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1006 Spring Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -10042,9 +9703,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1006 Spring Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -10104,9 +9762,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1006 Spring Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -10153,9 +9808,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1006 Spring Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -10275,9 +9927,6 @@
               "slot_values": {
                 "city": [
                   "New York City"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -10503,9 +10152,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard, East Elmhurst, NY 11369, USA"
-                ],
                 "rating": [
                   "3.8"
                 ],
@@ -10553,9 +10199,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard, East Elmhurst, NY 11369, USA"
-                ],
                 "check_out_date": [
                   "5th of this month"
                 ],
@@ -10609,9 +10252,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard, East Elmhurst, NY 11369, USA"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -10702,9 +10342,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard, East Elmhurst, NY 11369, USA"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -10775,9 +10412,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard, East Elmhurst, NY 11369, USA"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -10828,9 +10462,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard, East Elmhurst, NY 11369, USA"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -11002,9 +10633,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "60"
                 ]
               }
             }
@@ -11081,9 +10709,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "rating": [
                   "3.7"
                 ],
@@ -11125,9 +10750,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "rating": [
                   "3.7"
                 ],
@@ -11180,9 +10802,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -11234,9 +10853,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -11324,9 +10940,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -11391,9 +11004,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -11445,9 +11055,6 @@
                 "has_laundry_service"
               ],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -11499,9 +11106,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -11656,9 +11260,6 @@
               "slot_values": {
                 "city": [
                   "vancouver, bc"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -11780,9 +11381,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 granville street"
-                ],
                 "where_to": [
                   "vancouver, bc"
                 ]
@@ -11830,9 +11428,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 granville street"
-                ],
                 "check_in_date": [
                   "1st of this month"
                 ],
@@ -11875,9 +11470,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 granville street"
-                ],
                 "check_in_date": [
                   "1st of this month"
                 ],
@@ -11964,9 +11556,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1018 granville street"
-                ],
                 "check_in_date": [
                   "1st of this month",
                   "march 1st"
@@ -12028,9 +11617,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 granville street"
-                ],
                 "check_in_date": [
                   "1st of this month",
                   "march 1st"
@@ -12079,9 +11665,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 granville street"
-                ],
                 "check_in_date": [
                   "1st of this month",
                   "march 1st"
@@ -12251,9 +11834,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -12380,9 +11960,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "check_in_date": [
                   "this Sunday"
                 ],
@@ -12433,9 +12010,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "check_in_date": [
                   "this Sunday"
                 ],
@@ -12522,9 +12096,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "this Sunday"
@@ -12586,9 +12157,6 @@
                 "has_laundry_service"
               ],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "this Sunday"
@@ -12637,9 +12205,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "this Sunday"
@@ -12686,9 +12251,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "this Sunday"
@@ -12819,9 +12381,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -12904,9 +12463,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -12952,9 +12508,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -13019,9 +12572,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "check_in_date": [
                   "March 7th"
                 ],
@@ -13112,9 +12662,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "check_in_date": [
                   "March 7th"
                 ],
@@ -13166,9 +12713,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "check_in_date": [
                   "March 7th"
                 ],
@@ -13341,9 +12885,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -13424,9 +12965,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "check_in_date": [
                   "the 10th"
                 ],
@@ -13475,9 +13013,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "check_in_date": [
                   "the 10th"
                 ],
@@ -13565,9 +13100,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "check_in_date": [
                   "March 10th",
                   "the 10th"
@@ -13636,9 +13168,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "check_in_date": [
                   "March 10th",
                   "the 10th"
@@ -13687,9 +13216,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "check_in_date": [
                   "March 10th",
                   "the 10th"
@@ -13822,9 +13348,6 @@
                 ],
                 "date": [
                   "Friday next week"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -13899,9 +13422,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 washington circle northwest, washington, district of columbia 20037, united states"
-                ],
                 "where_to": [
                   "washington"
                 ]
@@ -13962,9 +13482,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 washington circle northwest, washington, district of columbia 20037, united states"
-                ],
                 "check_in_date": [
                   "6th of march"
                 ],
@@ -14007,9 +13524,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 washington circle northwest, washington, district of columbia 20037, united states"
-                ],
                 "check_in_date": [
                   "6th of march"
                 ],
@@ -14094,9 +13608,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 washington circle northwest, washington, district of columbia 20037, united states"
-                ],
                 "check_in_date": [
                   "6th of march",
                   "march 6th"
@@ -14145,9 +13656,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 washington circle northwest, washington, district of columbia 20037, united states"
-                ],
                 "check_in_date": [
                   "6th of march",
                   "march 6th"
@@ -14280,9 +13788,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "97"
                 ]
               }
             }
@@ -14369,9 +13874,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -14427,9 +13929,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "check_in_date": [
                   "the 7th"
                 ],
@@ -14520,9 +14019,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "check_in_date": [
                   "March 7th",
                   "the 7th"
@@ -14597,9 +14093,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "check_in_date": [
                   "March 7th",
                   "the 7th"
@@ -14649,9 +14142,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "check_in_date": [
                   "March 7th",
                   "the 7th"
@@ -14822,9 +14312,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -14978,9 +14465,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "where_to": [
                   "Paris"
                 ]
@@ -15019,9 +14503,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -15075,9 +14556,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "the 9th"
                 ],
@@ -15126,9 +14604,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "the 9th"
                 ],
@@ -15215,9 +14690,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 9th",
                   "the 9th"
@@ -15277,9 +14749,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 9th",
                   "the 9th"
@@ -15326,9 +14795,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 9th",
                   "the 9th"
@@ -15480,9 +14946,6 @@
               "slot_values": {
                 "city": [
                   "Philly"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -15627,9 +15090,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -15683,9 +15143,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_out_date": [
                   "6th of this month"
                 ],
@@ -15742,9 +15199,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -15837,9 +15291,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -15906,9 +15357,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -16035,9 +15483,6 @@
               "slot_values": {
                 "city": [
                   "Las Vegas"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -16105,9 +15550,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "where_to": [
                   "Las Vegas"
                 ]
@@ -16152,9 +15594,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -16203,9 +15642,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -16290,9 +15726,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -16339,9 +15772,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -16472,9 +15902,6 @@
                 ],
                 "date": [
                   "1st of this month"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -16779,9 +16206,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2926 Tulare Street"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -16823,9 +16247,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2926 Tulare Street"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -16884,9 +16305,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2926 Tulare Street"
-                ],
                 "check_in_date": [
                   "1st of this month",
                   "March 1st"
@@ -16978,9 +16396,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2926 Tulare Street"
-                ],
                 "check_in_date": [
                   "1st of this month",
                   "March 1st"
@@ -17045,9 +16460,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "2926 Tulare Street"
-                ],
                 "check_in_date": [
                   "1st of this month",
                   "March 1st"
@@ -17109,9 +16521,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2926 Tulare Street"
-                ],
                 "check_in_date": [
                   "1st of this month",
                   "March 1st"
@@ -17160,9 +16569,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2926 Tulare Street"
-                ],
                 "check_in_date": [
                   "1st of this month",
                   "March 1st"
@@ -17332,9 +16738,6 @@
                 ],
                 "date": [
                   "next Tuesday"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -17521,9 +16924,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -17571,9 +16971,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "check_out_date": [
                   "the 11th"
                 ],
@@ -17635,9 +17032,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "check_in_date": [
                   "next Monday"
                 ],
@@ -17725,9 +17119,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "next Monday"
@@ -17796,9 +17187,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "next Monday"
@@ -17847,9 +17235,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "next Monday"
@@ -17971,9 +17356,6 @@
               "slot_values": {
                 "city": [
                   "Toronto, Ontario"
-                ],
-                "temperature": [
-                  "58"
                 ]
               }
             }
@@ -18048,9 +17430,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "where_to": [
                   "Toronto, Ontario"
                 ]
@@ -18093,9 +17472,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_out_date": [
                   "next Friday"
                 ],
@@ -18135,9 +17511,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_out_date": [
                   "next Friday"
                 ],
@@ -18188,9 +17561,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -18278,9 +17648,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -18348,9 +17715,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -18398,9 +17762,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -18708,9 +18069,6 @@
                 ],
                 "date": [
                   "1st of March"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -18778,9 +18136,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "LA"
                 ]
@@ -18841,9 +18196,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -18929,9 +18281,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -18980,9 +18329,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -19031,9 +18377,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -19270,9 +18613,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -19465,9 +18805,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Hosking Place"
-                ],
                 "rating": [
                   "3.6"
                 ],
@@ -19520,9 +18857,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Hosking Place"
-                ],
                 "check_in_date": [
                   "next Tuesday"
                 ],
@@ -19569,9 +18903,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Hosking Place"
-                ],
                 "check_in_date": [
                   "next Tuesday"
                 ],
@@ -19662,9 +18993,6 @@
                 "has_laundry_service"
               ],
               "slot_values": {
-                "address": [
-                  "1 Hosking Place"
-                ],
                 "check_in_date": [
                   "March 5th",
                   "next Tuesday"
@@ -19725,9 +19053,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1 Hosking Place"
-                ],
                 "check_in_date": [
                   "March 5th",
                   "next Tuesday"
@@ -19787,9 +19112,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Hosking Place"
-                ],
                 "check_in_date": [
                   "March 5th",
                   "next Tuesday"
@@ -20023,9 +19345,6 @@
                 ],
                 "date": [
                   "1st of March"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -20140,9 +19459,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "where_to": [
                   "Washington"
                 ]
@@ -20181,9 +19497,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "where_to": [
                   "Washington"
                 ]
@@ -20231,9 +19544,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "check_out_date": [
                   "8th of this month"
                 ],
@@ -20284,9 +19594,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -20374,9 +19681,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -20440,9 +19744,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -20499,9 +19800,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -20717,9 +20015,6 @@
               "slot_values": {
                 "city": [
                   "Portland, OR"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -20896,9 +20191,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "where_to": [
                   "Portland, OR"
                 ]
@@ -20943,9 +20235,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_out_date": [
                   "the 5th"
                 ],
@@ -20996,9 +20285,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -21083,9 +20369,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -21133,9 +20416,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -21183,9 +20463,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -21415,9 +20692,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "105"
                 ]
               }
             }
@@ -21747,9 +21021,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -21797,9 +21068,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -21851,9 +21119,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "check_out_date": [
                   "The 5th"
                 ],
@@ -21910,9 +21175,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -22006,9 +21268,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -22086,9 +21345,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -22141,9 +21397,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -22329,9 +21582,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -22514,9 +21764,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "132 South Central Avenue"
-                ],
                 "check_in_date": [
                   "Sunday this week"
                 ],
@@ -22616,9 +21863,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "132 South Central Avenue"
-                ],
                 "check_in_date": [
                   "5th of March 2019",
                   "March 5th"
@@ -22691,9 +21935,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "132 South Central Avenue"
-                ],
                 "check_in_date": [
                   "5th of March 2019",
                   "March 5th"
@@ -22764,9 +22005,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "132 South Central Avenue"
-                ],
                 "check_in_date": [
                   "5th of March 2019",
                   "March 5th"
@@ -22817,9 +22055,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "132 South Central Avenue"
-                ],
                 "check_in_date": [
                   "5th of March 2019",
                   "March 5th"
@@ -22975,9 +22210,6 @@
               "slot_values": {
                 "city": [
                   "Paris, France"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -23099,9 +22331,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "where_to": [
                   "Paris, France"
                 ]
@@ -23162,9 +22391,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -23249,9 +22475,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -23299,9 +22522,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -23349,9 +22569,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -23518,9 +22735,6 @@
               "slot_values": {
                 "city": [
                   "Sydney"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -23788,9 +23002,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11 Hickson Road Walsh Bay"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -23844,9 +23055,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11 Hickson Road Walsh Bay"
-                ],
                 "check_out_date": [
                   "the 8th"
                 ],
@@ -23903,9 +23111,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11 Hickson Road Walsh Bay"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -23996,9 +23201,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11 Hickson Road Walsh Bay"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -24051,9 +23253,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11 Hickson Road Walsh Bay"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -24106,9 +23305,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11 Hickson Road Walsh Bay"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -24380,9 +23576,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -24457,9 +23650,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix"
                 ]
@@ -24498,9 +23688,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix"
                 ]
@@ -24561,9 +23748,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 6th"
                 ],
@@ -24648,9 +23832,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 6th"
                 ],
@@ -24696,9 +23877,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 6th"
                 ],
@@ -24744,9 +23922,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 6th"
                 ],
@@ -24911,9 +24086,6 @@
               "slot_values": {
                 "city": [
                   "LA"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -24987,9 +24159,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_out_date": [
                   "this Saturday"
                 ],
@@ -25042,9 +24211,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -25129,9 +24295,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -25179,9 +24342,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -25313,9 +24473,6 @@
                 ],
                 "date": [
                   "Saturday this week"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -25383,9 +24540,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "San Francisco"
                 ]
@@ -25424,9 +24578,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "San Francisco"
                 ]
@@ -25469,9 +24620,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "check_out_date": [
                   "March 3rd"
                 ],
@@ -25530,9 +24678,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -25619,9 +24764,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -25683,9 +24825,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -25746,9 +24885,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -25794,9 +24930,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -25947,9 +25080,6 @@
               "slot_values": {
                 "city": [
                   "New Delhi"
-                ],
-                "temperature": [
-                  "99"
                 ]
               }
             }
@@ -26089,9 +25219,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "check_in_date": [
                   "today"
                 ],
@@ -26176,9 +25303,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "check_in_date": [
                   "March 1st",
                   "today"
@@ -26226,9 +25350,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "check_in_date": [
                   "March 1st",
                   "today"
@@ -26422,9 +25543,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -26546,9 +25664,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "where_to": [
                   "Paris"
                 ]
@@ -26587,9 +25702,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "where_to": [
                   "Paris"
                 ]
@@ -26650,9 +25762,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -26743,9 +25852,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -26808,9 +25914,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -26870,9 +25973,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -27172,9 +26272,6 @@
                 ],
                 "date": [
                   "this Sunday"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -27308,9 +26405,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -27350,9 +26444,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -27403,9 +26494,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "this Sunday"
@@ -27458,9 +26546,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "this Sunday"
@@ -27552,9 +26637,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "this Sunday"
@@ -27619,9 +26701,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "check_in_date": [
                   "March 3rd",
                   "this Sunday"
@@ -27778,9 +26857,6 @@
               "slot_values": {
                 "city": [
                   "Paris"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -27975,9 +27051,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "number_of_adults": [
                   "4"
                 ],
@@ -28025,9 +27098,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "check_out_date": [
                   "7th of March"
                 ],
@@ -28078,9 +27148,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -28165,9 +27232,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -28217,9 +27281,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -28281,9 +27342,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -28330,9 +27388,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -28530,9 +27585,6 @@
               "slot_values": {
                 "city": [
                   "LA"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -28607,9 +27659,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "LA"
                 ]
@@ -28648,9 +27697,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "LA"
                 ]
@@ -28700,9 +27746,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -28751,9 +27794,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -28838,9 +27878,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -28891,9 +27928,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -28956,9 +27990,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -29090,9 +28121,6 @@
                 ],
                 "date": [
                   "5th of this month"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -29246,9 +28274,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "where_to": [
                   "Philly"
                 ]
@@ -29293,9 +28318,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -29341,9 +28363,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -29386,9 +28405,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -29475,9 +28491,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -29538,9 +28551,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -29588,9 +28598,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -29821,9 +28828,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -29891,9 +28895,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "where_to": [
                   "Washington"
                 ]
@@ -29932,9 +28933,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "where_to": [
                   "Washington"
                 ]
@@ -29995,9 +28993,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -30082,9 +29077,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -30132,9 +29124,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -30182,9 +29171,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Washington Circle Northwest, Washington, District of Columbia 20037, United States"
-                ],
                 "check_in_date": [
                   "March 2nd"
                 ],
@@ -30353,9 +29339,6 @@
                 ],
                 "date": [
                   "Tuesday next week"
-                ],
-                "temperature": [
-                  "61"
                 ]
               }
             }
@@ -30423,9 +29406,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "where_to": [
                   "Seattle, WA"
                 ]
@@ -30464,9 +29444,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "where_to": [
                   "Seattle, WA"
                 ]
@@ -30532,9 +29509,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "check_in_date": [
                   "day after tomorrow"
                 ],
@@ -30625,9 +29599,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "check_in_date": [
                   "next Monday"
                 ],
@@ -30693,9 +29664,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "next Monday"
@@ -30764,9 +29732,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "next Monday"
@@ -31006,9 +29971,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "96"
                 ]
               }
             }
@@ -31137,9 +30099,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "where_to": [
                   "Sydney, Australia"
                 ]
@@ -31176,9 +30135,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -31224,9 +30180,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "check_out_date": [
                   "March 7th"
                 ],
@@ -31277,9 +30230,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -31366,9 +30316,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1 Columbia court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -31428,9 +30375,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -31668,9 +30612,6 @@
                 ],
                 "date": [
                   "Saturday this week"
-                ],
-                "temperature": [
-                  "101"
                 ]
               }
             }
@@ -31945,9 +30886,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Salisbury Road, Castle Hill New South Wales 2154, Australia"
-                ],
                 "check_in_date": [
                   "2nd of March 2019",
                   "Saturday this week"
@@ -32036,9 +30974,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Salisbury Road, Castle Hill New South Wales 2154, Australia"
-                ],
                 "check_in_date": [
                   "2nd of March 2019",
                   "March 2nd",
@@ -32090,9 +31025,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Salisbury Road, Castle Hill New South Wales 2154, Australia"
-                ],
                 "check_in_date": [
                   "2nd of March 2019",
                   "March 2nd",
@@ -32217,9 +31149,6 @@
               "slot_values": {
                 "city": [
                   "Portland, OR"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -32351,9 +31280,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "check_in_date": [
                   "1st of March"
                 ],
@@ -32438,9 +31364,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -32492,9 +31415,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -32558,9 +31478,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -32682,9 +31599,6 @@
               "slot_values": {
                 "city": [
                   "Seattle, WA"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -32924,9 +31838,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -32974,9 +31885,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -33041,9 +31949,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -33136,9 +32041,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -33206,9 +32108,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -33269,9 +32168,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -33324,9 +32220,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -33452,9 +32345,6 @@
               "slot_values": {
                 "city": [
                   "Nairobi"
-                ],
-                "temperature": [
-                  "105"
                 ]
               }
             }
@@ -33704,9 +32594,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Elgon Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -33773,9 +32660,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Elgon Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -33869,9 +32753,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "Elgon Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -33949,9 +32830,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Elgon Road"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -34088,9 +32966,6 @@
                 ],
                 "date": [
                   "5th of this month"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -34342,9 +33217,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "102 West 57th Street"
-                ],
                 "check_out_date": [
                   "5th of this month",
                   "March 5th 2019"
@@ -34407,9 +33279,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "102 West 57th Street"
-                ],
                 "check_in_date": [
                   "4th of March"
                 ],
@@ -34499,9 +33368,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "102 West 57th Street"
-                ],
                 "check_in_date": [
                   "4th of March",
                   "March 4th"
@@ -34553,9 +33419,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "102 West 57th Street"
-                ],
                 "check_in_date": [
                   "4th of March",
                   "March 4th"
@@ -34607,9 +33470,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "102 West 57th Street"
-                ],
                 "check_in_date": [
                   "4th of March",
                   "March 4th"
@@ -34782,9 +33642,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -34906,9 +33763,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "where_to": [
                   "Vancouver, BC"
                 ]
@@ -34947,9 +33801,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -35013,9 +33864,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "check_in_date": [
                   "Saturday this week"
                 ],
@@ -35100,9 +33948,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "check_in_date": [
                   "March 2nd",
                   "Saturday this week"
@@ -35153,9 +33998,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "check_in_date": [
                   "March 2nd",
                   "Saturday this week"
@@ -35212,9 +34054,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "check_in_date": [
                   "March 2nd",
                   "Saturday this week"
@@ -35347,9 +34186,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -35543,9 +34379,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -35596,9 +34429,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "check_in_date": [
                   "6th of this month"
                 ],
@@ -35650,9 +34480,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "check_in_date": [
                   "6th of this month"
                 ],
@@ -35752,9 +34579,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "check_in_date": [
                   "Friday next week"
                 ],
@@ -35824,9 +34648,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "check_in_date": [
                   "Friday next week",
                   "MArch 8th"
@@ -35880,9 +34701,6 @@
                 "has_laundry_service"
               ],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "check_in_date": [
                   "Friday next week",
                   "MArch 8th"
@@ -35936,9 +34754,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "check_in_date": [
                   "Friday next week",
                   "MArch 8th"
@@ -36303,9 +35118,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -36389,9 +35201,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "rating": [
                   "4.2"
                 ],
@@ -36431,9 +35240,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "rating": [
                   "4.2"
                 ],
@@ -36479,9 +35285,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_out_date": [
                   "March 8th"
                 ],
@@ -36524,9 +35327,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_out_date": [
                   "March 8th"
                 ],
@@ -36580,9 +35380,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -36676,9 +35473,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -36746,9 +35540,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -36824,9 +35615,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -36877,9 +35665,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -37056,9 +35841,6 @@
                 ],
                 "date": [
                   "next Friday"
-                ],
-                "temperature": [
-                  "85"
                 ]
               }
             }
@@ -37315,9 +36097,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1121 15th Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -37359,9 +36138,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1121 15th Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -37425,9 +36201,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1121 15th Street"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -37515,9 +36288,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1121 15th Street"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -37585,9 +36355,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1121 15th Street"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -37635,9 +36402,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1121 15th Street"
-                ],
                 "check_in_date": [
                   "March 5th"
                 ],
@@ -37758,9 +36522,6 @@
               "slot_values": {
                 "city": [
                   "Portland"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -37835,9 +36596,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "where_to": [
                   "Portland"
                 ]
@@ -37876,9 +36634,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "where_to": [
                   "Portland"
                 ]
@@ -37939,9 +36694,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -38028,9 +36780,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -38093,9 +36842,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -38157,9 +36903,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -38206,9 +36949,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -38374,9 +37114,6 @@
               "slot_values": {
                 "city": [
                   "Chi-town"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -38544,9 +37281,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Grand Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -38603,9 +37337,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Grand Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -38696,9 +37427,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Grand Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -38755,9 +37483,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "10 East Grand Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -38831,9 +37556,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Grand Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -38887,9 +37609,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Grand Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -39016,9 +37735,6 @@
               "slot_values": {
                 "city": [
                   "Portland, OR"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -39275,9 +37991,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11936 Northeast Glenn Widing Drive"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -39325,9 +38038,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11936 Northeast Glenn Widing Drive"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -39381,9 +38091,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11936 Northeast Glenn Widing Drive"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -39438,9 +38145,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11936 Northeast Glenn Widing Drive"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -39531,9 +38235,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11936 Northeast Glenn Widing Drive"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -39587,9 +38288,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11936 Northeast Glenn Widing Drive"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -39727,9 +38425,6 @@
                 ],
                 "date": [
                   "11th of March"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -39804,9 +38499,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix"
                 ]
@@ -39856,9 +38548,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "Tuesday next week"
                 ],
@@ -39902,9 +38591,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "Tuesday next week"
                 ],
@@ -39992,9 +38678,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 5th",
                   "Tuesday next week"
@@ -40056,9 +38739,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 5th",
                   "Tuesday next week"
@@ -40107,9 +38787,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "check_in_date": [
                   "March 5th",
                   "Tuesday next week"
@@ -40231,9 +38908,6 @@
               "slot_values": {
                 "city": [
                   "sacramento"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -40347,9 +39021,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 capitol mall"
-                ],
                 "where_to": [
                   "sacramento"
                 ]
@@ -40392,9 +39063,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 capitol mall"
-                ],
                 "check_out_date": [
                   "7th of this month"
                 ],
@@ -40434,9 +39102,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 capitol mall"
-                ],
                 "check_out_date": [
                   "7th of this month"
                 ],
@@ -40487,9 +39152,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 capitol mall"
-                ],
                 "check_in_date": [
                   "march 1st"
                 ],
@@ -40574,9 +39236,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 capitol mall"
-                ],
                 "check_in_date": [
                   "march 1st"
                 ],
@@ -40623,9 +39282,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 capitol mall"
-                ],
                 "check_in_date": [
                   "march 1st"
                 ],
@@ -40672,9 +39328,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 capitol mall"
-                ],
                 "check_in_date": [
                   "march 1st"
                 ],
@@ -40886,9 +39539,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -41122,9 +39772,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1110 West Katella Avenue"
-                ],
                 "where_to": [
                   "Anaheim"
                 ]
@@ -41163,9 +39810,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1110 West Katella Avenue"
-                ],
                 "where_to": [
                   "Anaheim"
                 ]
@@ -41216,9 +39860,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1110 West Katella Avenue"
-                ],
                 "check_in_date": [
                   "3rd of this month"
                 ],
@@ -41269,9 +39910,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1110 West Katella Avenue"
-                ],
                 "check_in_date": [
                   "3rd of this month"
                 ],
@@ -41360,9 +39998,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1110 West Katella Avenue"
-                ],
                 "check_in_date": [
                   "3rd of this month",
                   "March 3rd"
@@ -41430,9 +40065,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1110 West Katella Avenue"
-                ],
                 "check_in_date": [
                   "3rd of this month",
                   "March 3rd"
@@ -41585,9 +40217,6 @@
               "slot_values": {
                 "city": [
                   "London, England"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -41720,9 +40349,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -41807,9 +40433,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -41857,9 +40480,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -42154,9 +40774,6 @@
                 ],
                 "date": [
                   "MArch 12th"
-                ],
-                "temperature": [
-                  "64"
                 ]
               }
             }
@@ -42235,9 +40852,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "11th of March",
                   "11th of March 2019"
@@ -42329,9 +40943,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "the 9th"
                 ],
@@ -42397,9 +41008,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 9th",
                   "the 9th"
@@ -42473,9 +41081,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 9th",
                   "the 9th"
@@ -42524,9 +41129,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "check_in_date": [
                   "March 9th",
                   "the 9th"
@@ -42696,9 +41298,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -42997,9 +41596,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1075 Thomas Jefferson Street Northwest, Washington, District of Columbia 20007, United States"
-                ],
                 "check_in_date": [
                   "March 3rd"
                 ],
@@ -43090,9 +41686,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1075 Thomas Jefferson Street Northwest, Washington, District of Columbia 20007, United States"
-                ],
                 "check_in_date": [
                   "March 3rd"
                 ],
@@ -43144,9 +41737,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1075 Thomas Jefferson Street Northwest, Washington, District of Columbia 20007, United States"
-                ],
                 "check_in_date": [
                   "March 3rd"
                 ],
@@ -43198,9 +41788,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1075 Thomas Jefferson Street Northwest, Washington, District of Columbia 20007, United States"
-                ],
                 "check_in_date": [
                   "March 3rd"
                 ],
@@ -43373,9 +41960,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -43462,9 +42046,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1331 pennsylvania avenue northwest, washington, district of columbia, 20004, united states"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -43509,9 +42090,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1331 pennsylvania avenue northwest, washington, district of columbia, 20004, united states"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -43578,9 +42156,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1331 pennsylvania avenue northwest, washington, district of columbia, 20004, united states"
-                ],
                 "check_in_date": [
                   "march 9th"
                 ],
@@ -43629,9 +42204,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1331 pennsylvania avenue northwest, washington, district of columbia, 20004, united states"
-                ],
                 "check_in_date": [
                   "march 9th"
                 ],
@@ -43725,9 +42297,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1331 pennsylvania avenue northwest, washington, district of columbia, 20004, united states"
-                ],
                 "check_in_date": [
                   "march 9th"
                 ],
@@ -43806,9 +42375,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1331 pennsylvania avenue northwest, washington, district of columbia, 20004, united states"
-                ],
                 "check_in_date": [
                   "march 9th"
                 ],
@@ -43862,9 +42428,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1331 pennsylvania avenue northwest, washington, district of columbia, 20004, united states"
-                ],
                 "check_in_date": [
                   "march 9th"
                 ],
@@ -44023,9 +42586,6 @@
               "slot_values": {
                 "city": [
                   "Fresno"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -44111,9 +42671,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1055 Van Ness Avenue"
-                ],
                 "check_in_date": [
                   "1st of March"
                 ],
@@ -44201,9 +42758,6 @@
                 "phone_number"
               ],
               "slot_values": {
-                "address": [
-                  "1055 Van Ness Avenue"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -44271,9 +42825,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1055 Van Ness Avenue"
-                ],
                 "check_in_date": [
                   "1st of March",
                   "March 1st"
@@ -44470,9 +43021,6 @@
                 ],
                 "date": [
                   "Monday next week"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -44729,9 +43277,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2219 North Rancho Drive"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -44784,9 +43329,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2219 North Rancho Drive"
-                ],
                 "check_in_date": [
                   "March 4th 2019",
                   "Monday next week"
@@ -44872,9 +43414,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2219 North Rancho Drive"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "March 4th 2019",
@@ -44923,9 +43462,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2219 North Rancho Drive"
-                ],
                 "check_in_date": [
                   "March 4th",
                   "March 4th 2019",
@@ -45106,9 +43642,6 @@
               "slot_values": {
                 "city": [
                   "Sacramento"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -45236,9 +43769,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -45297,9 +43827,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -45384,9 +43911,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -45433,9 +43957,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -45555,9 +44076,6 @@
               "slot_values": {
                 "city": [
                   "Phoenix"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -45763,9 +44281,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "check_in_date": [
                   "today"
                 ],
@@ -45853,9 +44368,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "check_in_date": [
                   "March 1st",
                   "today"
@@ -45906,9 +44418,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10601 North 56th Street, Scottsdale, AZ 85254, USA"
-                ],
                 "check_in_date": [
                   "March 1st",
                   "today"
@@ -46137,9 +44646,6 @@
                 ],
                 "date": [
                   "today"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -46240,9 +44746,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Robson Street"
-                ],
                 "check_in_date": [
                   "1st of March 2019",
                   "today"
@@ -46334,9 +44837,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Robson Street"
-                ],
                 "check_in_date": [
                   "1st of March 2019",
                   "March 1st",
@@ -46392,9 +44892,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Robson Street"
-                ],
                 "check_in_date": [
                   "1st of March 2019",
                   "March 1st",
@@ -46583,9 +45080,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -46752,9 +45246,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1055 Van Ness Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -46803,9 +45294,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1055 Van Ness Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -46892,9 +45380,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "address": [
-                  "1055 Van Ness Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -46954,9 +45439,6 @@
               "active_intent": "BookHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1055 Van Ness Avenue"
-                ],
                 "check_in_date": [
                   "March 1st"
                 ],
@@ -47150,9 +45632,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -47442,9 +45921,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -47665,9 +46141,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -48068,9 +46541,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -48279,9 +46749,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "99"
                 ]
               }
             }
@@ -48597,9 +47064,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020, Jalan Sultan Ismail, 50250"
-                ],
                 "rating": [
                   "4.3"
                 ],
@@ -48641,9 +47105,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020, Jalan Sultan Ismail, 50250"
-                ],
                 "rating": [
                   "4.3"
                 ],
@@ -48683,9 +47144,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020, Jalan Sultan Ismail, 50250"
-                ],
                 "rating": [
                   "4.3"
                 ],
@@ -48872,9 +47330,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -49430,9 +47885,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -49595,9 +48047,6 @@
               "slot_values": {
                 "city": [
                   "NYC"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -50056,9 +48505,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "NYC"
                 ]
@@ -50229,9 +48675,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -50542,9 +48985,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020, Jalan Sultan Ismail, 50250"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -50832,9 +49272,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -51129,9 +49566,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -51176,9 +49610,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -51343,9 +49774,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -51722,9 +50150,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "where_to": [
                   "Atlanta, GA"
                 ]
@@ -51846,9 +50271,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -52320,9 +50742,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -52509,9 +50928,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -52834,9 +51250,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "LAX"
                 ]
@@ -53085,9 +51498,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -53383,9 +51793,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "where_to": [
                   "London"
                 ]
@@ -53556,9 +51963,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -54078,9 +52482,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Market Street Hotel Entrance is at, 45 McAllister Street"
-                ],
                 "where_to": [
                   "San Francisco"
                 ]
@@ -54119,9 +52520,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Market Street Hotel Entrance is at, 45 McAllister Street"
-                ],
                 "where_to": [
                   "San Francisco"
                 ]
@@ -54264,9 +52662,6 @@
               "slot_values": {
                 "city": [
                   "Sydney, NSW"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -54580,9 +52975,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Salisbury Road, Castle Hill New South Wales 2154, Australia"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -54628,9 +53020,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Salisbury Road, Castle Hill New South Wales 2154, Australia"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -54798,9 +53187,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "97"
                 ]
               }
             }
@@ -55173,9 +53559,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "Kuala Lumpur"
                 ]
@@ -55465,9 +53848,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "97"
                 ]
               }
             }
@@ -56060,9 +54440,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Mangalam Place, Sector 3, Rohini, New Delhi"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -56224,9 +54601,6 @@
                 ],
                 "date": [
                   "Tuesday next week"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -56802,9 +55176,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Cone Street Northwest"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -56935,9 +55306,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -57269,9 +55637,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York"
                 ]
@@ -57561,9 +55926,6 @@
                 ],
                 "date": [
                   "tomorrow"
-                ],
-                "temperature": [
-                  "95"
                 ]
               }
             }
@@ -57957,9 +56319,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ ABdul Kalam Road, New Delhi"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -57999,9 +56358,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ ABdul Kalam Road, New Delhi"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -58163,9 +56519,6 @@
                 ],
                 "date": [
                   "today"
-                ],
-                "temperature": [
-                  "102"
                 ]
               }
             }
@@ -58676,9 +57029,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "KL"
                 ]
@@ -58717,9 +57067,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "KL"
                 ]
@@ -58841,9 +57188,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "68"
                 ]
               }
             }
@@ -59657,9 +58001,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11550 Northeast Airport Way"
-                ],
                 "where_to": [
                   "Portland"
                 ]
@@ -59867,9 +58208,6 @@
                 ],
                 "date": [
                   "march 7th"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -60391,9 +58729,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st avenue"
-                ],
                 "where_to": [
                   "seattle"
                 ]
@@ -60432,9 +58767,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st avenue"
-                ],
                 "where_to": [
                   "seattle"
                 ]
@@ -60577,9 +58909,6 @@
               "slot_values": {
                 "city": [
                   "London UK"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -60945,9 +59274,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -61199,9 +59525,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -61687,9 +60010,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "where_to": [
                   "Toronto"
                 ]
@@ -61728,9 +60048,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "where_to": [
                   "Toronto"
                 ]
@@ -61887,9 +60204,6 @@
               "slot_values": {
                 "city": [
                   "Sydney"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -62533,9 +60847,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Hosking Place"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -62580,9 +60891,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Hosking Place"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -62775,9 +61083,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -63104,9 +61409,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -63258,9 +61560,6 @@
               "slot_values": {
                 "city": [
                   "Chicago"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -63789,9 +62088,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 east grand avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -63836,9 +62132,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 east grand avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -63881,9 +62174,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 east grand avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -64046,9 +62336,6 @@
               "slot_values": {
                 "city": [
                   "NYC"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -64321,9 +62608,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "NYC"
                 ]
@@ -64466,9 +62750,6 @@
               "slot_values": {
                 "city": [
                   "New York City"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -64976,9 +63257,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich street"
-                ],
                 "where_to": [
                   "New York City"
                 ]
@@ -65017,9 +63295,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich street"
-                ],
                 "where_to": [
                   "New York City"
                 ]
@@ -65141,9 +63416,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -65549,9 +63821,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "where_to": [
                   "Atlanta"
                 ]
@@ -65590,9 +63859,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "where_to": [
                   "Atlanta"
                 ]
@@ -65714,9 +63980,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -66169,9 +64432,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "LAX"
                 ]
@@ -66328,9 +64588,6 @@
               "slot_values": {
                 "city": [
                   "Sydney"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -66738,9 +64995,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12 Darling Drive"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -66785,9 +65039,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12 Darling Drive"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -67019,9 +65270,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -67510,9 +65758,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "number_of_adults": [
                   "4"
                 ],
@@ -67557,9 +65802,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "number_of_adults": [
                   "4"
                 ],
@@ -67602,9 +65844,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "number_of_adults": [
                   "4"
                 ],
@@ -67799,9 +66038,6 @@
               "slot_values": {
                 "city": [
                   "New York City"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -68119,9 +66355,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -68163,9 +66396,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -68205,9 +66435,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -68434,9 +66661,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -68781,9 +67005,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "where_to": [
                   "Atlanta, GA"
                 ]
@@ -68972,9 +67193,6 @@
               "slot_values": {
                 "city": [
                   "San Fran"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -69295,9 +67513,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -69422,9 +67637,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "100"
                 ]
               }
             }
@@ -69760,9 +67972,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "where_to": [
                   "New Delhi"
                 ]
@@ -69801,9 +68010,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "where_to": [
                   "New Delhi"
                 ]
@@ -69992,9 +68198,6 @@
               "slot_values": {
                 "city": [
                   "ATL"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -70395,9 +68598,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew young International Boulevard Northwest"
-                ],
                 "where_to": [
                   "ATL"
                 ]
@@ -70581,9 +68781,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "57"
                 ]
               }
             }
@@ -70910,9 +69107,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "120 West 41st Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -71090,9 +69284,6 @@
                 "date": [
                   "March 2nd",
                   "March 2nd 2019"
-                ],
-                "temperature": [
-                  "101"
                 ]
               }
             }
@@ -71537,9 +69728,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "KL"
                 ]
@@ -71578,9 +69766,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "KL"
                 ]
@@ -71617,9 +69802,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "KL"
                 ]
@@ -71803,9 +69985,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -72322,9 +70501,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "rating": [
                   "4.3"
                 ],
@@ -72366,9 +70542,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "rating": [
                   "4.3"
                 ],
@@ -72591,9 +70764,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "57"
                 ]
               }
             }
@@ -72916,9 +71086,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -73178,9 +71345,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -73789,9 +71953,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich street"
-                ],
                 "where_to": [
                   "new york city"
                 ]
@@ -73950,9 +72111,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -74448,9 +72606,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1047 Fifth Avenue"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -74561,9 +72716,6 @@
               "slot_values": {
                 "city": [
                   "Portland, OR"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -74974,9 +73126,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "where_to": [
                   "Portland, OR"
                 ]
@@ -75015,9 +73164,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "where_to": [
                   "Portland, OR"
                 ]
@@ -75054,9 +73200,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "where_to": [
                   "Portland, OR"
                 ]
@@ -75330,9 +73473,6 @@
                 "date": [
                   "March 12th",
                   "March 12th 2019"
-                ],
-                "temperature": [
-                  "78"
                 ]
               }
             }
@@ -75842,9 +73982,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1065 Peachtree Street Northeast"
-                ],
                 "where_to": [
                   "Atlanta"
                 ]
@@ -75883,9 +74020,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1065 Peachtree Street Northeast"
-                ],
                 "where_to": [
                   "Atlanta"
                 ]
@@ -76069,9 +74203,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -76593,9 +74724,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Mangalam Place, Sector 3, Rohini, New Delhi"
-                ],
                 "number_of_adults": [
                   "4"
                 ],
@@ -76822,9 +74950,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "57"
                 ]
               }
             }
@@ -77190,9 +75315,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "where_to": [
                   "Portland"
                 ]
@@ -77477,9 +75599,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -77824,9 +75943,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "San Francisco"
                 ]
@@ -78010,9 +76126,6 @@
                 ],
                 "date": [
                   "the 10th"
-                ],
-                "temperature": [
-                  "68"
                 ]
               }
             }
@@ -78467,9 +76580,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -78514,9 +76624,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -78743,9 +76850,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -79200,9 +77304,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 east Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -79241,9 +77342,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 east Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -79280,9 +77378,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 east Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -79404,9 +77499,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -79845,9 +77937,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Market Street Hotel Entrance is at, 45 McAllister Street"
-                ],
                 "rating": [
                   "3.7"
                 ],
@@ -80070,9 +78159,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -80370,9 +78456,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "Kuala Lumpur"
                 ]
@@ -80483,9 +78566,6 @@
               "slot_values": {
                 "city": [
                   "Portland, OR"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -80939,9 +79019,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2025 Northwest Northrup Street"
-                ],
                 "rating": [
                   "4.6"
                 ],
@@ -80983,9 +79060,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "2025 Northwest Northrup Street"
-                ],
                 "rating": [
                   "4.6"
                 ],
@@ -81019,3 +79093,4 @@
     ]
   }
 ]
+

@@ -499,9 +499,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -556,9 +553,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -664,9 +658,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -734,9 +725,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -1221,9 +1209,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -1329,9 +1314,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -1838,9 +1820,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -1943,9 +1922,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -1997,9 +1973,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -2623,9 +2596,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -2680,9 +2650,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -2786,9 +2753,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -2845,9 +2809,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -2910,9 +2871,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -3211,9 +3169,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -3319,9 +3274,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -3389,9 +3341,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -3759,9 +3708,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -3816,9 +3762,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -3922,9 +3865,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -3980,9 +3920,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -4044,9 +3981,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -4483,9 +4417,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -4540,9 +4471,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -4646,9 +4574,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -4706,9 +4631,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -4772,9 +4694,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -5113,9 +5032,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -5167,9 +5083,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -5272,9 +5185,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -5332,9 +5242,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "chevrolet bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -5398,9 +5305,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -5786,9 +5690,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -5841,9 +5742,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -5947,9 +5845,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -6465,9 +6360,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -6520,9 +6412,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -6626,9 +6515,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -6682,9 +6568,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -7126,9 +7009,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -7183,9 +7063,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -7291,9 +7168,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -7731,9 +7605,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -7838,9 +7709,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -8307,9 +8175,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -8415,9 +8280,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -8483,9 +8345,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -8812,9 +8671,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -8918,9 +8774,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -9539,9 +9392,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -9594,9 +9444,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -9700,9 +9547,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -10274,9 +10118,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -10380,9 +10221,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -10902,9 +10740,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -10958,9 +10793,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -11065,9 +10897,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -11134,9 +10963,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -11550,9 +11376,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -11655,9 +11478,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -11711,9 +11531,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -12089,9 +11906,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -12195,9 +12009,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -12251,9 +12062,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -12718,9 +12526,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -12826,9 +12631,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -13290,9 +13092,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -13396,9 +13195,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -13453,9 +13249,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -13867,9 +13660,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -13972,9 +13762,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -14028,9 +13815,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -14745,9 +14529,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -14802,9 +14583,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -14910,9 +14688,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -14980,9 +14755,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -15383,9 +15155,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -15490,9 +15259,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -16136,9 +15902,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -16242,9 +16005,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -16951,9 +16711,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -17008,9 +16765,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -17114,9 +16868,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -17171,9 +16922,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -17838,9 +17586,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -17944,9 +17689,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -18003,9 +17745,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -18068,9 +17807,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -18443,9 +18179,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -18548,9 +18281,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -18605,9 +18335,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -18668,9 +18395,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -19126,9 +18850,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -19232,9 +18953,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -19841,9 +19559,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -19947,9 +19662,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -20003,9 +19715,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -20525,9 +20234,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -20582,9 +20288,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -20688,9 +20391,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -20745,9 +20445,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -21248,9 +20945,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -21354,9 +21048,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -21411,9 +21102,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -22164,9 +21852,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -22270,9 +21955,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -22782,9 +22464,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -22890,9 +22569,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -23365,9 +23041,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -23471,9 +23144,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -24141,9 +23811,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -24248,9 +23915,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -24858,9 +24522,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -24914,9 +24575,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -25019,9 +24677,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -25075,9 +24730,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -25499,9 +25151,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -25555,9 +25204,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -25660,9 +25306,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -25716,9 +25359,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -26020,9 +25660,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -26126,9 +25763,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -26183,9 +25817,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -26746,9 +26377,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -26854,9 +26482,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -26924,9 +26549,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -27453,9 +27075,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -27558,9 +27177,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -28505,9 +28121,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -28562,9 +28175,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -28668,9 +28278,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -28725,9 +28332,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -29189,9 +28793,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -29243,9 +28844,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -29350,9 +28948,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Ford fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -29419,9 +29014,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -29744,9 +29336,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -29849,9 +29438,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -29906,9 +29492,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -29969,9 +29552,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -30394,9 +29974,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -30500,9 +30077,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -30559,9 +30133,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -30624,9 +30195,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -31254,9 +30822,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -31310,9 +30875,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -31415,9 +30977,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -31998,9 +31557,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Volkswagen GTI"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -32107,9 +31663,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Volkswagen GTI"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -32178,9 +31731,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Volkswagen GTI"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -32703,9 +32253,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -32760,9 +32307,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -32868,9 +32412,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -32938,9 +32479,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "chevrolet cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -33341,9 +32879,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -33398,9 +32933,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -33506,9 +33038,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -33920,9 +33449,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -33977,9 +33503,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -34085,9 +33608,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -34725,9 +34245,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -34831,9 +34348,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -34888,9 +34402,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -35278,9 +34789,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -35335,9 +34843,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -35441,9 +34946,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -35499,9 +35001,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -35563,9 +35062,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -35892,9 +35388,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -36000,9 +35493,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -36070,9 +35560,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -36730,9 +36217,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -36838,9 +36322,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -37566,9 +37047,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Camry"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -37672,9 +37150,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Camry"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -38116,9 +37591,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -38222,9 +37694,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -38279,9 +37748,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -38980,9 +38446,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Escape"
-                ],
                 "car_type": [
                   "Full-size"
                 ],
@@ -39086,9 +38549,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Escape"
-                ],
                 "car_type": [
                   "Full-size"
                 ],
@@ -39568,9 +39028,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -39674,9 +39131,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -39731,9 +39185,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -40500,9 +39951,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -40557,9 +40005,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -40663,9 +40108,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -41088,9 +40530,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -41193,9 +40632,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -41249,9 +40685,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -41880,9 +41313,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -41986,9 +41416,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -42043,9 +41470,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -42880,9 +42304,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -42989,9 +42410,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -43059,9 +42477,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -43116,9 +42531,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -43851,9 +43263,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -43909,9 +43318,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -44016,9 +43422,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -44074,9 +43477,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -44524,9 +43924,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March"
                 ],
@@ -44582,9 +43979,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March"
                 ],
@@ -44689,9 +44083,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -44747,9 +44138,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -44805,9 +44193,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -45341,9 +44726,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -45398,9 +44780,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -45504,9 +44883,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -45561,9 +44937,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -46214,9 +45587,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "7th of March"
                 ],
@@ -46320,9 +45690,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -46377,9 +45744,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -46434,9 +45798,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -47152,9 +46513,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "the 4th"
                 ],
@@ -47259,9 +46617,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -47317,9 +46672,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -47729,9 +47081,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -47836,9 +47185,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -47895,9 +47241,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -47960,9 +47303,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -48447,9 +47787,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "10th of this month"
                 ],
@@ -48554,9 +47891,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "10th of this month",
                   "March 10th"
@@ -48614,9 +47948,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "10th of this month",
                   "March 10th"
@@ -48674,9 +48005,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "10th of this month",
                   "March 10th"
@@ -49207,9 +48535,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "8th of this month"
                 ],
@@ -49265,9 +48590,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "8th of this month"
                 ],
@@ -49372,9 +48694,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "8th of this month",
                   "March 8th"
@@ -49430,9 +48749,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "8th of this month",
                   "March 8th"
@@ -50153,9 +49469,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Rav4"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -50259,9 +49572,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Rav4"
-                ],
                 "dropoff_date": [
                   "March 10th",
                   "the 10th"
@@ -50316,9 +49626,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Rav4"
-                ],
                 "dropoff_date": [
                   "March 10th",
                   "the 10th"
@@ -50850,9 +50157,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "9th of March"
                 ],
@@ -50959,9 +50263,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "9th of March",
                   "March 9th"
@@ -51030,9 +50331,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "9th of March",
                   "March 9th"
@@ -51088,9 +50386,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "9th of March",
                   "March 9th"
@@ -51808,9 +51103,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "Sunday this week"
                 ],
@@ -51866,9 +51158,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "Sunday this week"
                 ],
@@ -51975,9 +51264,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "Sunday this week"
@@ -52046,9 +51332,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "Sunday this week"
@@ -52104,9 +51387,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "Sunday this week"
@@ -52578,9 +51858,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "next Monday"
                 ],
@@ -52636,9 +51913,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "next Monday"
                 ],
@@ -52743,9 +52017,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "next Monday"
@@ -52803,9 +52074,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "next Monday"
@@ -52869,9 +52137,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "next Monday"
@@ -53417,9 +52682,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "14th of this month"
                 ],
@@ -53525,9 +52787,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -53594,9 +52853,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -54190,9 +53446,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -54246,9 +53499,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -54353,9 +53603,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -54410,9 +53657,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -54467,9 +53711,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -55009,9 +54250,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -55114,9 +54352,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -55170,9 +54405,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -55232,9 +54464,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -55798,9 +55027,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "march 14th"
                 ],
@@ -55856,9 +55082,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "march 14th"
                 ],
@@ -55963,9 +55186,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "march 14th"
                 ],
@@ -56020,9 +55240,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "march 14th"
                 ],
@@ -56077,9 +55294,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "march 14th"
                 ],
@@ -56616,9 +55830,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "Thursday next week"
                 ],
@@ -56672,9 +55883,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "Thursday next week"
                 ],
@@ -56779,9 +55987,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -56836,9 +56041,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -56893,9 +56095,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -57713,9 +56912,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fusion"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -57820,9 +57016,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fusion"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -57878,9 +57071,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fusion"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -57936,9 +57126,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fusion"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -58706,9 +57893,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -58812,9 +57996,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -58869,9 +58050,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -59622,9 +58800,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "next Thursday"
                 ],
@@ -59729,9 +58904,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "next Thursday"
@@ -59787,9 +58959,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "next Thursday"
@@ -60386,9 +59555,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "Friday next week"
                 ],
@@ -60444,9 +59610,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "Friday next week"
                 ],
@@ -60551,9 +59714,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "Friday next week",
                   "March 8th"
@@ -60609,9 +59769,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "Friday next week",
                   "March 8th"
@@ -61374,9 +60531,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "the 11th"
                 ],
@@ -61479,9 +60633,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "March 11th",
                   "the 11th"
@@ -61535,9 +60686,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "March 11th",
                   "the 11th"
@@ -61591,9 +60739,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "March 11th",
                   "the 11th"
@@ -62083,9 +61228,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "7th of this month"
                 ],
@@ -62139,9 +61281,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "7th of this month"
                 ],
@@ -62246,9 +61385,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "7th of this month",
                   "March 7th"
@@ -62315,9 +61451,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "7th of this month",
                   "March 7th"
@@ -62891,9 +62024,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -62948,9 +62078,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -63054,9 +62181,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -63110,9 +62234,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -64064,9 +63185,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "next Thursday"
                 ],
@@ -64171,9 +63289,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "next Thursday"
@@ -64229,9 +63344,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "next Thursday"
@@ -64287,9 +63399,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "next Thursday"
@@ -64847,9 +63956,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "camry"
-                ],
                 "dropoff_date": [
                   "Thursday next week"
                 ],
@@ -64956,9 +64062,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "camry"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -65027,9 +64130,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "camry"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -65541,9 +64641,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "13th of March"
                 ],
@@ -65599,9 +64696,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "13th of March"
                 ],
@@ -65708,9 +64802,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -65779,9 +64870,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -66276,9 +65364,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "Thursday next week"
                 ],
@@ -66333,9 +65418,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "Thursday next week"
                 ],
@@ -66439,9 +65521,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -66498,9 +65577,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -66563,9 +65639,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -67072,9 +66145,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of March"
                 ],
@@ -67179,9 +66249,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -67238,9 +66305,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -67303,9 +66367,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -67360,9 +66421,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -67872,9 +66930,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Leaf"
-                ],
                 "dropoff_date": [
                   "4th of March"
                 ],
@@ -67979,9 +67034,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Leaf"
-                ],
                 "dropoff_date": [
                   "4th of March",
                   "March 4th"
@@ -68037,9 +67089,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Leaf"
-                ],
                 "dropoff_date": [
                   "4th of March",
                   "March 4th"
@@ -68095,9 +67144,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Leaf"
-                ],
                 "dropoff_date": [
                   "4th of March",
                   "March 4th"
@@ -68644,9 +67690,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "the 13th"
                 ],
@@ -68752,9 +67795,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "march 13th",
                   "the 13th"
@@ -68811,9 +67851,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "march 13th",
                   "the 13th"
@@ -69592,9 +68629,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "Wednesday next week"
                 ],
@@ -69649,9 +68683,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "Wednesday next week"
                 ],
@@ -69755,9 +68786,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "Wednesday next week"
@@ -69813,9 +68841,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "Wednesday next week"
@@ -69877,9 +68902,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "Wednesday next week"
@@ -70545,9 +69567,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "12th of this month"
                 ],
@@ -70654,9 +69673,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -70724,9 +69740,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -71497,9 +70510,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "the 5th"
                 ],
@@ -71604,9 +70614,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 5th",
                   "the 5th"
@@ -71673,9 +70680,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 5th",
                   "the 5th"
@@ -71729,9 +70733,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 5th",
                   "the 5th"
@@ -72439,9 +71440,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "the 14th"
                 ],
@@ -72497,9 +71495,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "the 14th"
                 ],
@@ -72604,9 +71599,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -72662,9 +71654,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -73189,9 +72178,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "day after tomorrow"
                 ],
@@ -73296,9 +72282,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "day after tomorrow"
@@ -73354,9 +72337,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "day after tomorrow"

@@ -123,9 +123,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -453,9 +450,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia Court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "where_to": [
                   "Sydney, Australia"
                 ]
@@ -494,9 +488,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia Court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "where_to": [
                   "Sydney, Australia"
                 ]
@@ -704,9 +695,6 @@
                 ],
                 "date": [
                   "next Tuesday"
-                ],
-                "temperature": [
-                  "61"
                 ]
               }
             }
@@ -1344,9 +1332,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -1646,9 +1631,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -1982,9 +1964,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -2029,9 +2008,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -2197,9 +2173,6 @@
                 "date": [
                   "14th of March 2019",
                   "March 14th"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -2676,9 +2649,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1001 Intrepid Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -2723,9 +2693,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1001 Intrepid Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -2853,9 +2820,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -3124,9 +3088,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "Kuala Lumpur"
                 ]
@@ -3248,9 +3209,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "67"
                 ]
               }
             }
@@ -3628,9 +3586,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -3672,9 +3627,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -3970,9 +3922,6 @@
                 "date": [
                   "1st of March",
                   "March 1st 2019"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -4508,9 +4457,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard, East Elmhurst, NY 11369, USA"
-                ],
                 "rating": [
                   "4.1"
                 ],
@@ -4552,9 +4498,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard, East Elmhurst, NY 11369, USA"
-                ],
                 "rating": [
                   "4.1"
                 ],
@@ -4594,9 +4537,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard, East Elmhurst, NY 11369, USA"
-                ],
                 "rating": [
                   "4.1"
                 ],
@@ -4819,9 +4759,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -5258,9 +5195,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10210 North 26th Drive"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -5419,9 +5353,6 @@
                 ],
                 "date": [
                   "7th of March"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -5791,9 +5722,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich street"
-                ],
                 "where_to": [
                   "New York city"
                 ]
@@ -5832,9 +5760,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich street"
-                ],
                 "where_to": [
                   "New York city"
                 ]
@@ -5871,9 +5796,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich street"
-                ],
                 "where_to": [
                   "New York city"
                 ]
@@ -5984,9 +5906,6 @@
               "slot_values": {
                 "city": [
                   "Phoenix"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -6241,9 +6160,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix"
                 ]
@@ -6282,9 +6198,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix"
                 ]
@@ -6321,9 +6234,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix"
                 ]
@@ -6445,9 +6355,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -6798,9 +6705,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "LAX"
                 ]
@@ -6839,9 +6743,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "LAX"
                 ]
@@ -6952,9 +6853,6 @@
               "slot_values": {
                 "city": [
                   "Toronto, Ontario"
-                ],
-                "temperature": [
-                  "58"
                 ]
               }
             }
@@ -7591,9 +7489,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Lombard Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -7870,9 +7765,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -8371,9 +8263,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -8596,9 +8485,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -8993,9 +8879,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "where_to": [
                   "Seattle"
                 ]
@@ -9166,9 +9049,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -9697,9 +9577,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "where_to": [
                   "Nairobi, Kenya"
                 ]
@@ -9956,9 +9833,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -10450,9 +10324,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Granville Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -10669,9 +10540,6 @@
                 ],
                 "date": [
                   "1st of March"
-                ],
-                "temperature": [
-                  "99"
                 ]
               }
             }
@@ -10986,9 +10854,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, doctor apj abdul kalam road, new delhi"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -11207,9 +11072,6 @@
                 ],
                 "date": [
                   "the 4th"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -11752,9 +11614,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -11799,9 +11658,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -11844,9 +11700,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1101 4th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -12006,9 +11859,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "57"
                 ]
               }
             }
@@ -12385,9 +12235,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York City"
                 ]
@@ -12426,9 +12273,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York City"
                 ]
@@ -12465,9 +12309,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York City"
                 ]
@@ -12626,9 +12467,6 @@
                 ],
                 "date": [
                   "13th of March"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -13358,9 +13196,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1065 Peachtree Street Northeast"
-                ],
                 "where_to": [
                   "Atlanta"
                 ]
@@ -13399,9 +13234,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1065 Peachtree Street Northeast"
-                ],
                 "where_to": [
                   "Atlanta"
                 ]
@@ -13658,9 +13490,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -14109,9 +13938,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "where_to": [
                   "Vegas"
                 ]
@@ -14388,9 +14214,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -14880,9 +14703,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1065 Peachtree Street Northeast"
-                ],
                 "rating": [
                   "4.4"
                 ],
@@ -14924,9 +14744,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1065 Peachtree Street Northeast"
-                ],
                 "rating": [
                   "4.4"
                 ],
@@ -15051,9 +14868,6 @@
                 ],
                 "date": [
                   "9th of this month"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -15530,9 +15344,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 hosking place"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -15896,9 +15707,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -16340,9 +16148,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "where_to": [
                   "Philadelphia"
                 ]
@@ -16381,9 +16186,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "where_to": [
                   "Philadelphia"
                 ]
@@ -16505,9 +16307,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -17140,9 +16939,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -17310,9 +17106,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "102"
                 ]
               }
             }
@@ -17744,9 +17537,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Mangalam Place, Sector 3, Rohini, New Delhi"
-                ],
                 "where_to": [
                   "New Delhi"
                 ]
@@ -17785,9 +17575,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Mangalam Place, Sector 3, Rohini, New Delhi"
-                ],
                 "where_to": [
                   "New Delhi"
                 ]
@@ -17824,9 +17611,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Mangalam Place, Sector 3, Rohini, New Delhi"
-                ],
                 "where_to": [
                   "New Delhi"
                 ]
@@ -17985,9 +17769,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "96"
                 ]
               }
             }
@@ -18337,9 +18118,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia Court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -18381,9 +18159,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia Court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -18423,9 +18198,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia Court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -18571,9 +18343,6 @@
               "slot_values": {
                 "city": [
                   "Philly"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -19054,9 +18823,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 north christopher columbus boulevard"
-                ],
                 "where_to": [
                   "Philly"
                 ]
@@ -19095,9 +18861,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 north christopher columbus boulevard"
-                ],
                 "where_to": [
                   "Philly"
                 ]
@@ -19281,9 +19044,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "61"
                 ]
               }
             }
@@ -19850,9 +19610,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Grand Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -19977,9 +19734,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "103"
                 ]
               }
             }
@@ -20243,9 +19997,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -20365,9 +20116,6 @@
               "slot_values": {
                 "city": [
                   "LAX"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -20868,9 +20616,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10740 Wilshire Boulevard"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -20918,9 +20663,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10740 Wilshire Boulevard"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -21204,9 +20946,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "97"
                 ]
               }
             }
@@ -21468,9 +21207,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "where_to": [
                   "Delhi"
                 ]
@@ -21509,9 +21245,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "where_to": [
                   "Delhi"
                 ]
@@ -21695,9 +21428,6 @@
                 ],
                 "date": [
                   "10th of March"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -22184,9 +21914,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York City"
                 ]
@@ -22223,9 +21950,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York City"
                 ]
@@ -22414,9 +22138,6 @@
               "slot_values": {
                 "city": [
                   "Chicago"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -22725,9 +22446,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "where_to": [
                   "Chicago"
                 ]
@@ -22766,9 +22484,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "where_to": [
                   "Chicago"
                 ]
@@ -22970,9 +22685,6 @@
               "slot_values": {
                 "city": [
                   "Chi-town"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -23556,9 +23268,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 West Monroe Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -23689,9 +23398,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -24050,9 +23756,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -24100,9 +23803,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -24373,9 +24073,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -24884,9 +24581,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1041 Southwest Marine Drive"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -24929,9 +24623,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1041 Southwest Marine Drive"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -25059,9 +24750,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -25541,9 +25229,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "LA"
                 ]
@@ -25702,9 +25387,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -26052,9 +25734,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "NY"
                 ]
@@ -26344,9 +26023,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -26728,9 +26404,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 south las vegas boulevard"
-                ],
                 "where_to": [
                   "vegas"
                 ]
@@ -26769,9 +26442,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 south las vegas boulevard"
-                ],
                 "where_to": [
                   "vegas"
                 ]
@@ -26882,9 +26552,6 @@
               "slot_values": {
                 "city": [
                   "Paris, France"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -27207,9 +26874,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "11 Rue des Gravilliers, 75003"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -27386,9 +27050,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "60"
                 ]
               }
             }
@@ -27898,9 +27559,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "118 Yorkville Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -28077,9 +27735,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "100"
                 ]
               }
             }
@@ -28467,9 +28122,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia Court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -28511,9 +28163,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia Court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -28553,9 +28202,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Columbia Court, Baulkham Hills New South Wales 2153, Australia"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -28680,9 +28326,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "56"
                 ]
               }
             }
@@ -29143,9 +28786,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "where_to": [
                   "Portland, OR"
                 ]
@@ -29334,9 +28974,6 @@
               "slot_values": {
                 "city": [
                   "Philly"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -29848,9 +29485,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 North Christopher Columbus Boulevard"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -29892,9 +29526,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 North Christopher Columbus Boulevard"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -29934,9 +29565,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 North Christopher Columbus Boulevard"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -30109,9 +29737,6 @@
               "slot_values": {
                 "city": [
                   "London, England"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -30426,9 +30051,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Seething Lane"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -30473,9 +30095,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Seething Lane"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -30771,9 +30390,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -31108,9 +30724,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "where_to": [
                   "Chi-Town"
                 ]
@@ -31269,9 +30882,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -31639,9 +31249,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "where_to": [
                   "Atlanta, GA"
                 ]
@@ -31680,9 +31287,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "where_to": [
                   "Atlanta, GA"
                 ]
@@ -31719,9 +31323,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "101 Andrew Young International Boulevard Northwest"
-                ],
                 "where_to": [
                   "Atlanta, GA"
                 ]
@@ -31864,9 +31465,6 @@
               "slot_values": {
                 "city": [
                   "Phoenix"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -32205,9 +31803,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 east thomas road"
-                ],
                 "where_to": [
                   "Phoenix"
                 ]
@@ -32423,9 +32018,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -32682,9 +32274,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -32724,9 +32313,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -32840,9 +32426,6 @@
               "slot_values": {
                 "city": [
                   "London"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -33215,9 +32798,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -33262,9 +32842,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -33307,9 +32884,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -33426,9 +33000,6 @@
               "slot_values": {
                 "city": [
                   "Chi-town"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -33927,9 +33498,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -33971,9 +33539,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -34160,9 +33725,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -34472,9 +34034,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United states"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -34682,9 +34241,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -35019,9 +34575,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "San Fran"
                 ]
@@ -35060,9 +34613,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "San Fran"
                 ]
@@ -35389,9 +34939,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "102"
                 ]
               }
             }
@@ -35784,9 +35331,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -35834,9 +35378,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -35967,9 +35508,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -36437,9 +35975,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "where_to": [
                   "Philly"
                 ]
@@ -36478,9 +36013,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "where_to": [
                   "Philly"
                 ]
@@ -36517,9 +36049,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "where_to": [
                   "Philly"
                 ]
@@ -36739,9 +36268,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -37150,9 +36676,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12 Rue de Marignan, 75008"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -37382,9 +36905,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -37808,9 +37328,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "where_to": [
                   "London, UK"
                 ]
@@ -37849,9 +37366,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "where_to": [
                   "London, UK"
                 ]
@@ -37888,9 +37402,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "where_to": [
                   "London, UK"
                 ]
@@ -38074,9 +37585,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -38573,9 +38081,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "217 Las Vegas Boulevard North"
-                ],
                 "where_to": [
                   "Las Vegas"
                 ]
@@ -38614,9 +38119,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "217 Las Vegas Boulevard North"
-                ],
                 "where_to": [
                   "Las Vegas"
                 ]
@@ -38653,9 +38155,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "217 Las Vegas Boulevard North"
-                ],
                 "where_to": [
                   "Las Vegas"
                 ]
@@ -38777,9 +38276,6 @@
                 ],
                 "date": [
                   "3rd of March"
-                ],
-                "temperature": [
-                  "67"
                 ]
               }
             }
@@ -39146,9 +38642,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -39276,9 +38769,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -39696,9 +39186,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -39740,9 +39227,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -39782,9 +39266,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -39909,9 +39390,6 @@
                 ],
                 "date": [
                   "this Sunday"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -40374,9 +39852,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard East Elmhurst NY 11369 USA"
-                ],
                 "where_to": [
                   "Ny"
                 ]
@@ -40415,9 +39890,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard East Elmhurst NY 11369 USA"
-                ],
                 "where_to": [
                   "Ny"
                 ]
@@ -40454,9 +39926,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100-15 Ditmars Boulevard East Elmhurst NY 11369 USA"
-                ],
                 "where_to": [
                   "Ny"
                 ]
@@ -40615,9 +40084,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "99"
                 ]
               }
             }
@@ -40943,9 +40409,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -40993,9 +40456,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -41041,9 +40501,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -41195,9 +40652,6 @@
               "slot_values": {
                 "city": [
                   "New York"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -41469,9 +40923,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York"
                 ]
@@ -41510,9 +40961,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York"
                 ]
@@ -41655,9 +41103,6 @@
               "slot_values": {
                 "city": [
                   "Paris"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -42005,9 +41450,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Rue Daunou, 75002"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -42138,9 +41580,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -42635,9 +42074,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1047 Fifth Avenue"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -42676,9 +42112,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1047 Fifth Avenue"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -42898,9 +42331,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -43414,9 +42844,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10044 Pacific Mesa Boulevard"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -43547,9 +42974,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -43951,9 +43375,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -43992,9 +43413,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -44031,9 +43449,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -44192,9 +43607,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -44641,9 +44053,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Lombard Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -44811,9 +44220,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "99"
                 ]
               }
             }
@@ -45112,9 +44518,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "KL"
                 ]
@@ -45357,9 +44760,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -45822,9 +45222,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10740 Wilshire Boulevard"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -45872,9 +45269,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10740 Wilshire Boulevard"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -46005,9 +45399,6 @@
                 ],
                 "date": [
                   "6th of this month"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -46298,9 +45689,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "where_to": [
                   "Delhi, India"
                 ]
@@ -46339,9 +45727,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "where_to": [
                   "Delhi, India"
                 ]
@@ -46495,9 +45880,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -46887,9 +46269,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -46928,9 +46307,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10 East Thomas Road"
-                ],
                 "where_to": [
                   "Phoenix, AZ"
                 ]
@@ -47114,9 +46490,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -47745,9 +47118,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1065 Peachtree Street Northeast"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -47875,9 +47245,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -48248,9 +47615,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "KL"
                 ]
@@ -48434,9 +47798,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -48725,9 +48086,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "where_to": [
                   "Paris, France"
                 ]
@@ -48766,9 +48124,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "where_to": [
                   "Paris, France"
                 ]
@@ -48805,9 +48160,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Place de la Sorbonne, 75005"
-                ],
                 "where_to": [
                   "Paris, France"
                 ]
@@ -49028,9 +48380,6 @@
                 ],
                 "date": [
                   "the 9th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -49328,9 +48677,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "102 West 57th Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -49612,9 +48958,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -49860,9 +49203,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -50089,9 +49429,6 @@
                 "date": [
                   "March 4th",
                   "March 4th 2019"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -50399,9 +49736,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -50446,9 +49780,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -50674,9 +50005,6 @@
                 ],
                 "date": [
                   "12th of this month"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -50937,9 +50265,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -50981,9 +50306,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -51145,9 +50467,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -51671,9 +50990,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Market Street Hotel Entrance is at, 45 McAllister Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -51721,9 +51037,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Market Street Hotel Entrance is at, 45 McAllister Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -51951,9 +51264,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "68"
                 ]
               }
             }
@@ -52473,9 +51783,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "rating": [
                   "4.4"
                 ],
@@ -52517,9 +51824,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "rating": [
                   "4.4"
                 ],
@@ -52779,9 +52083,6 @@
                 ],
                 "date": [
                   "9th of this month"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -53210,9 +52511,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan Pantai Baharu, Jaya Tower 3, 59200 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "Kuala Lumpur"
                 ]
@@ -53432,9 +52730,6 @@
                 ],
                 "date": [
                   "march 6th"
-                ],
-                "temperature": [
-                  "64"
                 ]
               }
             }
@@ -53880,9 +53175,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st avenue"
-                ],
                 "where_to": [
                   "seattle"
                 ]
@@ -54004,9 +53296,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -54470,9 +53759,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -54600,9 +53886,6 @@
                 ],
                 "date": [
                   "Wednesday next week"
-                ],
-                "temperature": [
-                  "64"
                 ]
               }
             }
@@ -54984,9 +54267,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -55031,9 +54311,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 greenwich street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -55150,9 +54427,6 @@
               "slot_values": {
                 "city": [
                   "Phoenix, AZ"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -55870,9 +55144,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "132 South Central Avenue"
-                ],
                 "rating": [
                   "4.5"
                 ],
@@ -56034,9 +55305,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -56476,9 +55744,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "153 West 57th Street"
-                ],
                 "rating": [
                   "4.7"
                 ],
@@ -56520,9 +55785,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "153 West 57th Street"
-                ],
                 "rating": [
                   "4.7"
                 ],
@@ -56562,9 +55824,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "153 West 57th Street"
-                ],
                 "rating": [
                   "4.7"
                 ],
@@ -56787,9 +56046,6 @@
                 ],
                 "date": [
                   "9th of this month"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -57140,9 +56396,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -57496,9 +56749,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -58026,9 +57276,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "where_to": [
                   "Chi-town"
                 ]
@@ -58065,9 +57312,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "where_to": [
                   "Chi-town"
                 ]
@@ -58226,9 +57470,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -58646,9 +57887,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -58690,9 +57928,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 West Wacker Drive"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -58806,9 +58041,6 @@
               "slot_values": {
                 "city": [
                   "Nairobi, Kenya"
-                ],
-                "temperature": [
-                  "105"
                 ]
               }
             }
@@ -59195,9 +58427,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -59245,9 +58474,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "Chiromo Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -59427,9 +58653,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -59740,9 +58963,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "LA"
                 ]
@@ -59996,9 +59216,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -60464,9 +59681,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "440 Post Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -60699,9 +59913,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -61157,9 +60368,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -61198,9 +60406,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -61237,9 +60442,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -61460,9 +60662,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -61727,9 +60926,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Kensington Street, Chippendale New South Wales 2008, Australia"
-                ],
                 "number_of_adults": [
                   "4"
                 ],
@@ -61857,9 +61053,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -62175,9 +61368,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -62222,9 +61412,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "12, Doctor APJ Abdul Kalam Road, New Delhi"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -62438,9 +61625,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "61"
                 ]
               }
             }
@@ -62749,9 +61933,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 South Franklin Street"
-                ],
                 "where_to": [
                   "Chi-town"
                 ]
@@ -62873,9 +62054,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -63131,9 +62309,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "SD"
                 ]
@@ -63255,9 +62430,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -63564,9 +62736,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -63614,9 +62783,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -63845,9 +63011,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "100"
                 ]
               }
             }
@@ -64215,9 +63378,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1, Jalan 2/142a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan"
-                ],
                 "where_to": [
                   "KL"
                 ]
@@ -64339,9 +63499,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "95"
                 ]
               }
             }
@@ -64935,9 +64092,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "13A, District Centre, Mayur Vihar, New Delhi"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -64982,9 +64136,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "13A, District Centre, Mayur Vihar, New Delhi"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -65027,9 +64178,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "13A, District Centre, Mayur Vihar, New Delhi"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -65146,9 +64294,6 @@
               "slot_values": {
                 "city": [
                   "Toronto, Ontario"
-                ],
-                "temperature": [
-                  "58"
                 ]
               }
             }
@@ -65432,9 +64577,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "where_to": [
                   "Toronto, Ontario"
                 ]
@@ -65473,9 +64615,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "where_to": [
                   "Toronto, Ontario"
                 ]
@@ -65597,9 +64736,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -65944,9 +65080,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "108 Chestnut Street"
-                ],
                 "where_to": [
                   "Toronto, Ontario"
                 ]
@@ -66089,9 +65222,6 @@
               "slot_values": {
                 "city": [
                   "Nairobi, Kenya"
-                ],
-                "temperature": [
-                  "105"
                 ]
               }
             }
@@ -66400,9 +65530,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "14 Riverside Westlands"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -66516,9 +65643,6 @@
               "slot_values": {
                 "city": [
                   "San Diego"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -66851,9 +65975,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10044 Pacific Mesa Boulevard"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -67030,9 +66151,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -67565,9 +66683,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Addington Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -67729,9 +66844,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "85"
                 ]
               }
             }
@@ -68204,9 +67316,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 baffin way"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -68251,9 +67360,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 baffin way"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -68381,9 +67487,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -68689,9 +67792,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "where_to": [
                   "Vancouver, BC"
                 ]
@@ -68730,9 +67830,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1018 Granville Street"
-                ],
                 "where_to": [
                   "Vancouver, BC"
                 ]
@@ -68953,9 +68050,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "60"
                 ]
               }
             }
@@ -69493,9 +68587,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "118 Yorkville Avenue"
-                ],
                 "rating": [
                   "3.6"
                 ],
@@ -69669,9 +68760,6 @@
                 ],
                 "date": [
                   "8th of this month"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -69961,9 +69049,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "rating": [
                   "4.2"
                 ],
@@ -70005,9 +69090,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 Northeast Multnomah Street"
-                ],
                 "rating": [
                   "4.2"
                 ],
@@ -70170,9 +69252,6 @@
                 "date": [
                   "March 6th",
                   "March 6th 2019"
-                ],
-                "temperature": [
-                  "62"
                 ]
               }
             }
@@ -70558,9 +69637,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "111 Carlton Street"
-                ],
                 "where_to": [
                   "Toronto, Ontario"
                 ]
@@ -79734,3 +78810,4 @@
     ]
   }
 ]
+

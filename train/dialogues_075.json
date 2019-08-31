@@ -661,9 +661,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -769,9 +766,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -827,9 +821,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -885,9 +876,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -1657,9 +1645,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -1764,9 +1749,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -1821,9 +1803,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -1878,9 +1857,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -2881,9 +2857,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "corolla"
-                ],
                 "dropoff_date": [
                   "March 13th"
                 ],
@@ -2988,9 +2961,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "corolla"
-                ],
                 "dropoff_date": [
                   "March 13th"
                 ],
@@ -3044,9 +3014,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "corolla"
-                ],
                 "dropoff_date": [
                   "March 13th"
                 ],
@@ -4046,9 +4013,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "the 6th"
@@ -4153,9 +4117,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "the 6th"
@@ -4212,9 +4173,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "the 6th"
@@ -4277,9 +4235,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "the 6th"
@@ -4334,9 +4289,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "the 6th"
@@ -5215,9 +5167,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -5321,9 +5270,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -5377,9 +5323,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -6472,9 +6415,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "10th of March"
                 ],
@@ -6529,9 +6469,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "10th of March"
                 ],
@@ -6637,9 +6574,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -6707,9 +6641,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -6764,9 +6695,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -7716,9 +7644,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "5th of this month"
                 ],
@@ -7823,9 +7748,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "5th of this month",
                   "march 5th"
@@ -7881,9 +7803,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "5th of this month",
                   "march 5th"
@@ -7939,9 +7858,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "5th of this month",
                   "march 5th"
@@ -8678,9 +8594,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "8th of March"
                 ],
@@ -8736,9 +8649,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "8th of March"
                 ],
@@ -8843,9 +8753,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -8901,9 +8808,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -10265,9 +10169,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -10320,9 +10221,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -10428,9 +10326,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -10498,9 +10393,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -11405,9 +11297,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 12th"
                 ],
@@ -11460,9 +11349,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 12th"
                 ],
@@ -11566,9 +11452,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th",
                   "the 12th"
@@ -11622,9 +11505,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th",
                   "the 12th"
@@ -11678,9 +11558,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th",
                   "the 12th"
@@ -12702,9 +12579,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March"
                 ],
@@ -12759,9 +12633,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March"
                 ],
@@ -12865,9 +12736,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -12924,9 +12792,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -12989,9 +12854,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -13046,9 +12908,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -14004,9 +13863,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "14th of March",
                   "March 14th"
@@ -14113,9 +13969,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "14th of March",
                   "March 14th"
@@ -14183,9 +14036,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "14th of March",
                   "March 14th"
@@ -15179,9 +15029,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "march 7th"
                 ],
@@ -15237,9 +15084,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "march 7th"
                 ],
@@ -15344,9 +15188,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "march 7th"
                 ],
@@ -15401,9 +15242,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "march 7th"
                 ],
@@ -16260,9 +16098,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "10th of this month"
                 ],
@@ -16369,9 +16204,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "10th of this month",
                   "March 10th"
@@ -16440,9 +16272,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "10th of this month",
                   "March 10th"
@@ -17474,9 +17303,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -17580,9 +17406,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -17636,9 +17459,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -17692,9 +17512,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -18625,9 +18442,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -18731,9 +18545,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -18787,9 +18598,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -18843,9 +18651,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -19590,9 +19395,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -19696,9 +19498,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -19753,9 +19552,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -19810,9 +19606,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -20954,9 +20747,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "Friday next week"
                 ],
@@ -21012,9 +20802,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "Friday next week"
                 ],
@@ -21119,9 +20906,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "Friday next week",
                   "March 8th"
@@ -21176,9 +20960,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "Friday next week",
                   "March 8th"
@@ -21233,9 +21014,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "Friday next week",
                   "March 8th"
@@ -21945,9 +21723,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 13th",
                   "the 13th"
@@ -22004,9 +21779,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 13th",
                   "the 13th"
@@ -22112,9 +21884,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 13th",
                   "the 13th"
@@ -22172,9 +21941,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 13th",
                   "the 13th"
@@ -22238,9 +22004,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 13th",
                   "the 13th"
@@ -22296,9 +22059,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 13th",
                   "the 13th"
@@ -23239,9 +22999,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -23297,9 +23054,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -23406,9 +23160,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -23475,9 +23226,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -24283,9 +24031,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of March"
                 ],
@@ -24390,9 +24135,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -24448,9 +24190,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -24506,9 +24245,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -25352,9 +25088,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "8th of March"
                 ],
@@ -25408,9 +25141,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "8th of March"
                 ],
@@ -25515,9 +25245,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -25575,9 +25302,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -25641,9 +25365,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -25699,9 +25420,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -26464,9 +26182,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -26522,9 +26237,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -26629,9 +26341,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -26686,9 +26395,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -26743,9 +26449,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -27603,9 +27306,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "camry"
-                ],
                 "dropoff_date": [
                   "march 11th"
                 ],
@@ -27709,9 +27409,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "camry"
-                ],
                 "dropoff_date": [
                   "march 11th"
                 ],
@@ -27765,9 +27462,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "camry"
-                ],
                 "dropoff_date": [
                   "march 11th"
                 ],
@@ -27821,9 +27515,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "camry"
-                ],
                 "dropoff_date": [
                   "march 11th"
                 ],
@@ -28705,9 +28396,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -28812,9 +28500,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -28868,9 +28553,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -28924,9 +28606,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -29929,9 +29608,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 7th"
                 ],
@@ -30036,9 +29712,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "the 7th"
@@ -30093,9 +29766,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "the 7th"
@@ -30150,9 +29820,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "the 7th"
@@ -30816,9 +30483,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of march",
                   "March 12th"
@@ -30875,9 +30539,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of march",
                   "March 12th"
@@ -30983,9 +30644,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of march",
                   "March 12th"
@@ -31042,9 +30700,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of march",
                   "March 12th"
@@ -31101,9 +30756,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of march",
                   "March 12th"
@@ -32025,9 +31677,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "7th of March"
                 ],
@@ -32083,9 +31732,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "7th of March"
                 ],
@@ -32192,9 +31838,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -32263,9 +31906,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -32321,9 +31961,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -33071,9 +32708,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -33178,9 +32812,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -33235,9 +32866,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -33292,9 +32920,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -34085,9 +33710,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -34192,9 +33814,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -34250,9 +33869,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -34985,9 +34601,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -35043,9 +34656,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -35152,9 +34762,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -35222,9 +34829,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -35279,9 +34883,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -36368,9 +35969,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "10th of March"
                 ],
@@ -36475,9 +36073,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -36533,9 +36128,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -36591,9 +36183,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -37557,9 +37146,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -37615,9 +37201,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -37722,9 +37305,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -37779,9 +37359,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -38638,9 +38215,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -38696,9 +38270,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -38805,9 +38376,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -38875,9 +38443,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -38932,9 +38497,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -39853,9 +39415,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of this month"
                 ],
@@ -39960,9 +39519,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -40020,9 +39576,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -40086,9 +39639,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -41013,9 +40563,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "the 3rd"
@@ -41119,9 +40666,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "the 3rd"
@@ -41175,9 +40719,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "the 3rd"
@@ -41869,9 +41410,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -41979,9 +41517,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -42050,9 +41585,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -42723,9 +42255,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -42780,9 +42309,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -42888,9 +42414,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -42957,9 +42480,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -43013,9 +42533,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -43681,9 +43198,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 8th"
                 ],
@@ -43790,9 +43304,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 8th"
                 ],
@@ -43859,9 +43370,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 8th"
                 ],
@@ -43915,9 +43423,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 8th"
                 ],
@@ -44878,9 +44383,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Rogue"
-                ],
                 "dropoff_date": [
                   "the 11th"
                 ],
@@ -44934,9 +44436,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Rogue"
-                ],
                 "dropoff_date": [
                   "the 11th"
                 ],
@@ -45041,9 +44540,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Rogue"
-                ],
                 "dropoff_date": [
                   "March 11th",
                   "the 11th"
@@ -45099,9 +44595,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Rogue"
-                ],
                 "dropoff_date": [
                   "March 11th",
                   "the 11th"
@@ -45924,9 +45417,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -46031,9 +45521,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -46088,9 +45575,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -46145,9 +45629,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -47149,9 +46630,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 8th"
                 ],
@@ -47207,9 +46685,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 8th"
                 ],
@@ -47316,9 +46791,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 8th"
                 ],
@@ -47386,9 +46858,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 8th"
                 ],
@@ -48155,9 +47624,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 10th"
                 ],
@@ -48212,9 +47678,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 10th"
                 ],
@@ -48318,9 +47781,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 10th"
                 ],
@@ -48375,9 +47835,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 10th"
                 ],
@@ -49457,9 +48914,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cooper"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -49516,9 +48970,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cooper"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -49624,9 +49075,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cooper"
-                ],
                 "dropoff_date": [
                   "6th of this month",
                   "march 6th"
@@ -49683,9 +49131,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cooper"
-                ],
                 "dropoff_date": [
                   "6th of this month",
                   "march 6th"
@@ -49742,9 +49187,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cooper"
-                ],
                 "dropoff_date": [
                   "6th of this month",
                   "march 6th"
@@ -50686,9 +50128,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -50744,9 +50183,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -50851,9 +50287,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -50908,9 +50341,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -51818,9 +51248,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "altima"
-                ],
                 "dropoff_date": [
                   "march 12th"
                 ],
@@ -51925,9 +51352,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "altima"
-                ],
                 "dropoff_date": [
                   "march 12th"
                 ],
@@ -51982,9 +51406,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "altima"
-                ],
                 "dropoff_date": [
                   "march 12th"
                 ],
@@ -52979,9 +52400,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -53034,9 +52452,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -53140,9 +52555,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 10th",
                   "the 10th"
@@ -53197,9 +52609,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 10th",
                   "the 10th"
@@ -54030,9 +53439,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 12th",
                   "the 12th"
@@ -54138,9 +53544,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 12th",
                   "the 12th"
@@ -54197,9 +53600,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 12th",
                   "the 12th"
@@ -54256,9 +53656,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 12th",
                   "the 12th"
@@ -55382,9 +54779,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "the 4th"
                 ],
@@ -55440,9 +54834,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "the 4th"
                 ],
@@ -55547,9 +54938,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -55604,9 +54992,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -55661,9 +55046,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -56481,9 +55863,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "next Monday"
@@ -56539,9 +55918,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "next Monday"
@@ -56646,9 +56022,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "MArch 4th",
                   "March 4th",
@@ -56704,9 +56077,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "MArch 4th",
                   "March 4th",
@@ -56762,9 +56132,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "MArch 4th",
                   "March 4th",
@@ -57459,9 +56826,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -57566,9 +56930,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -57623,9 +56984,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -57680,9 +57038,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -58742,9 +58097,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 5th"
                 ],
@@ -58800,9 +58152,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 5th"
                 ],
@@ -58909,9 +58258,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 5th"
                 ],
@@ -58979,9 +58325,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 5th"
                 ],
@@ -59798,9 +59141,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "March 10th",
                   "the 10th"
@@ -59907,9 +59247,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "March 10th",
                   "the 10th"
@@ -59977,9 +59314,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "March 10th",
                   "the 10th"
@@ -60034,9 +59368,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "March 10th",
                   "the 10th"
@@ -61025,9 +60356,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "Thursday next week"
                 ],
@@ -61131,9 +60459,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -61188,9 +60513,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -115955,3 +115277,4 @@
     ]
   }
 ]
+

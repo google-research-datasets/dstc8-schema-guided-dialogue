@@ -70191,9 +70191,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 CHICAGO"
-                ],
                 "location": [
                   "Chicago"
                 ]
@@ -70230,9 +70227,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 CHICAGO"
-                ],
                 "location": [
                   "Chicago"
                 ]
@@ -71458,9 +71452,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cathedral of Christ the King"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -72467,9 +72458,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 Chicago"
-                ],
                 "location": [
                   "Chi-town",
                   "Chicago"
@@ -72507,9 +72495,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 Chicago"
-                ],
                 "location": [
                   "Chi-town",
                   "Chicago"
@@ -73726,9 +73711,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Coit Tower"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -73772,9 +73754,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Coit Tower"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -74829,9 +74808,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Francisco"
                 ]
@@ -75946,9 +75922,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "NYC",
                   "New York"
@@ -75986,9 +75959,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "NYC",
                   "New York"
@@ -77404,9 +77374,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LAX",
                   "Los Angeles"
@@ -78443,9 +78410,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Burnham Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -79815,9 +79779,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LAX",
                   "Los Angeles"
@@ -79855,9 +79816,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LAX",
                   "Los Angeles"
@@ -81007,9 +80965,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "autry museum of the american west"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -82031,9 +81986,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -82916,9 +82868,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland",
                   "Portland, OR"
@@ -84211,9 +84160,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bartram's Garden"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -85502,9 +85448,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran",
                   "San Francisco"
@@ -86490,9 +86433,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LAX",
                   "Los Angeles"
@@ -87606,9 +87546,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -88893,9 +88830,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Castles N Coasters"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -89856,9 +89790,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta Botanical Garden"
-                ],
                 "location": [
                   "Atlanta"
                 ]
@@ -90890,9 +90821,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta Botanical Garden"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -90935,9 +90863,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta Botanical Garden"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -92226,9 +92151,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave site"
-                ],
                 "location": [
                   "Seattle",
                   "Seattle, WA"
@@ -92266,9 +92188,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave site"
-                ],
                 "location": [
                   "Seattle",
                   "Seattle, WA"
@@ -93481,9 +93400,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bradbury Building"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -94529,9 +94445,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crissy Field"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -94578,9 +94491,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crissy Field"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -95549,9 +95459,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave Site"
-                ],
                 "location": [
                   "Seattle",
                   "Seattle, WA"
@@ -96587,9 +96494,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LA",
                   "Los Angeles"
@@ -97479,9 +97383,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -97525,9 +97426,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -98706,9 +98604,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -98754,9 +98649,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -99824,9 +99716,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Kerry Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -99870,9 +99759,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Kerry Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -101135,9 +101021,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cable Car Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -101181,9 +101064,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cable Car Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -102231,9 +102111,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -102277,9 +102154,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -103154,9 +103028,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "New York",
                   "New York City"
@@ -104427,9 +104298,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Lan Su Chinese Garden"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -105649,9 +105517,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron garden"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -106679,9 +106544,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -107852,9 +107714,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 Chicago"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -108917,9 +108776,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "hollywood walk of fame"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -110322,3 +110178,4 @@
     ]
   }
 ]
+

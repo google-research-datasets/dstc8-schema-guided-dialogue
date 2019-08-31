@@ -112,9 +112,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "99 Wonderland Park"
-                ],
                 "location": [
                   "Kuala Lumpur"
                 ]
@@ -636,9 +633,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "apsley house"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -1107,9 +1101,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris"
                 ]
@@ -1634,9 +1625,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Astoria Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -2090,9 +2078,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland, OR"
                 ]
@@ -2695,9 +2680,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "location": [
                   "London"
                 ]
@@ -3198,9 +3180,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 st mary axe (the gherkin)"
-                ],
                 "location": [
                   "london"
                 ]
@@ -3819,9 +3798,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Apsley House"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -4480,9 +4456,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -5107,9 +5080,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace Ice Rink"
-                ],
                 "location": [
                   "London"
                 ]
@@ -5536,9 +5506,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "location": [
                   "Vancouver"
                 ]
@@ -6077,9 +6044,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "56 Signers of the Declaration of Independence Memorial"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -6696,9 +6660,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cathedral of St. Matthew the Apostle"
-                ],
                 "location": [
                   "Washington D.C."
                 ]
@@ -7243,9 +7204,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "3D Toronto sign"
-                ],
                 "location": [
                   "Toronto"
                 ]
@@ -7828,9 +7786,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Floyd Lamb Park"
-                ],
                 "location": [
                   "Vegas"
                 ]
@@ -8434,9 +8389,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Harbourfront Centre"
-                ],
                 "category": [
                   "Performing Arts Venue"
                 ],
@@ -9205,9 +9157,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "the picasso"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -9734,9 +9683,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Writers Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -10250,9 +10196,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arte Carrillo Gil Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -10769,9 +10712,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -11275,9 +11215,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "location": [
                   "vancouver"
                 ]
@@ -11740,9 +11677,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Chihuly Garden and Glass"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -12203,9 +12137,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Gandhi Smriti"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -12731,9 +12662,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "location": [
                   "Vancouver, BC"
                 ]
@@ -13367,9 +13295,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "PNE/Playland"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -14062,9 +13987,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "BAPS Shri Swaminarayan Mandir London"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -14875,9 +14797,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -15565,9 +15484,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "60"
                 ]
               }
             }
@@ -16339,9 +16255,6 @@
                 "date": [
                   "8th of this month",
                   "March 8th"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -16905,9 +16818,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -17420,9 +17330,6 @@
                 "date": [
                   "March 8th",
                   "next Friday"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -18151,9 +18058,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "64"
                 ]
               }
             }
@@ -18979,9 +18883,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -19587,9 +19488,6 @@
                 "date": [
                   "8th of March",
                   "March 8th"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -20268,9 +20166,6 @@
                 "date": [
                   "March 12th",
                   "the 12th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -20857,9 +20752,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -21528,9 +21420,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -22153,9 +22042,6 @@
                 "date": [
                   "3rd of this month",
                   "March 3rd"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -22620,9 +22506,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "60"
                 ]
               }
             }
@@ -23243,9 +23126,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -23876,9 +23756,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -24470,9 +24347,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -25160,9 +25034,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "57"
                 ]
               }
             }
@@ -25846,9 +25717,6 @@
                 "date": [
                   "March 4th",
                   "Monday next week"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -26480,9 +26348,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -27110,9 +26975,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "60"
                 ]
               }
             }
@@ -27716,9 +27578,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -28434,9 +28293,6 @@
                 "date": [
                   "March 2nd",
                   "Saturday this week"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -29247,9 +29103,6 @@
                 "date": [
                   "2nd of March",
                   "March 2nd"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -30178,9 +30031,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -30735,9 +30585,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -31439,9 +31286,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "64"
                 ]
               }
             }
@@ -31954,9 +31798,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -32473,9 +32314,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "57"
                 ]
               }
             }
@@ -33263,9 +33101,6 @@
                 "date": [
                   "6th of this month",
                   "March 6th"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -34215,9 +34050,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -35083,9 +34915,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -35685,9 +35514,6 @@
                 "date": [
                   "March 4th",
                   "Monday next week"
-                ],
-                "temperature": [
-                  "58"
                 ]
               }
             }
@@ -36449,9 +36275,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -37019,9 +36842,6 @@
                 "date": [
                   "March 13th",
                   "the 13th"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -37605,9 +37425,6 @@
                 "date": [
                   "1st of March",
                   "March 1st"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -38166,9 +37983,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -38971,9 +38785,6 @@
                 "date": [
                   "March 3rd",
                   "day after tomorrow"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -39458,9 +39269,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -40053,9 +39861,6 @@
                 "date": [
                   "9th of March",
                   "March 9th"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -40783,9 +40588,6 @@
                 "date": [
                   "March 6th",
                   "next Wednesday"
-                ],
-                "temperature": [
-                  "64"
                 ]
               }
             }
@@ -41497,9 +41299,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -42108,9 +41907,6 @@
                 ],
                 "date": [
                   "next Wednesday"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -42671,9 +42467,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -43249,9 +43042,6 @@
                 ],
                 "date": [
                   "3rd of March"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -43798,9 +43588,6 @@
               "slot_values": {
                 "city": [
                   "Atlanta, Ga"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -44393,9 +44180,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -44991,9 +44775,6 @@
                 ],
                 "date": [
                   "5th of this month"
-                ],
-                "temperature": [
-                  "56"
                 ]
               }
             }
@@ -45537,9 +45318,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -46426,9 +46204,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "63"
                 ]
               }
             }
@@ -46978,9 +46753,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -47651,9 +47423,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -48217,9 +47986,6 @@
               "slot_values": {
                 "city": [
                   "Yountville"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -48786,9 +48552,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -49398,9 +49161,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -49995,9 +49755,6 @@
                 ],
                 "date": [
                   "11th of this month"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -50737,9 +50494,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -51325,9 +51079,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "64"
                 ]
               }
             }
@@ -51906,9 +51657,6 @@
                 ],
                 "date": [
                   "next Wednesday"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -52413,9 +52161,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -52867,9 +52612,6 @@
               "slot_values": {
                 "city": [
                   "Seattle, WA"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -53520,9 +53262,6 @@
                 ],
                 "date": [
                   "the 11th"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -54114,9 +53853,6 @@
                 ],
                 "date": [
                   "1st of this month"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -54691,9 +54427,6 @@
               "slot_values": {
                 "city": [
                   "San Diego"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -55416,9 +55149,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -55859,9 +55589,6 @@
               "slot_values": {
                 "city": [
                   "Phoenix"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -56661,9 +56388,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -57132,9 +56856,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -57680,9 +57401,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -58218,9 +57936,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -58760,9 +58475,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -59259,9 +58971,6 @@
               "slot_values": {
                 "city": [
                   "Berkeley"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -59939,9 +59648,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -60430,9 +60136,6 @@
               "slot_values": {
                 "city": [
                   "LAX"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -61049,9 +60752,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -61607,9 +61307,6 @@
                 ],
                 "date": [
                   "march 13th"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -62353,9 +62050,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -62948,9 +62642,6 @@
                 ],
                 "date": [
                   "7th of this month"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -63600,9 +63291,6 @@
                 ],
                 "date": [
                   "next Thursday"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -64344,9 +64032,6 @@
                 ],
                 "date": [
                   "the 1st"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -64736,9 +64421,6 @@
                 ],
                 "date": [
                   "10th of March"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -82085,3 +81767,4 @@
     ]
   }
 ]
+

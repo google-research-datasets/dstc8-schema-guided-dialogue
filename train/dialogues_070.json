@@ -270,9 +270,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -1016,9 +1013,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philly"
                 ]
@@ -1932,9 +1926,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -2686,9 +2677,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -3513,9 +3501,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -4488,9 +4473,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Bay"
-                ],
                 "location": [
                   "SFO"
                 ]
@@ -5483,9 +5465,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disney California Adventure Park"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -6256,9 +6235,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cable Car Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -7442,9 +7418,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California State Capitol Museum"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -8195,9 +8168,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Long Beach Museum of Art"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -8962,9 +8932,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -10017,9 +9984,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Discovery Children's Museum"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -10961,9 +10925,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Discovery children's museum"
-                ],
                 "location": [
                   "Vegas"
                 ]
@@ -11762,9 +11723,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Forestiere Underground Gardens"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -12588,9 +12546,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Burke Museum of Natural History and Culture"
-                ],
                 "location": [
                   "Seattle, WA"
                 ]
@@ -13289,9 +13244,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -14074,9 +14026,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Old Las Vegas Mormon Fort State Historic Park"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -14931,9 +14880,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "DISCOVERY Children's Museum"
-                ],
                 "location": [
                   "Vegas"
                 ]
@@ -15852,9 +15798,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SFO"
                 ]
@@ -16539,9 +16482,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bethesda Terrace"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -17306,9 +17246,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "woodland park zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -17940,9 +17877,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -18635,9 +18569,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -19625,9 +19556,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Hollywood Wax Museum(r)"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -20326,9 +20254,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Museum"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -21052,9 +20977,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "sacramento zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -21889,9 +21811,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento"
                 ]
@@ -22590,9 +22509,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "location": [
                   "Long Beach, CA"
                 ]
@@ -23443,9 +23359,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "location": [
                   "Fresno, CA"
                 ]
@@ -24201,9 +24114,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -25060,9 +24970,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Burke Museum of Natural History and Culture"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -25559,9 +25466,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Francisco"
                 ]
@@ -26300,9 +26204,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -26995,9 +26896,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disney California Adventure Park"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -27679,9 +27577,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "SD"
                 ]
@@ -28783,9 +28678,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "slotzilla zip line"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -29516,9 +29408,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -30368,9 +30257,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Springs Preserve"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -31186,9 +31072,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fremont Street Experience"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -31990,9 +31873,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Coit Tower"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -33007,9 +32887,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland, OR"
                 ]
@@ -33902,9 +33779,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "california automobile museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -34605,9 +34479,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Old Las Vegas Mormon Fort State Historic Park"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -35453,9 +35324,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "location": [
                   "Long Beach, CA"
                 ]
@@ -36133,9 +36001,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave Site"
-                ],
                 "location": [
                   "Seattle, WA"
                 ]
@@ -36893,9 +36758,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Battleship USS Iowa Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -37570,9 +37432,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "DISCOVERY Children's Museum"
-                ],
                 "location": [
                   "Las Vegas"
                 ]
@@ -38254,9 +38113,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "SD"
                 ]
@@ -38991,9 +38847,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "location": [
                   "Long Beach, CA"
                 ]
@@ -39927,9 +39780,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "angel stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -40990,9 +40840,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fairytale Town"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -41988,9 +41835,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -42585,9 +42429,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento"
                 ]
@@ -43357,9 +43198,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Pixar Pier"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -44220,9 +44058,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Lan Su Chinese Garden"
-                ],
                 "location": [
                   "Portland, OR"
                 ]
@@ -44789,9 +44624,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fairytale Town"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -45697,9 +45529,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -46255,9 +46084,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Exposition Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -47174,9 +47000,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "location": [
                   "New York City"
                 ]
@@ -48086,9 +47909,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "SD"
                 ]
@@ -48872,9 +48692,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -49772,9 +49589,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -50544,9 +50358,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Hollywood Walk of Fame"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -51276,9 +51087,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave Site"
-                ],
                 "location": [
                   "Seattle"
                 ]
@@ -52023,9 +51831,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -52788,9 +52593,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "DISCOVERY Children's Museum"
-                ],
                 "location": [
                   "Las Vegas"
                 ]
@@ -53592,9 +53394,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "OMSI"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -54466,9 +54265,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave Site"
-                ],
                 "location": [
                   "Seattle"
                 ]
@@ -55258,9 +55054,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -55991,9 +55784,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fleet Science Center"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -56815,9 +56605,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "The Queen Mary"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -57679,9 +57466,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fremont Street Experience"
-                ],
                 "category": [
                   "Shopping Area"
                 ],
@@ -58569,9 +58353,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland, Or"
                 ]
@@ -59473,9 +59254,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Science World at TELUS World of Science"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -60288,9 +60066,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California automobile museum"
-                ],
                 "location": [
                   "sacramento"
                 ]
@@ -61013,9 +60788,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "category": [
                   "Sports Venue"
                 ],
@@ -61660,9 +61432,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disney California Adventure Park"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -62656,9 +62425,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -63599,9 +63365,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -64504,9 +64267,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "cars land"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -65281,9 +65041,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -66024,9 +65781,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "DISCOVERY Children's Museum"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -66939,9 +66693,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "location": [
                   "Fresno"
                 ]
@@ -67702,9 +67453,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Theatre"
-                ],
                 "category": [
                   "Performing Arts Venue"
                 ],
@@ -68531,9 +68279,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "location": [
                   "Fresno"
                 ]
@@ -69439,9 +69184,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Burke Museum of Natural History and Culture"
-                ],
                 "location": [
                   "Seattle, WA"
                 ]
@@ -70353,9 +70095,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -71375,9 +71114,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -72120,9 +71856,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "location": [
                   "Fresno"
                 ]
@@ -72999,9 +72732,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -73910,9 +73640,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -74797,9 +74524,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "location": [
                   "Long Beach, CA"
                 ]
@@ -75686,9 +75410,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SFO"
                 ]
@@ -76562,9 +76283,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fort Funston"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -77508,9 +77226,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -78272,9 +77987,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Sutter's Fort | State Historic Park"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -78962,9 +78674,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -79802,9 +79511,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave Site"
-                ],
                 "location": [
                   "Seattle"
                 ]
@@ -80753,9 +80459,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "location": [
                   "LA"
                 ]
@@ -81693,9 +81396,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Museum"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -82763,9 +82463,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "balboa theatre"
-                ],
                 "location": [
                   "san diego"
                 ]
@@ -83455,9 +83152,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -84271,9 +83965,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Grace Cathedral"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -85249,9 +84940,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Harry Bridges Memorial Park"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -86010,9 +85698,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disneyland Park"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -86960,9 +86645,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran"
                 ]
@@ -87627,9 +87309,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -88540,9 +88219,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Gas Works Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -89208,9 +88884,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Contemporary Jewish Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -89937,9 +89610,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -90734,9 +90404,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "location": [
                   "Long Beach"
                 ]
@@ -91646,9 +91313,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "aquarium of the pacific"
-                ],
                 "location": [
                   "Long Beach, CA"
                 ]
@@ -92515,9 +92179,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -93397,9 +93058,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cars Land"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -94275,9 +93933,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fleet Science Center"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -94880,9 +94535,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum Of the American West"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -95748,9 +95400,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento"
                 ]
@@ -96490,9 +96139,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "location": [
                   "Long Beach"
                 ]
@@ -97256,9 +96902,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -98093,9 +97736,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Astoria Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -99104,9 +98744,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cars Land"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -99780,9 +99417,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -100501,9 +100135,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of OCeanography"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -101317,9 +100948,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -102158,9 +101786,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Theatre"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -103049,9 +102674,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -103918,9 +103540,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Sutter's Fort | State Historic Park"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -104847,9 +104466,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -105268,3 +104884,4 @@
     ]
   }
 ]
+

@@ -237,9 +237,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 5th"
                 ],
@@ -343,9 +340,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 5th"
                 ],
@@ -456,9 +450,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -495,9 +486,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -983,9 +971,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "3rd of this month"
                 ],
@@ -1040,9 +1025,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "3rd of this month"
                 ],
@@ -1148,9 +1130,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "3rd of this month",
                   "March 3rd"
@@ -1218,9 +1197,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "3rd of this month",
                   "March 3rd"
@@ -1310,9 +1286,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran"
                 ]
@@ -1349,9 +1322,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran"
                 ]
@@ -1606,9 +1576,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "this Saturday"
                 ],
@@ -1712,9 +1679,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 2nd",
                   "this Saturday"
@@ -1878,9 +1842,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Barnes Foundation"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -2123,9 +2084,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "14th of this month"
                 ],
@@ -2231,9 +2189,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -2301,9 +2256,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -2386,9 +2338,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Discovery Children's Museum"
-                ],
                 "location": [
                   "Vegas"
                 ]
@@ -2425,9 +2374,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Discovery Children's Museum"
-                ],
                 "location": [
                   "Vegas"
                 ]
@@ -2695,9 +2641,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "next Tuesday"
                 ],
@@ -2803,9 +2746,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 5th",
                   "next Tuesday"
@@ -2873,9 +2813,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 5th",
                   "next Tuesday"
@@ -2965,9 +2902,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree lane"
-                ],
                 "location": [
                   "Fresno"
                 ]
@@ -3004,9 +2938,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree lane"
-                ],
                 "location": [
                   "Fresno"
                 ]
@@ -3237,9 +3168,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -3345,9 +3273,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -3519,9 +3444,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Burnham Park"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -3561,9 +3483,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Burnham Park"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -3864,9 +3783,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "prius"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -3921,9 +3837,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "prius"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -4027,9 +3940,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "prius"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -4087,9 +3997,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "prius"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -4153,9 +4060,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "prius"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -4246,9 +4150,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "giraffe centre"
-                ],
                 "location": [
                   "Nairobi"
                 ]
@@ -4648,9 +4549,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -4754,9 +4652,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -4810,9 +4705,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -4904,9 +4796,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "99 WOnderland Park"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -4946,9 +4835,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "99 WOnderland Park"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -5202,9 +5088,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -5307,9 +5190,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -5475,9 +5355,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquaboulevard"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -6013,9 +5890,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -6119,9 +5993,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "next Wednesday"
@@ -6388,9 +6259,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disneyland Park"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -6430,9 +6298,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disneyland Park"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -6668,9 +6533,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 3rd"
                 ],
@@ -6725,9 +6587,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 3rd"
                 ],
@@ -6833,9 +6692,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 3rd"
                 ],
@@ -6902,9 +6758,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 3rd"
                 ],
@@ -6995,9 +6848,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -7202,9 +7052,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -7309,9 +7156,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of March",
                   "March 11th"
@@ -7436,9 +7280,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -7701,9 +7542,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "the 13th"
                 ],
@@ -7758,9 +7596,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "the 13th"
                 ],
@@ -7864,9 +7699,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 13th",
                   "the 13th"
@@ -7923,9 +7755,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 13th",
                   "the 13th"
@@ -7988,9 +7817,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 13th",
                   "the 13th"
@@ -8080,9 +7906,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ALcatraz"
-                ],
                 "location": [
                   "SFO"
                 ]
@@ -8441,9 +8264,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Equinox"
-                ],
                 "dropoff_date": [
                   "March 5th"
                 ],
@@ -8547,9 +8367,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Equinox"
-                ],
                 "dropoff_date": [
                   "March 5th"
                 ],
@@ -8604,9 +8421,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Equinox"
-                ],
                 "dropoff_date": [
                   "March 5th"
                 ],
@@ -8762,9 +8576,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -8807,9 +8618,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -9114,9 +8922,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "8th of March"
                 ],
@@ -9220,9 +9025,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -9277,9 +9079,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -9402,9 +9201,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "location": [
                   "Vancouver"
                 ]
@@ -9640,9 +9436,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -9746,9 +9539,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -9805,9 +9595,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -9870,9 +9657,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -10082,9 +9866,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Sri Mahamariamman Temple, Kuala Lumpur"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -10127,9 +9908,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Sri Mahamariamman Temple, Kuala Lumpur"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -10378,9 +10156,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -10435,9 +10210,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -10541,9 +10313,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "March 10th",
                   "the 10th"
@@ -10662,9 +10431,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Castles N' coasters"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -10707,9 +10473,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Castles N' coasters"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -11111,9 +10874,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "Thursday next week"
                 ],
@@ -11165,9 +10925,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "Thursday next week"
                 ],
@@ -11270,9 +11027,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -11326,9 +11080,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "Thursday next week"
@@ -11417,9 +11168,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -11672,9 +11420,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -11778,9 +11523,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "March 13th"
@@ -11944,9 +11686,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Lan Su Chinese Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -11983,9 +11722,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Lan Su Chinese Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -12284,9 +12020,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cruze"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -12390,9 +12123,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cruze"
-                ],
                 "dropoff_date": [
                   "march 9th",
                   "the 9th"
@@ -12448,9 +12178,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cruze"
-                ],
                 "dropoff_date": [
                   "march 9th",
                   "the 9th"
@@ -12534,9 +12261,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "3d Toronto sign"
-                ],
                 "location": [
                   "toronto"
                 ]
@@ -12919,9 +12643,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "next Friday"
                 ],
@@ -13025,9 +12746,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "March 8th",
                   "next Friday"
@@ -13082,9 +12800,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "March 8th",
                   "next Friday"
@@ -13228,9 +12943,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Bay"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -13614,9 +13326,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 4th"
                 ],
@@ -13671,9 +13380,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 4th"
                 ],
@@ -13777,9 +13483,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 4th"
                 ],
@@ -13935,9 +13638,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Bay"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -14391,9 +14091,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -14446,9 +14143,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -14552,9 +14246,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -14610,9 +14301,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -14674,9 +14362,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -14831,9 +14516,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Pixar Pier"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -15079,9 +14761,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of this month"
                 ],
@@ -15185,9 +14864,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -15242,9 +14918,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -15437,9 +15110,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arizona Capitol Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -15814,9 +15484,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "4th of this month"
                 ],
@@ -15871,9 +15538,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "4th of this month"
                 ],
@@ -15977,9 +15641,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "4th of this month",
                   "March 4th"
@@ -16035,9 +15696,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "4th of this month",
                   "March 4th"
@@ -16099,9 +15757,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "4th of this month",
                   "March 4th"
@@ -16193,9 +15848,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -16539,9 +16191,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fusion"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -16596,9 +16245,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fusion"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -16702,9 +16348,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fusion"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -16873,9 +16516,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Harry Bridges Memorial Park"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -17115,9 +16755,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -17172,9 +16809,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -17280,9 +16914,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "MArch 9th",
                   "the 9th"
@@ -17351,9 +16982,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "MArch 9th",
                   "the 9th"
@@ -17498,9 +17126,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -17537,9 +17162,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -17868,9 +17490,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -17974,9 +17593,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -18030,9 +17646,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -18235,9 +17848,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -18280,9 +17890,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -18482,9 +18089,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "11th of this month"
                 ],
@@ -18587,9 +18191,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -18644,9 +18245,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -18707,9 +18305,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -18797,9 +18392,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "SD"
                 ]
@@ -19002,9 +18594,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -19057,9 +18646,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -19163,9 +18749,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "next Wednesday"
@@ -19274,9 +18857,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Writers Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -19316,9 +18896,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Writers Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -19887,9 +19464,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Forte"
-                ],
                 "dropoff_date": [
                   "10th of this month"
                 ],
@@ -19995,9 +19569,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Forte"
-                ],
                 "dropoff_date": [
                   "10th of this month",
                   "March 10th"
@@ -20187,9 +19758,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Chicago History Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -20755,9 +20323,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "14th of this month"
                 ],
@@ -20811,9 +20376,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "14th of this month"
                 ],
@@ -20920,9 +20482,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "march 14th"
@@ -20990,9 +20549,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "march 14th"
@@ -21122,9 +20678,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "99 wonderland park"
-                ],
                 "location": [
                   "KL"
                 ]
@@ -21161,9 +20714,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "99 wonderland park"
-                ],
                 "location": [
                   "KL"
                 ]
@@ -21357,9 +20907,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -21412,9 +20959,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -21518,9 +21062,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "11th of March",
                   "March 11th"
@@ -21666,9 +21207,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave Site"
-                ],
                 "location": [
                   "Seattle, WA"
                 ]
@@ -21705,9 +21243,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave Site"
-                ],
                 "location": [
                   "Seattle, WA"
                 ]
@@ -22116,9 +21651,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "next Friday"
                 ],
@@ -22172,9 +21704,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "next Friday"
                 ],
@@ -22279,9 +21808,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "March 8th",
                   "next Friday"
@@ -22338,9 +21864,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "March 8th",
                   "next Friday"
@@ -22403,9 +21926,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "March 8th",
                   "next Friday"
@@ -22524,9 +22044,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Humayun's Tomb"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -22569,9 +22086,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Humayun's Tomb"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -22939,9 +22453,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "10th of March"
                 ],
@@ -22995,9 +22506,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "10th of March"
                 ],
@@ -23100,9 +22608,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -23158,9 +22663,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -23222,9 +22724,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "10th of March",
                   "March 10th"
@@ -23367,9 +22866,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -23575,9 +23071,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "day after tomorrow"
                 ],
@@ -23632,9 +23125,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "day after tomorrow"
                 ],
@@ -23740,9 +23230,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "day after tomorrow"
@@ -23810,9 +23297,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "day after tomorrow"
@@ -23982,9 +23466,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Oregon Zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -24030,9 +23511,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Oregon Zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -24569,9 +24047,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cherokee"
-                ],
                 "dropoff_date": [
                   "the 4th"
                 ],
@@ -24626,9 +24101,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cherokee"
-                ],
                 "dropoff_date": [
                   "the 4th"
                 ],
@@ -24732,9 +24204,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cherokee"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -24790,9 +24259,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "cherokee"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -24854,9 +24320,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cherokee"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -24948,9 +24411,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum steps"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -24990,9 +24450,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum steps"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -25424,9 +24881,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "next Friday"
                 ],
@@ -25531,9 +24985,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "March 8th",
                   "next Friday"
@@ -25600,9 +25051,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "March 8th",
                   "next Friday"
@@ -25826,9 +25274,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Bay"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -26381,9 +25826,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "sentra"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -26438,9 +25880,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "sentra"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -26546,9 +25985,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "sentra"
-                ],
                 "dropoff_date": [
                   "13th of this month",
                   "march 13th"
@@ -26667,9 +26103,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas tree lane"
-                ],
                 "location": [
                   "Fresno, CA"
                 ]
@@ -26914,9 +26347,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -27022,9 +26452,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -27090,9 +26517,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -27173,9 +26597,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "New York"
                 ]
@@ -27415,9 +26836,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -27472,9 +26890,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -27580,9 +26995,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -27649,9 +27061,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 7th"
                 ],
@@ -27749,9 +27158,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -28129,9 +27535,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of March"
                 ],
@@ -28237,9 +27640,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -28307,9 +27707,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "13th of March",
                   "March 13th"
@@ -28395,9 +27792,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -28437,9 +27831,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -28923,9 +28314,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -28978,9 +28366,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -29084,9 +28469,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -29139,9 +28521,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -29327,9 +28706,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace"
-                ],
                 "location": [
                   "London"
                 ]
@@ -29366,9 +28742,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace"
-                ],
                 "location": [
                   "London"
                 ]
@@ -29792,9 +29165,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fusion"
-                ],
                 "dropoff_date": [
                   "day after tomorrow"
                 ],
@@ -29899,9 +29269,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Fusion"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "day after tomorrow"
@@ -30077,9 +29444,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Chihuly Garden and Glass"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -30122,9 +29486,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Chihuly Garden and Glass"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -30375,9 +29736,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -30432,9 +29790,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -30538,9 +29893,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -30596,9 +29948,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -30660,9 +30009,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th"
                 ],
@@ -30750,9 +30096,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -31073,9 +30416,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -31181,9 +30521,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -31251,9 +30588,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -31346,9 +30680,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -31843,9 +31174,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "12th of this month"
                 ],
@@ -31949,9 +31277,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -32060,9 +31385,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Castles N' Coasters"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -32102,9 +31424,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Castles N' Coasters"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -32403,9 +31722,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -32460,9 +31776,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -32566,9 +31879,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 14th"
                 ],
@@ -32797,9 +32107,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cognacq-Jay Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -32845,9 +32152,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cognacq-Jay Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -33275,9 +32579,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cruze"
-                ],
                 "dropoff_date": [
                   "9th of March"
                 ],
@@ -33332,9 +32633,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cruze"
-                ],
                 "dropoff_date": [
                   "9th of March"
                 ],
@@ -33438,9 +32736,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cruze"
-                ],
                 "dropoff_date": [
                   "9th of March",
                   "march 9th"
@@ -33495,9 +32790,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "cruze"
-                ],
                 "dropoff_date": [
                   "9th of March",
                   "march 9th"
@@ -33587,9 +32879,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American church in paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -34060,9 +33349,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "11th of this month"
                 ],
@@ -34117,9 +33403,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "11th of this month"
                 ],
@@ -34225,9 +33508,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -34295,9 +33575,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -34446,9 +33723,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta History Center"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -34491,9 +33765,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta History Center"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -35006,9 +34277,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "the 2nd"
                 ],
@@ -35062,9 +34330,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "the 2nd"
                 ],
@@ -35167,9 +34432,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 2nd",
                   "the 2nd"
@@ -35223,9 +34485,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 2nd",
                   "the 2nd"
@@ -35374,9 +34633,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -35657,9 +34913,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "Friday next week"
                 ],
@@ -35763,9 +35016,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "Friday next week",
                   "March 8th"
@@ -35820,9 +35070,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "Friday next week",
                   "March 8th"
@@ -35912,9 +35159,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "location": [
                   "Fresno"
                 ]
@@ -35951,9 +35195,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "location": [
                   "Fresno"
                 ]
@@ -36453,9 +35694,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "fit"
-                ],
                 "dropoff_date": [
                   "this Saturday"
                 ],
@@ -36509,9 +35747,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "fit"
-                ],
                 "dropoff_date": [
                   "this Saturday"
                 ],
@@ -36614,9 +35849,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "fit"
-                ],
                 "dropoff_date": [
                   "march 2nd",
                   "this Saturday"
@@ -36725,9 +35957,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "american museum of natural history"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -36767,9 +35996,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "american museum of natural history"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -36966,9 +36192,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -37073,9 +36296,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "next Wednesday"
@@ -37142,9 +36362,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "next Wednesday"
@@ -37284,9 +36501,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arizona Science Center"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -37542,9 +36756,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "the 12th"
                 ],
@@ -37648,9 +36859,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th",
                   "the 12th"
@@ -37704,9 +36912,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 12th",
                   "the 12th"
@@ -37795,9 +37000,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Acuario Inbursa"
-                ],
                 "location": [
                   "Ciudad de Mexico"
                 ]
@@ -38250,9 +37452,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -38356,9 +37555,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -38412,9 +37608,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -38502,9 +37695,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -38547,9 +37737,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -38990,9 +38177,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Forester"
-                ],
                 "dropoff_date": [
                   "4th of March"
                 ],
@@ -39098,9 +38282,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Forester"
-                ],
                 "dropoff_date": [
                   "4th of March",
                   "March 4th"
@@ -39168,9 +38349,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Forester"
-                ],
                 "dropoff_date": [
                   "4th of March",
                   "March 4th"
@@ -39259,9 +38437,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Choco-Story Paris - Musee du Chocolat"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -39570,9 +38745,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "11th of this month"
                 ],
@@ -39675,9 +38847,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -39731,9 +38900,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -39822,9 +38988,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -39861,9 +39024,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -40452,9 +39612,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -40558,9 +39715,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -40615,9 +39769,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -40803,9 +39954,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arc de Triomphe"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -41223,9 +40371,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "next Friday"
                 ],
@@ -41280,9 +40425,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "next Friday"
                 ],
@@ -41386,9 +40528,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 8th",
                   "next Friday"
@@ -41443,9 +40582,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 8th",
                   "next Friday"
@@ -41535,9 +40671,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Acuario Inbursa"
-                ],
                 "location": [
                   "CDMX"
                 ]
@@ -41574,9 +40707,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Acuario Inbursa"
-                ],
                 "location": [
                   "CDMX"
                 ]
@@ -41837,9 +40967,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "Wednesday next week"
                 ],
@@ -41943,9 +41070,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "Wednesday next week"
@@ -41999,9 +41123,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "Wednesday next week"
@@ -42083,9 +41204,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -42122,9 +41240,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -42392,9 +41507,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "Sunday this week"
                 ],
@@ -42447,9 +41559,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "Sunday this week"
                 ],
@@ -42553,9 +41662,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "Sunday this week"
@@ -42611,9 +41717,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "March 3rd",
                   "Sunday this week"
@@ -42704,9 +41807,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris"
                 ]
@@ -42946,9 +42046,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of this month"
                 ],
@@ -43052,9 +42149,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -43211,9 +42305,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "location": [
                   "NY"
                 ]
@@ -43617,9 +42708,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Golf"
-                ],
                 "dropoff_date": [
                   "12th of March"
                 ],
@@ -43671,9 +42759,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Golf"
-                ],
                 "dropoff_date": [
                   "12th of March"
                 ],
@@ -43776,9 +42861,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Golf"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -43931,9 +43013,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "location": [
                   "Vancouver, BC"
                 ]
@@ -44201,9 +43280,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "7th of this month"
                 ],
@@ -44307,9 +43383,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "7th of this month",
                   "March 7th"
@@ -44364,9 +43437,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "7th of this month",
                   "March 7th"
@@ -44489,9 +43559,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -44528,9 +43595,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -44949,9 +44013,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -45004,9 +44065,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -45110,9 +44168,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "march 9th",
                   "the 9th"
@@ -45234,9 +44289,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Contemporary Jewish Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -45282,9 +44334,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Contemporary Jewish Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -45564,9 +44613,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "the 7th"
                 ],
@@ -45669,9 +44715,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "the 7th"
@@ -45725,9 +44768,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 7th",
                   "the 7th"
@@ -45816,9 +44856,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Francisco"
                 ]
@@ -46064,9 +45101,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of this month"
                 ],
@@ -46121,9 +45155,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of this month"
                 ],
@@ -46227,9 +45258,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -46284,9 +45312,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of this month",
                   "March 12th"
@@ -46427,9 +45452,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Theatre"
-                ],
                 "location": [
                   "SD"
                 ]
@@ -46920,9 +45942,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "8th of March"
                 ],
@@ -47028,9 +46047,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "8th of March",
                   "March 8th"
@@ -47212,9 +46228,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquaria KLCC, Kuala Lumpur."
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -47254,9 +46267,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquaria KLCC, Kuala Lumpur."
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -47750,9 +46760,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -47807,9 +46814,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -47915,9 +46919,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Nissan Sentra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -48107,9 +47108,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Catacombs of Paris"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -48425,9 +47423,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -48531,9 +47526,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -48686,9 +47678,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -48938,9 +47927,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -49046,9 +48032,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -49173,9 +48156,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Benjamin Franklin Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -49218,9 +48198,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Benjamin Franklin Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -49469,9 +48446,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -49525,9 +48499,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -49630,9 +48601,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -49909,9 +48877,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fairytale Town"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -50208,9 +49173,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -50313,9 +49275,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -50368,9 +49327,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -50549,9 +49505,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Museum"
-                ],
                 "location": [
                   "Sacramento"
                 ]
@@ -50784,9 +49737,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Corolla"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -50891,9 +49841,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Toyota Corolla"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -51075,9 +50022,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Flushing Meadows Corona Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -51327,9 +50271,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -51381,9 +50322,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -51488,9 +50426,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -51665,9 +50600,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -51979,9 +50911,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -52085,9 +51014,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -52141,9 +51067,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -52301,9 +51224,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Mercado Jamaica"
-                ],
                 "category": [
                   "Shopping Area"
                 ],
@@ -52640,9 +51560,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -52697,9 +51614,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -52803,9 +51717,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Toyota Prius"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -52962,9 +51873,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Karura Forest"
-                ],
                 "location": [
                   "Nairobi"
                 ]
@@ -53001,9 +51909,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Karura Forest"
-                ],
                 "location": [
                   "Nairobi"
                 ]
@@ -53490,9 +52395,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -53596,9 +52498,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -53704,9 +52603,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -53743,9 +52639,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -54023,9 +52916,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -54130,9 +53020,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -54199,9 +53086,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -54405,9 +53289,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Burnham Park"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -54864,9 +53745,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -54970,9 +53848,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -55028,9 +53903,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -55092,9 +53964,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -55401,9 +54270,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Island Waterpark"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -55918,9 +54784,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -56026,9 +54889,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -56096,9 +54956,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -56188,9 +55045,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento"
                 ]
@@ -56385,9 +55239,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -56493,9 +55344,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -56562,9 +55410,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -56646,9 +55491,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -56685,9 +55527,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -56970,9 +55809,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -57027,9 +55863,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -57135,9 +55968,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -57258,9 +56088,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -57604,9 +56431,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -57661,9 +56485,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -57769,9 +56590,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -57838,9 +56656,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -58039,9 +56854,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Grande Mosquee de Paris"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -58084,9 +56896,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Grande Mosquee de Paris"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -58367,9 +57176,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -58424,9 +57230,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -58532,9 +57335,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -58602,9 +57402,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -58748,9 +57545,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -58787,9 +57581,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -59116,9 +57907,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -59173,9 +57961,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -59279,9 +58064,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -59335,9 +58117,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -59484,9 +58263,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Old Las Vegas Mormon Fort State Historic Park"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -59529,9 +58305,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Old Las Vegas Mormon Fort State Historic Park"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -59733,9 +58506,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -59840,9 +58610,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -59975,9 +58742,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disney California Adventure Park"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -60023,9 +58787,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disney California Adventure Park"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -60332,9 +59093,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -60387,9 +59145,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -60493,9 +59248,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -60549,9 +59301,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -60639,9 +59388,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -60888,9 +59634,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -60994,9 +59737,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -61100,9 +59840,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philly"
                 ]
@@ -61501,9 +60238,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -61558,9 +60292,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -61664,9 +60395,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -61720,9 +60448,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -61804,9 +60529,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -61843,9 +60565,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -62128,9 +60847,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -62234,9 +60950,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -62292,9 +61005,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -62356,9 +61066,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -62447,9 +61154,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 CHICAGO"
-                ],
                 "location": [
                   "Chicago"
                 ]
@@ -62486,9 +61190,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 CHICAGO"
-                ],
                 "location": [
                   "Chicago"
                 ]
@@ -62863,9 +61564,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -62920,9 +61618,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -63026,9 +61721,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -63083,9 +61775,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -63222,9 +61911,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -63261,9 +61947,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -63466,9 +62149,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -63574,9 +62254,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -63698,9 +62375,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -63740,9 +62414,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -63988,9 +62659,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -64096,9 +62764,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -64166,9 +62831,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -64251,9 +62913,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -64623,9 +63282,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -64729,9 +63385,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -64788,9 +63441,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -64853,9 +63503,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -65438,9 +64085,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -65492,9 +64136,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -65597,9 +64238,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -65653,9 +64291,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -65715,9 +64350,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -65857,9 +64489,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Choco-Story Paris - Musee du Chocolat"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -65899,9 +64528,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Choco-Story Paris - Musee du Chocolat"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -66340,9 +64966,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Rogue"
-                ],
                 "car_type": [
                   "Full-size"
                 ],
@@ -66446,9 +65069,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Rogue"
-                ],
                 "car_type": [
                   "Full-size"
                 ],
@@ -66502,9 +65122,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Nissan Rogue"
-                ],
                 "car_type": [
                   "Full-size"
                 ],
@@ -66595,9 +65212,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Island Waterpark"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -66643,9 +65257,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Island Waterpark"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -66903,9 +65514,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67008,9 +65616,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67064,9 +65669,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Civic"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67164,9 +65766,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Gas Works Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -67212,9 +65811,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Gas Works Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -67489,9 +66085,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67594,9 +66187,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67649,9 +66239,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -67787,9 +66374,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta Botanical Garden"
-                ],
                 "location": [
                   "Atlanta"
                 ]
@@ -67826,9 +66410,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta Botanical Garden"
-                ],
                 "location": [
                   "Atlanta"
                 ]
@@ -68078,9 +66659,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -68184,9 +66762,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -68241,9 +66816,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -68393,9 +66965,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Dr. Sun Yat-Sen Classical Chinese Garden"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -68435,9 +67004,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Dr. Sun Yat-Sen Classical Chinese Garden"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -69012,9 +67578,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69118,9 +67681,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69175,9 +67735,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69260,9 +67817,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philly"
                 ]
@@ -69558,9 +68112,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69663,9 +68214,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69719,9 +68267,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -69803,9 +68348,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "3D Toronto sign"
-                ],
                 "location": [
                   "Toronto"
                 ]
@@ -70226,9 +68768,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -70331,9 +68870,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -70386,9 +68922,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -70472,9 +69005,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cars Land"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -70976,9 +69506,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -71084,9 +69611,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -71154,9 +69678,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -71252,9 +69773,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Ben Franklin Bridge"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -71563,9 +70081,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -71671,9 +70186,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -71799,9 +70311,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -71838,9 +70347,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -72101,9 +70607,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -72207,9 +70710,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -72369,9 +70869,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Adventure Island"
-                ],
                 "location": [
                   "Delhi, India"
                 ]
@@ -72822,9 +71319,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -72879,9 +71373,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -72985,9 +71476,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73164,9 +71652,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "SlotZilla Zip Line"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -73446,9 +71931,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73501,9 +71983,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73609,9 +72088,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73679,9 +72155,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -73764,9 +72237,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran"
                 ]
@@ -74009,9 +72479,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74114,9 +72581,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74170,9 +72634,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74264,9 +72725,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "OMSI"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -74500,9 +72958,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74557,9 +73012,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74663,9 +73115,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -74838,9 +73287,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -75220,9 +73666,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -75277,9 +73720,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -75383,9 +73823,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -75497,9 +73934,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "DISCOVERY Children's Museum"
-                ],
                 "location": [
                   "Las Vegas"
                 ]
@@ -75742,9 +74176,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -75848,9 +74279,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -75907,9 +74335,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -75972,9 +74397,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -76108,9 +74530,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Dr. Sun Yat-Sen Classical Chinese Garden"
-                ],
                 "location": [
                   "Vancouver, BC"
                 ]
@@ -76147,9 +74566,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Dr. Sun Yat-Sen Classical Chinese Garden"
-                ],
                 "location": [
                   "Vancouver, BC"
                 ]
@@ -76607,9 +75023,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -76665,9 +75078,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -76772,9 +75182,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -76830,9 +75237,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -76919,9 +75323,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -77160,9 +75561,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -77216,9 +75614,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -77323,9 +75718,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -77392,9 +75784,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -77489,9 +75878,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cars Land"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -77994,9 +76380,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -78100,9 +76483,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Bolt"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -78221,9 +76601,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bagatelle park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -78266,9 +76643,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bagatelle park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -78711,9 +77085,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -78768,9 +77139,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -78874,9 +77242,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -78930,9 +77295,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Mini Cooper"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -79081,9 +77443,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -79123,9 +77482,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -79403,9 +77759,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -79509,9 +77862,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -79568,9 +77918,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -79633,9 +77980,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Ford Fusion"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -79725,9 +78069,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -79764,9 +78105,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -80343,9 +78681,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -80400,9 +78735,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -80506,9 +78838,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -80719,9 +79048,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquaboulevard"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -80761,9 +79087,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquaboulevard"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -80971,9 +79294,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81028,9 +79348,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81136,9 +79453,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81206,9 +79520,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -81416,9 +79727,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -81461,9 +79769,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -81897,9 +80202,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -82003,9 +80305,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -82177,9 +80476,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 Chicago"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -82219,9 +80515,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 Chicago"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -82514,9 +80807,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -82571,9 +80861,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -82679,9 +80966,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "honda fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -82749,9 +81033,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "honda fit"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -82843,9 +81124,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Discovery children's museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -83097,9 +81375,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -83151,9 +81426,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -83258,9 +81530,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -83423,9 +81692,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -83462,9 +81728,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -83761,9 +82024,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -83816,9 +82076,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -83922,9 +82179,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -83978,9 +82232,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Kia Forte"
-                ],
                 "car_type": [
                   "Compact"
                 ],
@@ -84069,9 +82320,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "location": [
                   "London, England"
                 ]
@@ -84370,9 +82618,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -84427,9 +82672,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -84533,9 +82775,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -84652,9 +82891,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Dodger Stadium"
-                ],
                 "category": [
                   "Sports Venue"
                 ],
@@ -84896,9 +83132,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -85004,9 +83237,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Chevrolet Cruze"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -85186,9 +83416,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -85225,9 +83452,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -85524,9 +83748,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -85630,9 +83851,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -85687,9 +83905,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Honda Accord"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -85779,9 +83994,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arizona Capitol Museum"
-                ],
                 "location": [
                   "Phoenix, AZ"
                 ]
@@ -85818,9 +84030,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arizona Capitol Museum"
-                ],
                 "location": [
                   "Phoenix, AZ"
                 ]
@@ -86098,9 +84307,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -86206,9 +84412,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -86276,9 +84479,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Hyundai Elantra"
-                ],
                 "car_type": [
                   "Standard"
                 ],
@@ -86573,9 +84773,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disney California Adventure Park"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -86609,3 +84806,4 @@
     ]
   }
 ]
+

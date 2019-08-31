@@ -10596,9 +10596,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "location": [
                   "London, england"
                 ]
@@ -11128,9 +11125,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LA"
                 ]
@@ -11769,9 +11763,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -12543,9 +12534,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bartram's Garden"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -13144,9 +13132,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -13742,9 +13727,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "location": [
                   "London, England"
                 ]
@@ -14296,9 +14278,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ANZ Stadium"
-                ],
                 "location": [
                   "Sydney, Australia"
                 ]
@@ -15040,9 +15019,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris"
                 ]
@@ -15545,9 +15521,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "New York City"
                 ]
@@ -16261,9 +16234,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The gherkin)"
-                ],
                 "location": [
                   "London, UK"
                 ]
@@ -16761,9 +16731,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "NYC"
                 ]
@@ -17556,9 +17523,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "autry museum of the american west"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -18165,9 +18129,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd street y"
-                ],
                 "location": [
                   "new york"
                 ]
@@ -18902,9 +18863,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 chicago"
-                ],
                 "location": [
                   "chi-town"
                 ]
@@ -19549,9 +19507,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris"
                 ]
@@ -20282,9 +20237,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Jamek Mosque"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -20940,9 +20892,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "New York"
                 ]
@@ -21458,9 +21407,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -22071,9 +22017,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -22999,9 +22942,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bartram's Garden"
-                ],
                 "location": [
                   "Philly"
                 ]
@@ -23718,9 +23658,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris"
                 ]
@@ -24404,9 +24341,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 st mary axe (The gherkin)"
-                ],
                 "location": [
                   "london, england"
                 ]
@@ -24825,9 +24759,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "brandon lee and bruce lee's grave site"
-                ],
                 "location": [
                   "seattle, wa"
                 ]
@@ -25421,9 +25352,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cite de l'architecture et du patrimoine"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -26108,9 +26036,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -26704,9 +26629,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -27385,9 +27307,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "NY"
                 ]
@@ -28084,9 +28003,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "angels flight railway"
-                ],
                 "location": [
                   "la"
                 ]
@@ -28779,9 +28695,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran"
                 ]
@@ -29307,9 +29220,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris"
                 ]
@@ -29895,9 +29805,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Borough Market"
-                ],
                 "category": [
                   "Shopping Area"
                 ],
@@ -30422,9 +30329,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Chelsea Piers Sports and Entertainment Complex"
-                ],
                 "category": [
                   "Sports Venue"
                 ],
@@ -31176,9 +31080,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arizona Capitol Museum"
-                ],
                 "location": [
                   "Phoenix"
                 ]
@@ -31857,9 +31758,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace"
-                ],
                 "category": [
                   "Performing Arts Venue"
                 ],
@@ -32489,9 +32387,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace Ice Rink"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -32963,9 +32858,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -33666,9 +33558,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "alexandra palace"
-                ],
                 "location": [
                   "london, England"
                 ]
@@ -34180,9 +34069,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -34830,9 +34716,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -35302,9 +35185,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arab World Institute"
-                ],
                 "category": [
                   "Performing Arts Venue"
                 ],
@@ -35901,9 +35781,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bradbury Building"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -36330,9 +36207,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -37003,9 +36877,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Gordons Bay"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -37654,9 +37525,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ANZ stadium"
-                ],
                 "location": [
                   "Sydney, NSW"
                 ]
@@ -38241,9 +38109,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "hole in the rock"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -38859,9 +38724,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "3D Toronto Sign"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -39465,9 +39327,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "adventure island"
-                ],
                 "location": [
                   "delhi"
                 ]
@@ -40052,9 +39911,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "bayonne bridge"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -40479,9 +40335,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "3D Toronto sign"
-                ],
                 "location": [
                   "Toronto"
                 ]
@@ -41080,9 +40933,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -41668,9 +41518,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 st mary axe (The gherkin)"
-                ],
                 "location": [
                   "London, UK"
                 ]
@@ -42272,9 +42119,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "All England Lawn Tennis & Croquet Club"
-                ],
                 "category": [
                   "Sports Venue"
                 ],
@@ -42745,9 +42589,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Allan gardens"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -43342,9 +43183,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 st mary axe (the gherkin)"
-                ],
                 "location": [
                   "london"
                 ]
@@ -43889,9 +43727,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -44706,9 +44541,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "art museum steps"
-                ],
                 "location": [
                   "philadelphia"
                 ]
@@ -45434,9 +45266,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "american church in paris"
-                ],
                 "location": [
                   "paris, france"
                 ]
@@ -46215,9 +46044,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cognacq-Jay Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -47119,9 +46945,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "all saints, margaret street"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -47674,9 +47497,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "bronx zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -48370,9 +48190,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Barnes Foundation"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -49000,9 +48817,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "location": [
                   "London, England"
                 ]
@@ -49694,9 +49508,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -50287,9 +50098,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "Portland, OR"
                 ]
@@ -50905,9 +50713,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -51620,9 +51425,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "brandon lee and bruce lee's grave site"
-                ],
                 "location": [
                   "seattle"
                 ]
@@ -52130,9 +51932,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd street Y"
-                ],
                 "location": [
                   "New york city"
                 ]
@@ -52856,9 +52655,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cathedral of St. Matthew the Apostle"
-                ],
                 "location": [
                   "District of Columbia"
                 ]
@@ -53261,9 +53057,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris"
                 ]
@@ -53708,9 +53501,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "location": [
                   "London"
                 ]
@@ -54405,9 +54195,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "56 Signers of the Declaration of Independence Memorial"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -55016,9 +54803,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "La Jolla Shores Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -55760,9 +55544,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -56307,9 +56088,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 Chicago"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -56939,9 +56717,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "location": [
                   "London UK"
                 ]
@@ -57455,9 +57230,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta Botanical Garden"
-                ],
                 "location": [
                   "ATL"
                 ]
@@ -58055,9 +57827,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta Botanical Garden"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -58650,9 +58419,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Chihuly Garden and Glass"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -59177,9 +58943,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philly"
                 ]
@@ -59732,9 +59495,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philly"
                 ]
@@ -60515,9 +60275,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "BAPS Shri Swaminarayan Mandir"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -61092,9 +60849,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LAX"
                 ]
@@ -61578,9 +61332,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -62094,9 +61845,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bethesda Terrace"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -62522,9 +62270,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran"
                 ]
@@ -63023,9 +62768,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "FlyOver Canada"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -63733,9 +63475,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ArcelorMittal Orbit"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -64424,9 +64163,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "56 signers of the declaration of independence memorial"
-                ],
                 "location": [
                   "dc"
                 ]
@@ -64997,9 +64733,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "angel stadium of anaheim"
-                ],
                 "location": [
                   "anaheim"
                 ]
@@ -65547,9 +65280,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -66028,9 +65758,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -66751,9 +66478,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -67176,9 +66900,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Writers Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -67847,9 +67568,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fremont Street Experience"
-                ],
                 "category": [
                   "Shopping Area"
                 ],

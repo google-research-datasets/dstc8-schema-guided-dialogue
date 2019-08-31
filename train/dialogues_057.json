@@ -79473,9 +79473,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta Botanical Garden"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -79519,9 +79516,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta Botanical Garden"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -80323,9 +80317,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 CHICAGO"
-                ],
                 "location": [
                   "Chicago"
                 ]
@@ -81026,9 +81017,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 CHICAGO"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -81068,9 +81056,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 CHICAGO"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -81577,9 +81562,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -82340,9 +82322,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "High Museum of Art"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -82389,9 +82368,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "High Museum of Art"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -83018,9 +82994,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -83060,9 +83033,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -83822,9 +83792,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Wrigley Field"
-                ],
                 "category": [
                   "Sports Venue"
                 ],
@@ -83868,9 +83835,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Wrigley Field"
-                ],
                 "category": [
                   "Sports Venue"
                 ],
@@ -84634,9 +84598,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bow Bridge"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -85366,9 +85327,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Museum of History & Industry (MOHAI)"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -85414,9 +85372,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Museum of History & Industry (MOHAI)"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -85929,9 +85884,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "New York",
                   "New York City"
@@ -86547,9 +86499,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 Chicago"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -86590,9 +86539,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 Chicago"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -87145,9 +87091,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta History Center"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -87191,9 +87134,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta History Center"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -87231,3 +87171,4 @@
     ]
   }
 ]
+

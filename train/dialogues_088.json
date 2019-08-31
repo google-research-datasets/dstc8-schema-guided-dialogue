@@ -102070,9 +102070,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "SD",
                   "San Diego"
@@ -102110,9 +102107,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "SD",
                   "San Diego"
@@ -102144,3 +102138,4 @@
     ]
   }
 ]
+

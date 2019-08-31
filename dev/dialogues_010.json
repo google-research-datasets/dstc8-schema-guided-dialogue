@@ -426,9 +426,6 @@
                 ],
                 "date": [
                   "14th of this month"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -468,9 +465,6 @@
                 ],
                 "date": [
                   "14th of this month"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -925,9 +919,6 @@
               "slot_values": {
                 "city": [
                   "Cupertino"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -1315,9 +1306,6 @@
               "slot_values": {
                 "city": [
                   "Brisbane"
-                ],
-                "temperature": [
-                  "78"
                 ]
               }
             }
@@ -1354,9 +1342,6 @@
               "slot_values": {
                 "city": [
                   "Brisbane"
-                ],
-                "temperature": [
-                  "78"
                 ]
               }
             }
@@ -1852,9 +1837,6 @@
                 ],
                 "date": [
                   "7th of this month"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -2285,9 +2267,6 @@
               "slot_values": {
                 "city": [
                   "healdsburg"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -2674,9 +2653,6 @@
               "slot_values": {
                 "city": [
                   "Lafayette"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -2713,9 +2689,6 @@
               "slot_values": {
                 "city": [
                   "Lafayette"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -3204,9 +3177,6 @@
               "slot_values": {
                 "city": [
                   "Albany"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -3243,9 +3213,6 @@
               "slot_values": {
                 "city": [
                   "Albany"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -3642,9 +3609,6 @@
                 ],
                 "date": [
                   "next Tuesday"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -3967,9 +3931,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -4366,9 +4327,6 @@
               "slot_values": {
                 "city": [
                   "Point Reyes Station"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -4880,9 +4838,6 @@
                 ],
                 "date": [
                   "march 14th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -4922,9 +4877,6 @@
                 ],
                 "date": [
                   "march 14th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -5277,9 +5229,6 @@
                 ],
                 "date": [
                   "4th of march"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -5700,9 +5649,6 @@
               "slot_values": {
                 "city": [
                   "pittsburg"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -6018,9 +5964,6 @@
                 ],
                 "date": [
                   "next Wednesday"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -6060,9 +6003,6 @@
                 ],
                 "date": [
                   "next Wednesday"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -6612,9 +6552,6 @@
                 ],
                 "date": [
                   "next Tuesday"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -7148,9 +7085,6 @@
               "slot_values": {
                 "city": [
                   "South San Francisco"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -7187,9 +7121,6 @@
               "slot_values": {
                 "city": [
                   "South San Francisco"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -7634,9 +7565,6 @@
               "slot_values": {
                 "city": [
                   "Paris"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -7673,9 +7601,6 @@
               "slot_values": {
                 "city": [
                   "Paris"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -8078,9 +8003,6 @@
               "slot_values": {
                 "city": [
                   "Vallejo"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -8502,9 +8424,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -9024,9 +8943,6 @@
                 ],
                 "date": [
                   "the 14th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -9472,9 +9388,6 @@
                 ],
                 "date": [
                   "12th of March"
-                ],
-                "temperature": [
-                  "78"
                 ]
               }
             }
@@ -9933,9 +9846,6 @@
                 ],
                 "date": [
                   "4th of this month"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -10516,9 +10426,6 @@
                 ],
                 "date": [
                   "next Wednesday"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -10969,9 +10876,6 @@
               "slot_values": {
                 "city": [
                   "Oakland"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -11008,9 +10912,6 @@
               "slot_values": {
                 "city": [
                   "Oakland"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -11414,9 +11315,6 @@
                 ],
                 "date": [
                   "Thursday next week"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -11456,9 +11354,6 @@
                 ],
                 "date": [
                   "Thursday next week"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -11908,9 +11803,6 @@
                 ],
                 "date": [
                   "the 14th"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -12293,9 +12185,6 @@
                 ],
                 "date": [
                   "2nd of March"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -12797,9 +12686,6 @@
                 ],
                 "date": [
                   "march 6th"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -13207,9 +13093,6 @@
                 ],
                 "date": [
                   "Friday next week"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -13249,9 +13132,6 @@
                 ],
                 "date": [
                   "Friday next week"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -13701,9 +13581,6 @@
                 ],
                 "date": [
                   "11th of March"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -14176,9 +14053,6 @@
               "slot_values": {
                 "city": [
                   "Atlanta"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -14215,9 +14089,6 @@
               "slot_values": {
                 "city": [
                   "Atlanta"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -14648,9 +14519,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -14690,9 +14558,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -15015,9 +14880,6 @@
               "slot_values": {
                 "city": [
                   "Cotati"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -15054,9 +14916,6 @@
               "slot_values": {
                 "city": [
                   "Cotati"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -15696,9 +15555,6 @@
               "slot_values": {
                 "city": [
                   "el sobrante"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -16133,9 +15989,6 @@
               "slot_values": {
                 "city": [
                   "Marshall"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -16649,9 +16502,6 @@
               "slot_values": {
                 "city": [
                   "Santa Rosa"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -16688,9 +16538,6 @@
               "slot_values": {
                 "city": [
                   "Santa Rosa"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -17135,9 +16982,6 @@
                 ],
                 "date": [
                   "6th of this month"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -17177,9 +17021,6 @@
                 ],
                 "date": [
                   "6th of this month"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -17533,9 +17374,6 @@
                 ],
                 "date": [
                   "march 9th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -17575,9 +17413,6 @@
                 ],
                 "date": [
                   "march 9th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -18060,9 +17895,6 @@
                 ],
                 "date": [
                   "the 11th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -18102,9 +17934,6 @@
                 ],
                 "date": [
                   "the 11th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -18667,9 +18496,6 @@
                 ],
                 "date": [
                   "today"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -19044,9 +18870,6 @@
                 ],
                 "date": [
                   "the 3rd"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -19524,9 +19347,6 @@
                 ],
                 "date": [
                   "the 5th"
-                ],
-                "temperature": [
-                  "78"
                 ]
               }
             }
@@ -19860,9 +19680,6 @@
                 ],
                 "date": [
                   "march 2nd"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -19902,9 +19719,6 @@
                 ],
                 "date": [
                   "march 2nd"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -20388,9 +20202,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -20778,9 +20589,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -20820,9 +20628,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -21257,9 +21062,6 @@
               "slot_values": {
                 "city": [
                   "Forestville"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -21296,9 +21098,6 @@
               "slot_values": {
                 "city": [
                   "Forestville"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -21726,9 +21525,6 @@
                 ],
                 "date": [
                   "the 9th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -21768,9 +21564,6 @@
                 ],
                 "date": [
                   "the 9th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -21865,11 +21658,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Searching for Sugar Man"
-                ]
-              }
+              "slot_values": {}
             }
           }
         ],
@@ -22380,11 +22169,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Ash is Purest White"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -22831,9 +22616,6 @@
                 ],
                 "starring": [
                   "James Badge Dale"
-                ],
-                "title": [
-                  "Little Woods"
                 ]
               }
             }
@@ -23248,11 +23030,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Hellboy"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -23652,9 +23430,6 @@
                 ],
                 "starring": [
                   "Cooper Andrews"
-                ],
-                "title": [
-                  "Shazam!"
                 ]
               }
             }
@@ -24119,9 +23894,6 @@
               "slot_values": {
                 "genre": [
                   "drama"
-                ],
-                "title": [
-                  "Dogman"
                 ]
               }
             }
@@ -24593,9 +24365,6 @@
                 ],
                 "starring": [
                   "Charlie Ray Reid"
-                ],
-                "title": [
-                  "Little Woods"
                 ]
               }
             }
@@ -25009,9 +24778,6 @@
               "slot_values": {
                 "genre": [
                   "drama"
-                ],
-                "title": [
-                  "Dogman"
                 ]
               }
             }
@@ -25540,9 +25306,6 @@
               "slot_values": {
                 "genre": [
                   "Drama"
-                ],
-                "title": [
-                  "Dogman"
                 ]
               }
             }
@@ -26139,9 +25902,6 @@
                 ],
                 "starring": [
                   "Derek Morgan"
-                ],
-                "title": [
-                  "A Madea Family Funeral"
                 ]
               }
             }
@@ -26564,9 +26324,6 @@
               "slot_values": {
                 "starring": [
                   "julia meade"
-                ],
-                "title": [
-                  "pillow talk"
                 ]
               }
             }
@@ -26944,9 +26701,6 @@
                 ],
                 "starring": [
                   "Phillip Langhorne"
-                ],
-                "title": [
-                  "Red Joan"
                 ]
               }
             }
@@ -27386,11 +27140,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Gloria Bell"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -27900,11 +27650,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "How to Train Your Dragon: The hidden world"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -28287,11 +28033,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "the Invisibles"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -28800,9 +28542,6 @@
               "slot_values": {
                 "starring": [
                   "Dimiter Marinov"
-                ],
-                "title": [
-                  "Green Book"
                 ]
               }
             }
@@ -29166,11 +28905,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Pillow Talk"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -29758,9 +29493,6 @@
               "slot_values": {
                 "starring": [
                   "Everett Sloane"
-                ],
-                "title": [
-                  "Citizen Kane"
                 ]
               }
             }
@@ -30297,11 +30029,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "The Curse of La Llorona"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -30825,11 +30553,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Breakthrough"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -31255,11 +30979,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Fighting with My Family"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -31653,11 +31373,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "stockholm"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -32178,9 +31894,6 @@
                 ],
                 "starring": [
                   "samuel larsen"
-                ],
-                "title": [
-                  "after"
                 ]
               }
             }
@@ -32807,9 +32520,6 @@
               "slot_values": {
                 "starring": [
                   "Larry Jenkins"
-                ],
-                "title": [
-                  "Body Double"
                 ]
               }
             }
@@ -33329,9 +33039,6 @@
                 ],
                 "starring": [
                   "Amy Seimetz"
-                ],
-                "title": [
-                  "Wild Nights with Emily"
                 ]
               }
             }
@@ -33681,9 +33388,6 @@
                 ],
                 "genre": [
                   "Romance"
-                ],
-                "title": [
-                  "The Visitor"
                 ]
               }
             }
@@ -34068,9 +33772,6 @@
                 ],
                 "genre": [
                   "romance"
-                ],
-                "title": [
-                  "viva las vegas"
                 ]
               }
             }
@@ -34682,9 +34383,6 @@
               "slot_values": {
                 "genre": [
                   "drama"
-                ],
-                "title": [
-                  "Dogman"
                 ]
               }
             }
@@ -35123,9 +34821,6 @@
                 ],
                 "starring": [
                   "serena altschul"
-                ],
-                "title": [
-                  "josie and the pussycats"
                 ]
               }
             }
@@ -35505,11 +35200,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Red Joan"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -35909,11 +35600,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Sunset"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -36279,11 +35966,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Hellboy"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -36769,9 +36452,6 @@
               "slot_values": {
                 "director": [
                   "dean deblois"
-                ],
-                "title": [
-                  "how to train your dragon: the hidden world"
                 ]
               }
             }
@@ -37260,9 +36940,6 @@
                 ],
                 "starring": [
                   "Frank Bourke"
-                ],
-                "title": [
-                  "Dumbo"
                 ]
               }
             }
@@ -37880,9 +37557,6 @@
                 ],
                 "starring": [
                   "Bob Odenkirk"
-                ],
-                "title": [
-                  "Long shot"
                 ]
               }
             }
@@ -38334,9 +38008,6 @@
                 ],
                 "starring": [
                   "Michael Bennett"
-                ],
-                "title": [
-                  "The Visitor"
                 ]
               }
             }
@@ -38776,9 +38447,6 @@
               "slot_values": {
                 "director": [
                   "Claire Denis"
-                ],
-                "title": [
-                  "High Life"
                 ]
               }
             }
@@ -39203,11 +38871,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Long Shot"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -39833,11 +39497,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Josie and the Pussycats"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -40233,9 +39893,6 @@
                 ],
                 "starring": [
                   "Fred Sadoff"
-                ],
-                "title": [
-                  "The Poseidon Adventure"
                 ]
               }
             }
@@ -40768,11 +40425,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Breakthrough"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {
@@ -41122,11 +40775,7 @@
             "state": {
               "active_intent": "FindMovies",
               "requested_slots": [],
-              "slot_values": {
-                "title": [
-                  "Shazam!"
-                ]
-              }
+              "slot_values": {}
             }
           },
           {

@@ -13432,9 +13432,6 @@
                 ],
                 "date": [
                   "11th of this month"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -13785,9 +13782,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "march 14th"
                 ],
@@ -14039,9 +14033,6 @@
                 ],
                 "date": [
                   "8th of March"
-                ],
-                "temperature": [
-                  "99"
                 ]
               }
             }
@@ -14437,9 +14428,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -14656,9 +14644,6 @@
                 ],
                 "date": [
                   "day after tomorrow"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -15015,9 +15000,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cooper"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -15259,9 +15241,6 @@
                 ],
                 "date": [
                   "14th of this month"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -15782,9 +15761,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -15837,9 +15813,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "14th of this month",
                   "March 14th"
@@ -15999,9 +15972,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -16443,9 +16413,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -16500,9 +16467,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -16555,9 +16519,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "civic"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -16756,9 +16717,6 @@
               "slot_values": {
                 "city": [
                   "London, England"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -17410,9 +17368,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 13th"
                 ],
@@ -17600,9 +17555,6 @@
                 ],
                 "date": [
                   "11th of this month"
-                ],
-                "temperature": [
-                  "99"
                 ]
               }
             }
@@ -17946,9 +17898,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 4th"
                 ],
@@ -18001,9 +17950,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 4th"
                 ],
@@ -18252,9 +18198,6 @@
                 ],
                 "date": [
                   "4th of March"
-                ],
-                "temperature": [
-                  "68"
                 ]
               }
             }
@@ -18725,9 +18668,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -18940,9 +18880,6 @@
                 ],
                 "date": [
                   "today"
-                ],
-                "temperature": [
-                  "105"
                 ]
               }
             }
@@ -19327,9 +19264,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "altima"
-                ],
                 "dropoff_date": [
                   "9th of March"
                 ],
@@ -19385,9 +19319,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "altima"
-                ],
                 "dropoff_date": [
                   "9th of March"
                 ],
@@ -19585,9 +19516,6 @@
                 ],
                 "date": [
                   "13th of March"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -19926,9 +19854,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Highlander"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -19983,9 +19908,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Highlander"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -20038,9 +19960,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Highlander"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -20224,9 +20143,6 @@
               "slot_values": {
                 "city": [
                   "Vancouver"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -20907,9 +20823,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "next Thursday"
                 ],
@@ -20962,9 +20875,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "next Thursday"
                 ],
@@ -21145,9 +21055,6 @@
               "slot_values": {
                 "city": [
                   "Toronto, Canada"
-                ],
-                "temperature": [
-                  "58"
                 ]
               }
             }
@@ -21523,9 +21430,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -21738,9 +21642,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -22132,9 +22033,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "14th of this month"
                 ],
@@ -22284,9 +22182,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -22793,9 +22688,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "14th of this month"
                 ],
@@ -23007,9 +22899,6 @@
                 ],
                 "date": [
                   "next Wednesday"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -23446,9 +23335,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "next Thursday"
                 ],
@@ -23501,9 +23387,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "next Thursday"
                 ],
@@ -23671,9 +23554,6 @@
                 ],
                 "date": [
                   "13th of March"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -24011,9 +23891,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "the 11th"
                 ],
@@ -24066,9 +23943,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Elantra"
-                ],
                 "dropoff_date": [
                   "the 11th"
                 ],
@@ -24318,9 +24192,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -24755,9 +24626,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "10th of this month"
                 ],
@@ -24970,9 +24838,6 @@
                 ],
                 "date": [
                   "2nd of this month"
-                ],
-                "temperature": [
-                  "95"
                 ]
               }
             }
@@ -25365,9 +25230,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -25422,9 +25284,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -25477,9 +25336,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -25619,9 +25475,6 @@
               "slot_values": {
                 "city": [
                   "Paris"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -26188,9 +26041,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "13th of this month"
                 ],
@@ -26389,9 +26239,6 @@
               "slot_values": {
                 "city": [
                   "Vancouver, BC"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -26913,9 +26760,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -26969,9 +26813,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -27023,9 +26864,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -27317,9 +27155,6 @@
                 ],
                 "date": [
                   "7th of this month"
-                ],
-                "temperature": [
-                  "69"
                 ]
               }
             }
@@ -27695,9 +27530,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "9th of March"
                 ],
@@ -27750,9 +27582,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "9th of March"
                 ],
@@ -27924,9 +27753,6 @@
               "slot_values": {
                 "city": [
                   "Toronto, Canada"
-                ],
-                "temperature": [
-                  "58"
                 ]
               }
             }
@@ -28595,9 +28421,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 4th"
                 ],
@@ -28751,9 +28574,6 @@
                 ],
                 "date": [
                   "next Thursday"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -29194,9 +29014,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Civic"
-                ],
                 "dropoff_date": [
                   "10th of this month"
                 ],
@@ -29367,9 +29184,6 @@
               "slot_values": {
                 "city": [
                   "Portland"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -29778,9 +29592,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -29835,9 +29646,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -30000,9 +29808,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "61"
                 ]
               }
             }
@@ -30355,9 +30160,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 3rd"
                 ],
@@ -30634,9 +30436,6 @@
                 ],
                 "date": [
                   "march 11th"
-                ],
-                "temperature": [
-                  "103"
                 ]
               }
             }
@@ -31144,9 +30943,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "forte"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -31201,9 +30997,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "forte"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -31256,9 +31049,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "forte"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -31536,9 +31326,6 @@
                 ],
                 "date": [
                   "3rd of March"
-                ],
-                "temperature": [
-                  "102"
                 ]
               }
             }
@@ -31901,9 +31688,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "10th of this month"
                 ],
@@ -32091,9 +31875,6 @@
                 ],
                 "date": [
                   "13th of this month"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -32721,9 +32502,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -32778,9 +32556,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -32833,9 +32608,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -33023,9 +32795,6 @@
                 ],
                 "date": [
                   "the 11th"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -33656,9 +33425,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Prius"
-                ],
                 "dropoff_date": [
                   "the 12th"
                 ],
@@ -33785,9 +33551,6 @@
               "slot_values": {
                 "city": [
                   "Portland, OR"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -34247,9 +34010,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "14th of March"
                 ],
@@ -34411,9 +34171,6 @@
                 ],
                 "date": [
                   "7th of March"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -34969,9 +34726,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 13th"
                 ],
@@ -35025,9 +34779,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "March 13th"
                 ],
@@ -35169,9 +34920,6 @@
               "slot_values": {
                 "city": [
                   "Paris"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -35700,9 +35448,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "12th of this month"
                 ],
@@ -35901,9 +35646,6 @@
                 ],
                 "date": [
                   "2nd of this month"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -36445,9 +36187,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "4th of this month"
                 ],
@@ -36635,9 +36374,6 @@
                 ],
                 "date": [
                   "day after tomorrow"
-                ],
-                "temperature": [
-                  "67"
                 ]
               }
             }
@@ -37006,9 +36742,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "4th of March"
                 ],
@@ -37147,9 +36880,6 @@
                 ],
                 "date": [
                   "today"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -37612,9 +37342,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 10th"
                 ],
@@ -37827,9 +37554,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -38265,9 +37989,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "next Thursday"
                 ],
@@ -38455,9 +38176,6 @@
                 ],
                 "date": [
                   "12th of this month"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -38868,9 +38586,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of March"
                 ],
@@ -39058,9 +38773,6 @@
                 ],
                 "date": [
                   "11th of March"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -39439,9 +39151,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -39708,9 +39417,6 @@
                 ],
                 "date": [
                   "14th of this month"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -40049,9 +39755,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "11th of this month"
                 ],
@@ -40211,9 +39914,6 @@
               "slot_values": {
                 "city": [
                   "phoenix, AZ"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -40534,9 +40234,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "the 13th"
                 ],
@@ -40591,9 +40288,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Escape"
-                ],
                 "dropoff_date": [
                   "the 13th"
                 ],
@@ -40879,9 +40573,6 @@
                 ],
                 "date": [
                   "the 3rd"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -41453,9 +41144,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -41508,9 +41196,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Altima"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -41728,9 +41413,6 @@
               "slot_values": {
                 "city": [
                   "Seattle"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -42125,9 +41807,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "the 14th"
                 ],
@@ -42180,9 +41859,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "the 14th"
                 ],
@@ -42449,9 +42125,6 @@
               "slot_values": {
                 "city": [
                   "Phoenix"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -42868,9 +42541,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Equinox"
-                ],
                 "dropoff_date": [
                   "14th of this month"
                 ],
@@ -43198,9 +42868,6 @@
                 ],
                 "date": [
                   "13th of March"
-                ],
-                "temperature": [
-                  "62"
                 ]
               }
             }
@@ -43699,9 +43366,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "next Thursday"
                 ],
@@ -43754,9 +43418,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "next Thursday"
                 ],
@@ -43953,9 +43614,6 @@
                 ],
                 "date": [
                   "1st of this month"
-                ],
-                "temperature": [
-                  "102"
                 ]
               }
             }
@@ -44540,9 +44198,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Fit"
-                ],
                 "dropoff_date": [
                   "12th of this month"
                 ],
@@ -44697,9 +44352,6 @@
               "slot_values": {
                 "city": [
                   "Nairobi, Kenya"
-                ],
-                "temperature": [
-                  "105"
                 ]
               }
             }
@@ -45131,9 +44783,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -45185,9 +44834,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 11th"
                 ],
@@ -45343,9 +44989,6 @@
               "slot_values": {
                 "city": [
                   "SD"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -45708,9 +45351,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -45763,9 +45403,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 12th"
                 ],
@@ -45973,9 +45610,6 @@
                 ],
                 "date": [
                   "next Friday"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -46458,9 +46092,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "Monday next week"
                 ],

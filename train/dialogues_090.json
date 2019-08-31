@@ -157,9 +157,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -696,9 +693,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Gas Works Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -1351,9 +1345,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "location": [
                   "NY"
                 ]
@@ -1988,9 +1979,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LAX"
                 ]
@@ -2645,9 +2633,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Jane's Carousel"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -3291,9 +3276,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "DISCOVERY Children's Museum"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -3932,9 +3914,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -4701,9 +4680,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Sacramento Zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -5433,9 +5409,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Benjamin Franklin Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -5990,9 +5963,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Barnes Foundation"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -6691,9 +6661,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bradbury Building"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -7225,9 +7192,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -7878,9 +7842,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -8461,9 +8422,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Christmas Tree Lane"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -9172,9 +9130,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LAX"
                 ]
@@ -9689,9 +9644,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Benjamin Franklin Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -10508,9 +10460,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Chihuly Garden and Glass"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -11309,9 +11258,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "location": [
                   "NY"
                 ]
@@ -11882,9 +11828,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LA"
                 ]
@@ -12576,9 +12519,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -13530,9 +13470,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "location": [
                   "NYC"
                 ]
@@ -14103,9 +14040,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SFO"
                 ]
@@ -14896,9 +14830,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "location": [
                   "NY"
                 ]
@@ -15585,9 +15516,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Woodland Park Zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -16109,9 +16037,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bartram's Garden"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -16901,9 +16826,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -17425,9 +17347,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -18346,9 +18265,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Carreau du Temple"
-                ],
                 "category": [
                   "Performing Arts Venue"
                 ],
@@ -18435,9 +18351,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -18866,9 +18779,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arte Carrillo Gil Museum"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -18955,9 +18865,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "96"
                 ]
               }
             }
@@ -19251,9 +19158,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Acuario Inbursa"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -19328,9 +19232,6 @@
               "slot_values": {
                 "city": [
                   "Mexico City"
-                ],
-                "temperature": [
-                  "102"
                 ]
               }
             }
@@ -19820,9 +19721,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace Ice Rink"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -19909,9 +19807,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -20379,9 +20274,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 CHICAGO"
-                ],
                 "location": [
                   "Chicago"
                 ]
@@ -20465,9 +20357,6 @@
                 ],
                 "date": [
                   "9th of March"
-                ],
-                "temperature": [
-                  "68"
                 ]
               }
             }
@@ -20843,9 +20732,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "location": [
                   "London"
                 ]
@@ -20991,9 +20877,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -21392,9 +21275,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -21537,9 +21417,6 @@
                 ],
                 "date": [
                   "11th of this month"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -21948,9 +21825,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "360 CHICAGO"
-                ],
                 "location": [
                   "Chicago"
                 ]
@@ -22034,9 +21908,6 @@
                 ],
                 "date": [
                   "Sunday this week"
-                ],
-                "temperature": [
-                  "67"
                 ]
               }
             }
@@ -22476,9 +22347,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "location": [
                   "NY"
                 ]
@@ -22585,9 +22453,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -23132,9 +22997,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "All Saints, Margaret Street"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -23227,9 +23089,6 @@
                 ],
                 "date": [
                   "the 9th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -23638,9 +23497,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "acuario inbursa"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -23727,9 +23583,6 @@
                 ],
                 "date": [
                   "9th of this month"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -24152,9 +24005,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "3D Toronto sign"
-                ],
                 "location": [
                   "Toronto, Canada"
                 ]
@@ -24238,9 +24088,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "62"
                 ]
               }
             }
@@ -24667,9 +24514,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -24756,9 +24600,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -25169,9 +25010,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "location": [
                   "New York"
                 ]
@@ -25255,9 +25093,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -25666,9 +25501,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "NYC"
                 ]
@@ -25824,9 +25656,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -26347,9 +26176,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Estanquillo Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -26436,9 +26262,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -26904,9 +26727,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Casa Lamm Cultural Center"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -26993,9 +26813,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -27536,9 +27353,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arab World Institute"
-                ],
                 "location": [
                   "Paris"
                 ]
@@ -27749,9 +27563,6 @@
                 ],
                 "date": [
                   "9th of this month"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -28223,9 +28034,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arte Carrillo Gil Museum"
-                ],
                 "location": [
                   "Mexico City"
                 ]
@@ -28309,9 +28117,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -28684,9 +28489,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -28835,9 +28637,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -29402,9 +29201,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Korean War Veterans Memorial"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -29494,9 +29290,6 @@
                 ],
                 "date": [
                   "Wednesday next week"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -29879,9 +29672,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (THe Gherkin)"
-                ],
                 "location": [
                   "London, UK"
                 ]
@@ -29953,9 +29743,6 @@
               "slot_values": {
                 "city": [
                   "London, UK"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -30338,9 +30125,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Francisco"
                 ]
@@ -30486,9 +30270,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -30934,9 +30715,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Gallery of New South Wales"
-                ],
                 "location": [
                   "Sydney, Australia"
                 ]
@@ -31082,9 +30860,6 @@
                 ],
                 "date": [
                   "Sunday this week"
-                ],
-                "temperature": [
-                  "101"
                 ]
               }
             }
@@ -31375,9 +31150,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -31532,9 +31304,6 @@
                 ],
                 "date": [
                   "march 3rd"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -31988,9 +31757,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -32080,9 +31846,6 @@
                 ],
                 "date": [
                   "the 4th"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -32552,9 +32315,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ANZ Stadium"
-                ],
                 "location": [
                   "Sydney, NSW"
                 ]
@@ -32765,9 +32525,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -33133,9 +32890,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Battersea Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -33307,9 +33061,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -33851,9 +33602,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Carreau du Temple"
-                ],
                 "category": [
                   "Performing Arts Venue"
                 ],
@@ -34070,9 +33818,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -34550,9 +34295,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -34722,9 +34464,6 @@
               "slot_values": {
                 "city": [
                   "London, England"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -35052,9 +34791,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace"
-                ],
                 "category": [
                   "Performing Arts Venue"
                 ],
@@ -35255,9 +34991,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -35652,9 +35385,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "location": [
                   "London, England"
                 ]
@@ -35738,9 +35468,6 @@
                 ],
                 "date": [
                   "the 9th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -36040,9 +35767,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -36114,9 +35838,6 @@
               "slot_values": {
                 "city": [
                   "Los Angeles"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -36472,9 +36193,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Barbican Conservatory"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -36561,9 +36279,6 @@
                 ],
                 "date": [
                   "13th of this month"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -36967,9 +36682,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -37183,9 +36895,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -37617,9 +37326,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ANZ stadium"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -37706,9 +37412,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "96"
                 ]
               }
             }
@@ -38192,9 +37895,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Lan Su Chinese Garden"
-                ],
                 "location": [
                   "Portland"
                 ]
@@ -38392,9 +38092,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -38912,9 +38609,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arab World Institute"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -39021,9 +38715,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -39434,9 +39125,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -39523,9 +39211,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -39916,9 +39601,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquaboulevard"
-                ],
                 "location": [
                   "Paris, France"
                 ]
@@ -40009,9 +39691,6 @@
                 ],
                 "date": [
                   "the 11th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -40463,9 +40142,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brooklyn Bridge park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -40601,9 +40277,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "65"
                 ]
               }
             }
@@ -41137,9 +40810,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bayonne Bridge"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -41276,9 +40946,6 @@
               "slot_values": {
                 "city": [
                   "NYC"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -41730,9 +41397,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arte Carrillo Gil Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -41982,9 +41646,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "95"
                 ]
               }
             }
@@ -42594,9 +42255,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fun N Food Village"
-                ],
                 "location": [
                   "Delhi, India"
                 ]
@@ -42680,9 +42338,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "100"
                 ]
               }
             }
@@ -43107,9 +42762,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aga Khan Museum"
-                ],
                 "location": [
                   "Toronto, Canada"
                 ]
@@ -43193,9 +42845,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -43593,9 +43242,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "56 signers of the Declaration of Independence Memorial"
-                ],
                 "location": [
                   "Washington D.C."
                 ]
@@ -43679,9 +43325,6 @@
                 ],
                 "date": [
                   "13th of March"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -44078,9 +43721,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "arte carrillo gil museum"
-                ],
                 "location": [
                   "ciudad de mexico"
                 ]
@@ -44164,9 +43804,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -44496,9 +44133,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "99 Wonderland Park"
-                ],
                 "location": [
                   "Kuala Lumpur"
                 ]
@@ -44605,9 +44239,6 @@
                 ],
                 "date": [
                   "6th of this month"
-                ],
-                "temperature": [
-                  "98"
                 ]
               }
             }
@@ -45061,9 +44692,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "barnes foundation"
-                ],
                 "location": [
                   "Philly"
                 ]
@@ -45209,9 +44837,6 @@
                 ],
                 "date": [
                   "today"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -45714,9 +45339,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Sydney Harbour Bridge"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -45868,9 +45490,6 @@
                 ],
                 "date": [
                   "March 1st"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -46270,9 +45889,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -46483,9 +46099,6 @@
                 ],
                 "date": [
                   "6th of March"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -46981,9 +46594,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Akshardham"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -47058,9 +46668,6 @@
               "slot_values": {
                 "city": [
                   "Delhi, India"
-                ],
-                "temperature": [
-                  "99"
                 ]
               }
             }
@@ -47394,9 +47001,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Acuario Inbursa"
-                ],
                 "location": [
                   "CDMX"
                 ]
@@ -47542,9 +47146,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "95"
                 ]
               }
             }
@@ -47845,9 +47446,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "3D Toronto sign"
-                ],
                 "location": [
                   "Toronto"
                 ]
@@ -47993,9 +47591,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "62"
                 ]
               }
             }
@@ -48492,9 +48087,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -48595,9 +48187,6 @@
               "slot_values": {
                 "city": [
                   "London, England"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -49003,9 +48592,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LA"
                 ]
@@ -49112,9 +48698,6 @@
                 ],
                 "date": [
                   "13th of this month"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -49620,9 +49203,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Theatre"
-                ],
                 "location": [
                   "SD"
                 ]
@@ -49892,9 +49472,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -50294,9 +49871,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "99 Wonderland Park"
-                ],
                 "location": [
                   "Kuala Lumpur"
                 ]
@@ -50494,9 +50068,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -51118,9 +50689,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Dumbarton Oaks Museum"
-                ],
                 "location": [
                   "DC"
                 ]
@@ -51269,9 +50837,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -51722,9 +51287,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Battersea Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -51814,9 +51376,6 @@
                 ],
                 "date": [
                   "Wednesday next week"
-                ],
-                "temperature": [
-                  "85"
                 ]
               }
             }
@@ -52155,9 +51714,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace"
-                ],
                 "category": [
                   "Performing Arts Venue"
                 ],
@@ -52244,9 +51800,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -52582,9 +52135,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Barbican Conservatory"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -52801,9 +52351,6 @@
                 ],
                 "date": [
                   "Thursday next week"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -53210,9 +52757,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ANZ Stadium"
-                ],
                 "location": [
                   "Sydney, Australia"
                 ]
@@ -53284,9 +52828,6 @@
               "slot_values": {
                 "city": [
                   "Sydney, Australia"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -53600,9 +53141,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Castles N' Coasters"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -53689,9 +53227,6 @@
                 ],
                 "date": [
                   "March 3rd"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -54096,9 +53631,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -54273,9 +53805,6 @@
                 ],
                 "date": [
                   "14th of March"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -54839,9 +54368,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Battersea Park Children's Zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -55055,9 +54581,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -55640,9 +55163,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Apollo Theater"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -55732,9 +55252,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "60"
                 ]
               }
             }
@@ -56158,9 +55675,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Folk Art Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -56296,9 +55810,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "64"
                 ]
               }
             }
@@ -56625,9 +56136,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -56776,9 +56284,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -57303,9 +56808,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -57490,9 +56992,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -57830,9 +57329,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -57978,9 +57474,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -58334,9 +57827,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Church in Paris"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -58472,9 +57962,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "78"
                 ]
               }
             }
@@ -58882,9 +58369,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ANZ Stadium"
-                ],
                 "location": [
                   "Sydney"
                 ]
@@ -58968,9 +58452,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "96"
                 ]
               }
             }
@@ -59392,9 +58873,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Atlanta History Center"
-                ],
                 "location": [
                   "Atlanta, GA"
                 ]
@@ -59478,9 +58956,6 @@
                 ],
                 "date": [
                   "this Saturday"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -60069,9 +59544,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Estanquillo Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -60205,9 +59677,6 @@
               "slot_values": {
                 "city": [
                   "Ciudad de Mexico"
-                ],
-                "temperature": [
-                  "102"
                 ]
               }
             }
@@ -60515,9 +59984,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -60604,9 +60070,6 @@
                 ],
                 "date": [
                   "the 6th"
-                ],
-                "temperature": [
-                  "85"
                 ]
               }
             }
@@ -60952,9 +60415,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "30 St Mary Axe (The Gherkin)"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -61103,9 +60563,6 @@
                 ],
                 "date": [
                   "the 3rd"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -61562,9 +61019,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -61651,9 +61105,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -62088,9 +61539,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ANZ Stadium"
-                ],
                 "location": [
                   "Sydney, NSW"
                 ]
@@ -62223,9 +61671,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "96"
                 ]
               }
             }
@@ -62645,9 +62090,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Apsley House"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -62734,9 +62176,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -63238,9 +62677,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -63327,9 +62763,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -63769,9 +63202,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arte Carrillo Gil Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -63861,9 +63291,6 @@
                 ],
                 "date": [
                   "12th of this month"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -64164,9 +63591,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "category": [
                   "Performing Arts Venue"
                 ],
@@ -64315,9 +63739,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "59"
                 ]
               }
             }
@@ -64659,9 +64080,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -64770,9 +64188,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -65219,9 +64634,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "66"
                 ]
               }
             }
@@ -65391,9 +64803,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Gas Works Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -65843,9 +65252,6 @@
               "slot_values": {
                 "city": [
                   "district of columbia"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -65895,9 +65301,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "56 Signers of the declaration of Independence Memorial"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -66384,9 +65787,6 @@
               "slot_values": {
                 "city": [
                   "phoenix"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -66528,9 +65928,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arizona science center"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -66871,9 +66268,6 @@
               "slot_values": {
                 "city": [
                   "Sacramento, CA"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -67032,9 +66426,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Sacramento Zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -67401,9 +66792,6 @@
               "slot_values": {
                 "city": [
                   "Phoenix"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -67453,9 +66841,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Arizona Capitol Museum"
-                ],
                 "location": [
                   "Phoenix"
                 ]
@@ -67886,9 +67271,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -68094,9 +67476,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Las Vegas Natural History Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -68359,9 +67738,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "62"
                 ]
               }
             }
@@ -68475,9 +67851,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Dr. Sun Yat-Sen Classical Chinese Garden"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -68844,9 +68217,6 @@
                 ],
                 "date": [
                   "12th of March"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -69059,9 +68429,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alexandra Palace Ice Rink"
-                ],
                 "location": [
                   "London"
                 ]
@@ -69377,9 +68744,6 @@
               "slot_values": {
                 "city": [
                   "KL"
-                ],
-                "temperature": [
-                  "102"
                 ]
               }
             }
@@ -69551,9 +68915,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquaria KLCC, Kuala Lumpur."
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -70091,9 +69452,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -70143,9 +69501,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -70714,9 +70069,6 @@
                 ],
                 "date": [
                   "March 12th"
-                ],
-                "temperature": [
-                  "101"
                 ]
               }
             }
@@ -70806,9 +70158,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ANZ Stadium"
-                ],
                 "location": [
                   "Sydney Australia"
                 ]
@@ -71174,9 +70523,6 @@
                 ],
                 "date": [
                   "1st of March"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -71393,9 +70739,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California State Capitol Museum"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -71835,9 +71178,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -71894,9 +71234,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Honda Center"
-                ],
                 "category": [
                   "Sports Venue"
                 ],
@@ -72248,9 +71585,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "61"
                 ]
               }
             }
@@ -72422,9 +71756,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Columbia Center"
-                ],
                 "category": [
                   "Shopping Area"
                 ],
@@ -72988,9 +72319,6 @@
                 ],
                 "date": [
                   "March 5th"
-                ],
-                "temperature": [
-                  "62"
                 ]
               }
             }
@@ -73160,9 +72488,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Dr. Sun Yat-Sen Classical Chinese Garden"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -73483,9 +72808,6 @@
                 ],
                 "date": [
                   "this Saturday"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -73542,9 +72864,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -73975,9 +73294,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -74182,9 +73498,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fremont Street Experience"
-                ],
                 "location": [
                   "Vegas"
                 ]
@@ -74421,3 +73734,4 @@
     ]
   }
 ]
+

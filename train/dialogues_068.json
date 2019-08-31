@@ -578,9 +578,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Sacramento Zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -653,9 +650,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento, CA"
                 ]
@@ -1242,9 +1236,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "American Museum of Natural History"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -1493,9 +1484,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "102 West 57th Street"
-                ],
                 "where_to": [
                   "New York"
                 ]
@@ -2286,9 +2274,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "OMSI"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -2379,9 +2364,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -3114,9 +3096,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LA"
                 ]
@@ -3265,9 +3244,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "rating": [
                   "4.0"
                 ],
@@ -4014,9 +3990,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "art museum steps"
-                ],
                 "location": [
                   "philadelphia"
                 ]
@@ -4142,9 +4115,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 north christopher columbus boulevard"
-                ],
                 "where_to": [
                   "philadelphia"
                 ]
@@ -4183,9 +4153,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 north christopher columbus boulevard"
-                ],
                 "where_to": [
                   "philadelphia"
                 ]
@@ -4222,9 +4189,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 north christopher columbus boulevard"
-                ],
                 "where_to": [
                   "philadelphia"
                 ]
@@ -5468,9 +5432,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disney California Adventure Park"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -5571,9 +5532,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1160 West Ball Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -6195,9 +6153,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Gas Works Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -6292,9 +6247,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -6339,9 +6291,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -6982,9 +6931,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Burke Museum of Natural History and Culture"
-                ],
                 "location": [
                   "Seattle"
                 ]
@@ -7205,9 +7151,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1815 Terry Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -7255,9 +7198,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1815 Terry Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -7303,9 +7243,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1815 Terry Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -7835,9 +7772,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -7914,9 +7848,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "where_to": [
                   "Philadelphia"
                 ]
@@ -8566,9 +8497,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Coit Tower"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -8650,9 +8578,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -9436,9 +9361,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "battleship uss iowa museum"
-                ],
                 "location": [
                   "los angeles"
                 ]
@@ -9511,9 +9433,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 south figueroa street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -9555,9 +9474,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 south figueroa street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -9597,9 +9513,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 south figueroa street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -10193,9 +10106,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "ANgels Flight Railway"
-                ],
                 "location": [
                   "LAX"
                 ]
@@ -10272,9 +10182,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 south figueroa street"
-                ],
                 "where_to": [
                   "LAX"
                 ]
@@ -10759,9 +10666,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Harry Bridges Memorial Park"
-                ],
                 "location": [
                   "Long Beach"
                 ]
@@ -10831,9 +10735,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1133 Atlantic Avenue"
-                ],
                 "where_to": [
                   "Long Beach"
                 ]
@@ -10872,9 +10773,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1133 Atlantic Avenue"
-                ],
                 "where_to": [
                   "Long Beach"
                 ]
@@ -10911,9 +10809,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1133 Atlantic Avenue"
-                ],
                 "where_to": [
                   "Long Beach"
                 ]
@@ -11385,9 +11280,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bradbury Building"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -11469,9 +11361,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -11516,9 +11405,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -12075,9 +11961,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "burke museum of natural history and culture"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -12207,9 +12090,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st avenue"
-                ],
                 "where_to": [
                   "Seattle, WA"
                 ]
@@ -12248,9 +12128,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st avenue"
-                ],
                 "where_to": [
                   "Seattle, WA"
                 ]
@@ -12897,9 +12774,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -13034,9 +12908,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10044 Pacific Mesa Boulevard"
-                ],
                 "rating": [
                   "4.3"
                 ],
@@ -13076,9 +12947,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10044 Pacific Mesa Boulevard"
-                ],
                 "rating": [
                   "4.3"
                 ],
@@ -13730,9 +13598,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Exposition park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -13815,9 +13680,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 south figueroa street"
-                ],
                 "where_to": [
                   "LA"
                 ]
@@ -13854,9 +13716,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 south figueroa street"
-                ],
                 "where_to": [
                   "LA"
                 ]
@@ -14582,9 +14441,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -14731,9 +14587,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10740 Wilshire Boulevard"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -15366,9 +15219,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Floyd Lamb Park"
-                ],
                 "location": [
                   "Las Vegas"
                 ]
@@ -15438,9 +15288,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "where_to": [
                   "Las Vegas"
                 ]
@@ -16027,9 +15874,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "balboa park"
-                ],
                 "location": [
                   "sd"
                 ]
@@ -16099,9 +15943,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 coast boulevard, la jolla, california 92037, united states"
-                ],
                 "where_to": [
                   "sd"
                 ]
@@ -16140,9 +15981,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 coast boulevard, la jolla, california 92037, united states"
-                ],
                 "where_to": [
                   "sd"
                 ]
@@ -16179,9 +16017,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 coast boulevard, la jolla, california 92037, united states"
-                ],
                 "where_to": [
                   "sd"
                 ]
@@ -16697,9 +16532,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Francisco"
                 ]
@@ -16811,9 +16643,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Market Street Hotel Entrance is at, 45 McAllister Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -16858,9 +16687,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Market Street Hotel Entrance is at, 45 McAllister Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -16903,9 +16729,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Market Street Hotel Entrance is at, 45 McAllister Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -17502,9 +17325,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Birch Aquarium at Scripps Institution of Oceanography"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -17670,9 +17490,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "SD"
                 ]
@@ -17711,9 +17528,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "SD"
                 ]
@@ -17750,9 +17564,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "SD"
                 ]
@@ -18443,9 +18254,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "92nd Street Y"
-                ],
                 "location": [
                   "New York"
                 ]
@@ -18515,9 +18323,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York"
                 ]
@@ -18556,9 +18361,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Greenwich Street"
-                ],
                 "where_to": [
                   "New York"
                 ]
@@ -19159,10 +18961,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel stadium of anaheim",
-                  "angel stadium of anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -19288,9 +19086,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1057 west ball road"
-                ],
                 "where_to": [
                   "Anaheim"
                 ]
@@ -19915,9 +19710,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -19987,9 +19779,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "Los Angeles"
                 ]
@@ -20028,9 +19817,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "Los Angeles"
                 ]
@@ -20560,9 +20346,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "bloedel conservatory"
-                ],
                 "location": [
                   "vancouver, bc"
                 ]
@@ -20644,9 +20427,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1177 melville street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -21143,9 +20923,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Pixar Pier"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -21240,9 +21017,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1160 West Ball Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -21872,9 +21646,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -21951,9 +21722,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "where_to": [
                   "Philadelphia"
                 ]
@@ -22742,9 +22510,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -22824,9 +22589,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 West Ball Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -22866,9 +22628,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 West Ball Road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -23587,9 +23346,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -23728,9 +23484,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1001 Intrepid Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -24295,9 +24048,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -24400,9 +24150,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -24444,9 +24191,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -25244,9 +24988,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "battleship uss iowa museum"
-                ],
                 "location": [
                   "la"
                 ]
@@ -25316,9 +25057,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 south figueroa street"
-                ],
                 "where_to": [
                   "la"
                 ]
@@ -25797,9 +25535,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -25888,9 +25623,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -26385,9 +26117,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento"
                 ]
@@ -26464,9 +26193,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento"
                 ]
@@ -26505,9 +26231,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento"
                 ]
@@ -27324,9 +27047,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "location": [
                   "LA"
                 ]
@@ -27506,9 +27226,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "where_to": [
                   "LA"
                 ]
@@ -27924,9 +27641,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -28003,9 +27717,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "SF"
                 ]
@@ -28044,9 +27755,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "SF"
                 ]
@@ -28083,9 +27791,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "SF"
                 ]
@@ -28736,9 +28441,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -28868,9 +28570,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento"
                 ]
@@ -29481,9 +29180,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "location": [
                   "Vancouver"
                 ]
@@ -29623,9 +29319,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Granville Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -30328,9 +30021,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Lan Su Chinese Garden"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -30529,9 +30219,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -31105,9 +30792,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "location": [
                   "Long Beach"
                 ]
@@ -31196,9 +30880,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "200 South Pine Avenue"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -31712,9 +31393,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -31794,9 +31472,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "San Francisco"
                 ]
@@ -31835,9 +31510,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "San Francisco"
                 ]
@@ -32298,9 +31970,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -32445,9 +32114,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10044 Pacific Mesa Boulevard"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -33148,9 +32814,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Bay"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -33233,9 +32896,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "SFO"
                 ]
@@ -33861,9 +33521,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SFO"
                 ]
@@ -33940,9 +33597,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "SFO"
                 ]
@@ -33981,9 +33635,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "SFO"
                 ]
@@ -34480,9 +34131,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -34613,9 +34261,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento, CA"
                 ]
@@ -35360,9 +35005,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -35432,9 +35074,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "Los Angeles"
                 ]
@@ -35473,9 +35112,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "Los Angeles"
                 ]
@@ -35512,9 +35148,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "Los Angeles"
                 ]
@@ -35991,9 +35624,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Barnes Foundation"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -36070,9 +35700,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1 Logan Square"
-                ],
                 "where_to": [
                   "Philadelphia"
                 ]
@@ -36452,9 +36079,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave Site"
-                ],
                 "location": [
                   "Seattle, WA"
                 ]
@@ -36531,9 +36155,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "where_to": [
                   "Seattle, WA"
                 ]
@@ -36572,9 +36193,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "where_to": [
                   "Seattle, WA"
                 ]
@@ -36611,9 +36229,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "where_to": [
                   "Seattle, WA"
                 ]
@@ -37270,9 +36885,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California State Capitol Museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -37342,9 +36954,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento, CA"
                 ]
@@ -37383,9 +36992,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento, CA"
                 ]
@@ -37422,9 +37028,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento, CA"
                 ]
@@ -37922,9 +37525,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "location": [
                   "Vancouver"
                 ]
@@ -38013,9 +37613,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1100 Granville Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -38713,9 +38310,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Pacific"
-                ],
                 "location": [
                   "Long Beach"
                 ]
@@ -38785,9 +38379,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1133 Atlantic Avenue"
-                ],
                 "where_to": [
                   "Long Beach"
                 ]
@@ -38826,9 +38417,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1133 Atlantic Avenue"
-                ],
                 "where_to": [
                   "Long Beach"
                 ]
@@ -39427,9 +39015,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -39509,9 +39094,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "Los Angeles"
                 ]
@@ -39550,9 +39132,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "Los Angeles"
                 ]
@@ -39589,9 +39168,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "Los Angeles"
                 ]
@@ -40190,9 +39766,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -40272,9 +39845,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market STreet"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -40316,9 +39886,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market STreet"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -40741,9 +40308,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "the queen mary"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -41009,9 +40573,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "200 south pine avenue"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -41056,9 +40617,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "200 south pine avenue"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -41778,9 +41336,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "bradbury building"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -41914,9 +41469,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 south figueroa street"
-                ],
                 "where_to": [
                   "LAX"
                 ]
@@ -42418,9 +41970,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -42513,9 +42062,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 West Ball Road"
-                ],
                 "where_to": [
                   "Anaheim"
                 ]
@@ -43042,9 +42588,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bloedel Conservatory"
-                ],
                 "location": [
                   "Vancouver"
                 ]
@@ -43217,9 +42760,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1025 Granville Street"
-                ],
                 "where_to": [
                   "Vancouver"
                 ]
@@ -43258,9 +42798,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1025 Granville Street"
-                ],
                 "where_to": [
                   "Vancouver"
                 ]
@@ -43297,9 +42834,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1025 Granville Street"
-                ],
                 "where_to": [
                   "Vancouver"
                 ]
@@ -43936,9 +43470,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "california automobile museum"
-                ],
                 "location": [
                   "Sacramento, CA"
                 ]
@@ -44024,9 +43555,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 capitol mall"
-                ],
                 "rating": [
                   "3.8"
                 ],
@@ -45076,9 +44604,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Autry Museum of the American West"
-                ],
                 "location": [
                   "LA"
                 ]
@@ -45158,9 +44683,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -45202,9 +44724,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -45244,9 +44763,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -45783,9 +45299,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LAX"
                 ]
@@ -45914,9 +45427,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -46481,9 +45991,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "LA"
                 ]
@@ -46612,9 +46119,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -47231,9 +46735,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angels Flight Railway"
-                ],
                 "location": [
                   "Los Angeles"
                 ]
@@ -47429,9 +46930,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -47473,9 +46971,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "number_of_adults": [
                   "1"
                 ],
@@ -48034,9 +47529,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "disney california adventure park"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -48119,9 +47611,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 west ball road"
-                ],
                 "where_to": [
                   "anaheim, ca"
                 ]
@@ -48160,9 +47649,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 west ball road"
-                ],
                 "where_to": [
                   "anaheim, ca"
                 ]
@@ -48199,9 +47685,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 west ball road"
-                ],
                 "where_to": [
                   "anaheim, ca"
                 ]
@@ -48750,9 +48233,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California State Capitol Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -48840,9 +48320,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "rating": [
                   "3.8"
                 ],
@@ -48882,9 +48359,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "rating": [
                   "3.8"
                 ],
@@ -49411,9 +48885,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento"
                 ]
@@ -49530,9 +49001,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento"
                 ]
@@ -49571,9 +49039,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento"
                 ]
@@ -50318,9 +49783,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "SD"
                 ]
@@ -50450,9 +49912,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California, 92037, United States"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -51326,9 +50785,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Oregon Zoo"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -51426,9 +50882,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 Northwest 9th avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -52128,9 +51581,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "fremont troll"
-                ],
                 "category": [
                   "Historical Landmark"
                 ],
@@ -52280,9 +51730,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -52330,9 +51777,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -52378,9 +51822,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -53122,9 +52563,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California State Capitol Museum"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -53197,9 +52635,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento, CA"
                 ]
@@ -53755,9 +53190,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento"
                 ]
@@ -53834,9 +53266,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento"
                 ]
@@ -53875,9 +53304,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento"
                 ]
@@ -54727,9 +54153,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San DIego"
                 ]
@@ -54853,9 +54276,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San DIego"
                 ]
@@ -54894,9 +54314,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San DIego"
                 ]
@@ -55365,9 +54782,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "angel stadium of anaheim"
-                ],
                 "location": [
                   "anaheim, ca"
                 ]
@@ -55449,9 +54863,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1160 west ball road"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -56064,9 +55475,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "oregon zoo"
-                ],
                 "category": [
                   "Nature Preserve"
                 ],
@@ -56154,9 +55562,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "rating": [
                   "4.1"
                 ],
@@ -56198,9 +55603,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 northeast multnomah street"
-                ],
                 "rating": [
                   "4.1"
                 ],
@@ -56834,9 +56236,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Las Vegas Natural History Museum"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -56928,9 +56327,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "7100 Cascade Valley Court"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -57653,9 +57049,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran"
                 ]
@@ -57735,9 +57128,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -57779,9 +57169,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -58347,9 +57734,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "SD"
                 ]
@@ -58422,9 +57806,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla California 92037, United States"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -58852,9 +58233,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bradbury Building"
-                ],
                 "category": [
                   "dontcare"
                 ],
@@ -58943,9 +58321,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -58987,9 +58362,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -59587,9 +58959,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "battleship USS iowa museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -59803,9 +59172,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 west olympic boulevard"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -59850,9 +59216,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 west olympic boulevard"
-                ],
                 "number_of_adults": [
                   "3"
                 ],
@@ -60584,9 +59947,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Cable Car Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -60684,9 +60044,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -60732,9 +60089,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -61139,9 +60493,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Park"
-                ],
                 "location": [
                   "San Diego"
                 ]
@@ -61264,9 +60615,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -61305,9 +60653,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -61344,9 +60689,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -62109,9 +61451,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "california museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -62250,9 +61589,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 capitol mall"
-                ],
                 "rating": [
                   "3.4"
                 ],
@@ -62736,9 +62072,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Francisco"
                 ]
@@ -62808,9 +62141,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "San Francisco"
                 ]
@@ -62847,9 +62177,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "San Francisco"
                 ]
@@ -63249,9 +62576,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Automobile Museum"
-                ],
                 "location": [
                   "Sacramento"
                 ]
@@ -63331,9 +62655,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "number_of_adults": [
                   "2"
                 ],
@@ -63980,9 +63301,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "DISCOVERY Children's Museum"
-                ],
                 "location": [
                   "Las Vegas"
                 ]
@@ -64117,9 +63435,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "217 Las Vegas Boulevard North"
-                ],
                 "rating": [
                   "3.5"
                 ],
@@ -64537,9 +63852,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Discovery children's museum"
-                ],
                 "location": [
                   "Vegas"
                 ]
@@ -64609,9 +63921,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1215 South Las Vegas Boulevard"
-                ],
                 "where_to": [
                   "Vegas"
                 ]
@@ -65264,9 +64573,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Battleship USS Iowa Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -65395,9 +64701,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "where_to": [
                   "LAX"
                 ]
@@ -65436,9 +64739,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "10320 West Olympic Boulevard"
-                ],
                 "where_to": [
                   "LAX"
                 ]
@@ -66060,9 +65360,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fleet Science Center"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -66154,9 +65451,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "rating": [
                   "4.1"
                 ],
@@ -66577,9 +65871,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Hollywood Walk of Fame"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -66697,9 +65988,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "rating": [
                   "4.1"
                 ],
@@ -66741,9 +66029,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "rating": [
                   "4.1"
                 ],
@@ -66783,9 +66068,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "rating": [
                   "4.1"
                 ],
@@ -67554,9 +66836,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "San Diego California Temple"
-                ],
                 "category": [
                   "Place of Worship"
                 ],
@@ -67642,9 +66921,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, united States"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -68232,9 +67508,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Crystal Springs Rhododendron Garden"
-                ],
                 "location": [
                   "portland"
                 ]
@@ -68406,9 +67679,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1150 northwest 9th avenue"
-                ],
                 "where_to": [
                   "portland"
                 ]
@@ -69123,9 +68393,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Art Museum Steps"
-                ],
                 "location": [
                   "Philadelphia"
                 ]
@@ -69330,9 +68597,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1001 Intrepid Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -69380,9 +68644,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1001 Intrepid Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -69912,9 +69173,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim"
                 ]
@@ -70065,9 +69323,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1110 West Katella Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -70113,9 +69368,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1110 West Katella Avenue"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -70610,9 +69862,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "autry museum of the american west"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -70801,9 +70050,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South figueroa street"
-                ],
                 "has_laundry_service": [
                   "True"
                 ],
@@ -71555,9 +70801,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Bradbury Building"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -71723,9 +70966,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1020 South Figueroa Street"
-                ],
                 "where_to": [
                   "Los Angeles"
                 ]
@@ -72295,9 +71535,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Disneyland Park"
-                ],
                 "category": [
                   "Theme Park"
                 ],
@@ -72462,9 +71699,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 West Ball Road"
-                ],
                 "where_to": [
                   "Anaheim"
                 ]
@@ -72503,9 +71737,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 West Ball Road"
-                ],
                 "where_to": [
                   "Anaheim"
                 ]
@@ -72542,9 +71773,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 West Ball Road"
-                ],
                 "where_to": [
                   "Anaheim"
                 ]
@@ -73180,9 +72408,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Balboa Theatre"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -73316,9 +72541,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -73355,9 +72577,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1003 Coast Boulevard, La Jolla, California 92037, United States"
-                ],
                 "where_to": [
                   "San Diego"
                 ]
@@ -73967,9 +73186,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "California Museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -74098,9 +73314,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento Ca"
                 ]
@@ -74139,9 +73352,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "100 Capitol Mall"
-                ],
                 "where_to": [
                   "Sacramento Ca"
                 ]
@@ -74573,9 +73783,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -74678,9 +73885,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "SFO"
                 ]
@@ -74719,9 +73923,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1095 Market Street"
-                ],
                 "where_to": [
                   "SFO"
                 ]
@@ -75275,9 +74476,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Angel Stadium of Anaheim"
-                ],
                 "location": [
                   "Anaheim, CA"
                 ]
@@ -75347,9 +74545,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 West Ball Road"
-                ],
                 "where_to": [
                   "Anaheim, CA"
                 ]
@@ -75388,9 +74583,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1050 West Ball Road"
-                ],
                 "where_to": [
                   "Anaheim, CA"
                 ]
@@ -75777,9 +74969,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Brandon Lee and Bruce Lee's Grave Site"
-                ],
                 "location": [
                   "Seattle"
                 ]
@@ -75849,9 +75038,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "where_to": [
                   "Seattle"
                 ]
@@ -75890,9 +75076,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "1000 1st Avenue"
-                ],
                 "where_to": [
                   "Seattle"
                 ]
@@ -76364,9 +75547,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Harry Bridges Memorial Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -76458,9 +75638,6 @@
               "active_intent": "SearchHouse",
               "requested_slots": [],
               "slot_values": {
-                "address": [
-                  "285 Bay Street"
-                ],
                 "rating": [
                   "4.4"
                 ],
@@ -76656,9 +75833,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fort Funston"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -77285,9 +76459,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -77731,9 +76902,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -78246,9 +77414,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -78776,9 +77941,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -79440,9 +78602,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -80196,9 +79355,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Golden Gate Park"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -80853,9 +80009,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran"
                 ]
@@ -81367,9 +80520,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SFO"
                 ]
@@ -82203,9 +81353,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Francisco"
                 ]
@@ -82667,9 +81814,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "cable car museum"
-                ],
                 "category": [
                   "Museum"
                 ],
@@ -83215,9 +82359,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SFO"
                 ]
@@ -83681,9 +82822,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Bay"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -84276,9 +83414,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Bay"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -84986,9 +84121,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Fran"
                 ]
@@ -85701,9 +84833,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "location": [
                   "SFO"
                 ]
@@ -86369,9 +85498,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Chinatown San Francisco"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -86904,9 +86030,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fort Funston"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -87501,9 +86624,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -88092,9 +87212,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "San Francisco"
                 ]
@@ -88620,9 +87737,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fort Funston"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -89238,9 +88352,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "alcatraz island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -89955,9 +89066,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Fort Funston"
-                ],
                 "category": [
                   "Park"
                 ],
@@ -90484,9 +89592,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz Island"
-                ],
                 "good_for_kids": [
                   "True"
                 ],
@@ -90865,9 +89970,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Alcatraz"
-                ],
                 "location": [
                   "SF"
                 ]
@@ -91577,9 +90679,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Chinatown San Francisco"
-                ],
                 "category": [
                   "Tourist Attraction"
                 ],
@@ -92248,9 +91347,6 @@
               "active_intent": "FindAttractions",
               "requested_slots": [],
               "slot_values": {
-                "attraction_name": [
-                  "Aquarium of the Bay"
-                ],
                 "free_entry": [
                   "True"
                 ],
@@ -92654,3 +91750,4 @@
     ]
   }
 ]
+

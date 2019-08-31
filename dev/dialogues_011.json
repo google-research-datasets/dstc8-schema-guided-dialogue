@@ -1649,9 +1649,6 @@
                 ],
                 "date": [
                   "14th of March"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -2150,9 +2147,6 @@
               "slot_values": {
                 "city": [
                   "Cloverdale"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -2189,9 +2183,6 @@
               "slot_values": {
                 "city": [
                   "Cloverdale"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -2612,9 +2603,6 @@
               "slot_values": {
                 "city": [
                   "Larkspur"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -3105,9 +3093,6 @@
                 ],
                 "date": [
                   "this Sunday"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -3537,9 +3522,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -3579,9 +3561,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -4058,9 +4037,6 @@
                 ],
                 "date": [
                   "5th of March"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -4460,9 +4436,6 @@
                 ],
                 "date": [
                   "the 13th"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -4502,9 +4475,6 @@
                 ],
                 "date": [
                   "the 13th"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -5057,9 +5027,6 @@
               "slot_values": {
                 "city": [
                   "Sebastopol"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -5377,9 +5344,6 @@
                 ],
                 "date": [
                   "5th of this month"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -5419,9 +5383,6 @@
                 ],
                 "date": [
                   "5th of this month"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -5909,9 +5870,6 @@
               "slot_values": {
                 "city": [
                   "Dixon"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -5948,9 +5906,6 @@
               "slot_values": {
                 "city": [
                   "Dixon"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -6399,9 +6354,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -6441,9 +6393,6 @@
                 ],
                 "date": [
                   "March 2nd"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -6928,9 +6877,6 @@
               "slot_values": {
                 "city": [
                   "orinda"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -6967,9 +6913,6 @@
               "slot_values": {
                 "city": [
                   "orinda"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -7453,9 +7396,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -7495,9 +7435,6 @@
                 ],
                 "date": [
                   "March 13th"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -7861,9 +7798,6 @@
               "slot_values": {
                 "city": [
                   "Menlo Park"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -7900,9 +7834,6 @@
               "slot_values": {
                 "city": [
                   "Menlo Park"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -8363,9 +8294,6 @@
               "slot_values": {
                 "city": [
                   "Danville"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -8925,9 +8853,6 @@
               "slot_values": {
                 "city": [
                   "Pleasant Hill"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -8964,9 +8889,6 @@
               "slot_values": {
                 "city": [
                   "Pleasant Hill"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -9460,9 +9382,6 @@
                 ],
                 "date": [
                   "march 2nd"
-                ],
-                "temperature": [
-                  "57"
                 ]
               }
             }
@@ -9502,9 +9421,6 @@
                 ],
                 "date": [
                   "march 2nd"
-                ],
-                "temperature": [
-                  "57"
                 ]
               }
             }
@@ -10027,9 +9943,6 @@
               "slot_values": {
                 "city": [
                   "Geyserville"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -10066,9 +9979,6 @@
               "slot_values": {
                 "city": [
                   "Geyserville"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -10446,9 +10356,6 @@
                 ],
                 "date": [
                   "the 6th"
-                ],
-                "temperature": [
-                  "78"
                 ]
               }
             }
@@ -10842,9 +10749,6 @@
                 ],
                 "date": [
                   "the 12th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -10884,9 +10788,6 @@
                 ],
                 "date": [
                   "the 12th"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -11395,9 +11296,6 @@
                 ],
                 "date": [
                   "Thursday next week"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -11852,9 +11750,6 @@
               "slot_values": {
                 "city": [
                   "District of Columbia"
-                ],
-                "temperature": [
-                  "75"
                 ]
               }
             }
@@ -12477,9 +12372,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -12519,9 +12411,6 @@
                 ],
                 "date": [
                   "March 8th"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -12907,9 +12796,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -12949,9 +12835,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -13438,9 +13321,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -13480,9 +13360,6 @@
                 ],
                 "date": [
                   "March 6th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -13988,9 +13865,6 @@
               "slot_values": {
                 "city": [
                   "Redwood City"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -14547,9 +14421,6 @@
                 ],
                 "date": [
                   "Friday next week"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -14929,9 +14800,6 @@
                 ],
                 "date": [
                   "11th of March"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -14971,9 +14839,6 @@
                 ],
                 "date": [
                   "11th of March"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -15367,9 +15232,6 @@
                 ],
                 "date": [
                   "5th of March"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -15781,9 +15643,6 @@
               "slot_values": {
                 "city": [
                   "Sacramento, CA"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -15820,9 +15679,6 @@
               "slot_values": {
                 "city": [
                   "Sacramento, CA"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -16267,9 +16123,6 @@
                 ],
                 "date": [
                   "3rd of March"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -16309,9 +16162,6 @@
                 ],
                 "date": [
                   "3rd of March"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -16803,9 +16653,6 @@
                 ],
                 "date": [
                   "3rd of March"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -17237,9 +17084,6 @@
                 ],
                 "date": [
                   "the 10th"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -17682,9 +17526,6 @@
               "slot_values": {
                 "city": [
                   "Martinez"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -18177,9 +18018,6 @@
                 ],
                 "date": [
                   "Tuesday next week"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -18219,9 +18057,6 @@
                 ],
                 "date": [
                   "Tuesday next week"
-                ],
-                "temperature": [
-                  "88"
                 ]
               }
             }
@@ -18652,9 +18487,6 @@
               "slot_values": {
                 "city": [
                   "Belmont"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -19087,9 +18919,6 @@
                 ],
                 "date": [
                   "11th of this month"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -19509,9 +19338,6 @@
               "slot_values": {
                 "city": [
                   "larkspur"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -19548,9 +19374,6 @@
               "slot_values": {
                 "city": [
                   "larkspur"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -19857,9 +19680,6 @@
                 ],
                 "date": [
                   "4th of March"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -20276,9 +20096,6 @@
               "slot_values": {
                 "city": [
                   "Inverness"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -20705,9 +20522,6 @@
               "slot_values": {
                 "city": [
                   "Antioch"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -21172,9 +20986,6 @@
                 ],
                 "date": [
                   "March 4th"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -21633,9 +21444,6 @@
                 ],
                 "date": [
                   "Tuesday next week"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -22052,9 +21860,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -22094,9 +21899,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -22680,9 +22482,6 @@
                 ],
                 "date": [
                   "the 1st"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -23106,9 +22905,6 @@
                 ],
                 "date": [
                   "9th of march"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -23546,9 +23342,6 @@
               "slot_values": {
                 "city": [
                   "Stanford"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -24078,9 +23871,6 @@
                 ],
                 "date": [
                   "the 3rd"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -24579,9 +24369,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -24621,9 +24408,6 @@
                 ],
                 "date": [
                   "March 11th"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -25022,9 +24806,6 @@
                 ],
                 "date": [
                   "12th of March"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -25559,9 +25340,6 @@
               "slot_values": {
                 "city": [
                   "Las Vegas"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -25598,9 +25376,6 @@
               "slot_values": {
                 "city": [
                   "Las Vegas"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -25951,9 +25726,6 @@
                 ],
                 "date": [
                   "12th of this month"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -25993,9 +25765,6 @@
                 ],
                 "date": [
                   "12th of this month"
-                ],
-                "temperature": [
-                  "81"
                 ]
               }
             }
@@ -26470,9 +26239,6 @@
                 ],
                 "date": [
                   "2nd of this month"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -27169,9 +26935,6 @@
                 ],
                 "date": [
                   "the 13th"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -27797,9 +27560,6 @@
                 ],
                 "date": [
                   "10th of March"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -28371,9 +28131,6 @@
                 ],
                 "date": [
                   "the 12th"
-                ],
-                "temperature": [
-                  "77"
                 ]
               }
             }
@@ -29118,9 +28875,6 @@
                 ],
                 "date": [
                   "the 9th"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -29814,9 +29568,6 @@
                 ],
                 "date": [
                   "next Wednesday"
-                ],
-                "temperature": [
-                  "85"
                 ]
               }
             }
@@ -30466,9 +30217,6 @@
                 ],
                 "date": [
                   "the 1st"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -31111,9 +30859,6 @@
                 ],
                 "date": [
                   "Sunday this week"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -31753,9 +31498,6 @@
               "slot_values": {
                 "city": [
                   "Castro Valley"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -32277,9 +32019,6 @@
                 ],
                 "date": [
                   "3rd of March"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -32760,9 +32499,6 @@
                 ],
                 "date": [
                   "10th of this month"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -33339,9 +33075,6 @@
               "slot_values": {
                 "city": [
                   "Santa Rosa"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -34193,9 +33926,6 @@
                 ],
                 "date": [
                   "5th of march"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -34792,9 +34522,6 @@
                 ],
                 "date": [
                   "13th of March"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -35696,9 +35423,6 @@
                 ],
                 "date": [
                   "the 11th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -36246,9 +35970,6 @@
                 ],
                 "date": [
                   "10th of this month"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -36876,9 +36597,6 @@
                 ],
                 "date": [
                   "Thursday next week"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -37542,9 +37260,6 @@
                 ],
                 "date": [
                   "monday next week"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -38166,9 +37881,6 @@
                 ],
                 "date": [
                   "14th of this month"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -38749,9 +38461,6 @@
                 ],
                 "date": [
                   "12th of this month"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -39200,9 +38909,6 @@
                 ],
                 "date": [
                   "6th of this month"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -39689,9 +39395,6 @@
                 ],
                 "date": [
                   "March 10th"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -40491,9 +40194,6 @@
                 ],
                 "date": [
                   "the 11th"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -41262,9 +40962,6 @@
                 ],
                 "date": [
                   "10th of March"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -41834,9 +41531,6 @@
                 ],
                 "date": [
                   "9th of march"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -42397,9 +42091,6 @@
               "slot_values": {
                 "city": [
                   "Gilroy"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -43148,9 +42839,6 @@
                 ],
                 "date": [
                   "2nd of March"
-                ],
-                "temperature": [
-                  "73"
                 ]
               }
             }
@@ -43801,9 +43489,6 @@
               "slot_values": {
                 "city": [
                   "Walnut Creek"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -44596,9 +44281,6 @@
                 ],
                 "date": [
                   "the 8th"
-                ],
-                "temperature": [
-                  "84"
                 ]
               }
             }
@@ -45348,9 +45030,6 @@
                 ],
                 "date": [
                   "14th of March"
-                ],
-                "temperature": [
-                  "82"
                 ]
               }
             }
@@ -45929,9 +45608,6 @@
                 ],
                 "date": [
                   "the 7th"
-                ],
-                "temperature": [
-                  "85"
                 ]
               }
             }
@@ -46574,9 +46250,6 @@
                 ],
                 "date": [
                   "the 9th"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -47425,9 +47098,6 @@
                 ],
                 "date": [
                   "7th of this month"
-                ],
-                "temperature": [
-                  "76"
                 ]
               }
             }
@@ -48117,9 +47787,6 @@
               "slot_values": {
                 "city": [
                   "Campbell"
-                ],
-                "temperature": [
-                  "91"
                 ]
               }
             }
@@ -48842,9 +48509,6 @@
               "slot_values": {
                 "city": [
                   "Santa Rosa"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -49592,9 +49256,6 @@
                 ],
                 "date": [
                   "3rd of this month"
-                ],
-                "temperature": [
-                  "70"
                 ]
               }
             }
@@ -50294,9 +49955,6 @@
               "slot_values": {
                 "city": [
                   "Walnut Creek"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -51011,9 +50669,6 @@
               "slot_values": {
                 "city": [
                   "Redwood City"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -51502,9 +51157,6 @@
                 ],
                 "date": [
                   "March 7th"
-                ],
-                "temperature": [
-                  "72"
                 ]
               }
             }
@@ -52296,9 +51948,6 @@
                 "city": [
                   "Redwood City",
                   "Redwood city"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -52917,9 +52566,6 @@
                 ],
                 "date": [
                   "the 10th"
-                ],
-                "temperature": [
-                  "89"
                 ]
               }
             }
@@ -53707,9 +53353,6 @@
                 ],
                 "date": [
                   "the 6th"
-                ],
-                "temperature": [
-                  "86"
                 ]
               }
             }
@@ -54533,9 +54176,6 @@
                 ],
                 "date": [
                   "the 14th"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -55111,9 +54751,6 @@
                 ],
                 "date": [
                   "march 11th"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -55682,9 +55319,6 @@
                 ],
                 "date": [
                   "8th of this month"
-                ],
-                "temperature": [
-                  "94"
                 ]
               }
             }
@@ -56314,9 +55948,6 @@
               "slot_values": {
                 "city": [
                   "Mill Valley"
-                ],
-                "temperature": [
-                  "79"
                 ]
               }
             }
@@ -57162,9 +56793,6 @@
                 ],
                 "date": [
                   "March 9th"
-                ],
-                "temperature": [
-                  "93"
                 ]
               }
             }
@@ -57870,9 +57498,6 @@
                 ],
                 "date": [
                   "the 3rd"
-                ],
-                "temperature": [
-                  "90"
                 ]
               }
             }
@@ -58746,9 +58371,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "92"
                 ]
               }
             }
@@ -59536,9 +59158,6 @@
                 ],
                 "date": [
                   "next Tuesday"
-                ],
-                "temperature": [
-                  "85"
                 ]
               }
             }
@@ -60352,9 +59971,6 @@
                 ],
                 "date": [
                   "next Friday"
-                ],
-                "temperature": [
-                  "71"
                 ]
               }
             }
@@ -60949,9 +60565,6 @@
                 ],
                 "date": [
                   "March 14th"
-                ],
-                "temperature": [
-                  "83"
                 ]
               }
             }
@@ -61622,9 +61235,6 @@
                 ],
                 "date": [
                   "4th of March"
-                ],
-                "temperature": [
-                  "87"
                 ]
               }
             }
@@ -62391,9 +62001,6 @@
                 ],
                 "date": [
                   "Monday next week"
-                ],
-                "temperature": [
-                  "80"
                 ]
               }
             }
@@ -63071,9 +62678,6 @@
                 ],
                 "date": [
                   "today"
-                ],
-                "temperature": [
-                  "74"
                 ]
               }
             }
@@ -63914,9 +63518,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "7th of this month"
                 ],
@@ -63971,9 +63572,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "7th of this month"
                 ],
@@ -64475,9 +64073,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "7th of this month"
                 ],
@@ -64581,9 +64176,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "7th of this month",
                   "March 7th"
@@ -64638,9 +64230,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "7th of this month",
                   "March 7th"
@@ -64895,9 +64484,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of March"
                 ],
@@ -65301,9 +64887,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of March"
                 ],
@@ -65409,9 +64992,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -65479,9 +65059,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "12th of March",
                   "March 12th"
@@ -65909,9 +65486,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -66318,9 +65892,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "6th of this month"
                 ],
@@ -66425,9 +65996,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "6th of this month",
                   "March 6th"
@@ -66493,9 +66061,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "6th of this month",
                   "March 6th"
@@ -66548,9 +66113,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "6th of this month",
                   "March 6th"
@@ -66827,9 +66389,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "10th of this month"
                 ],
@@ -66884,9 +66443,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "10th of this month"
                 ],
@@ -67272,9 +66828,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "10th of this month"
                 ],
@@ -67401,9 +66954,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "10th of this month",
                   "March 10th"
@@ -67458,9 +67008,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "10th of this month",
                   "March 10th"
@@ -67777,9 +67324,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "march 13th"
                 ],
@@ -68162,9 +67706,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "march 13th"
                 ],
@@ -68291,9 +67832,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "march 13th"
                 ],
@@ -68347,9 +67885,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "march 13th"
                 ],
@@ -68706,9 +68241,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Sentra"
-                ],
                 "dropoff_date": [
                   "7th of March"
                 ],
@@ -69183,9 +68715,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Sentra"
-                ],
                 "dropoff_date": [
                   "7th of March"
                 ],
@@ -69317,9 +68846,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Sentra"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -69373,9 +68899,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Sentra"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -69429,9 +68952,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Sentra"
-                ],
                 "dropoff_date": [
                   "7th of March",
                   "March 7th"
@@ -69889,9 +69409,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "6th of March"
                 ],
@@ -69946,9 +69463,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "6th of March"
                 ],
@@ -70410,9 +69924,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "6th of March"
                 ],
@@ -70538,9 +70049,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "6th of March",
                   "March 6th"
@@ -70595,9 +70103,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "6th of March",
                   "March 6th"
@@ -70652,9 +70157,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "6th of March",
                   "March 6th"
@@ -70940,9 +70442,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "11th of this month"
                 ],
@@ -70997,9 +70496,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "11th of this month"
                 ],
@@ -71425,9 +70921,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -71555,9 +71048,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -71612,9 +71102,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -71669,9 +71156,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Bolt"
-                ],
                 "dropoff_date": [
                   "11th of this month",
                   "March 11th"
@@ -71983,9 +71467,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -72452,9 +71933,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -72580,9 +72058,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -72636,9 +72111,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -72692,9 +72164,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 6th"
                 ],
@@ -72989,9 +72458,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "the 14th"
                 ],
@@ -73367,9 +72833,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "the 14th"
                 ],
@@ -73498,9 +72961,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -73568,9 +73028,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -73625,9 +73082,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Corolla"
-                ],
                 "dropoff_date": [
                   "March 14th",
                   "the 14th"
@@ -73920,9 +73374,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "14th of March"
                 ],
@@ -74248,9 +73699,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "14th of March"
                 ],
@@ -74379,9 +73827,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "14th of March",
                   "March 14th"
@@ -74435,9 +73880,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "14th of March",
                   "March 14th"
@@ -74938,9 +74380,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -74995,9 +74434,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -75376,9 +74812,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "next Wednesday"
                 ],
@@ -75505,9 +74938,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "next Wednesday"
@@ -75561,9 +74991,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cherokee"
-                ],
                 "dropoff_date": [
                   "March 6th",
                   "next Wednesday"
@@ -75774,9 +75201,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "9th of March"
                 ],
@@ -76298,9 +75722,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "9th of March",
                   "March 9th"
@@ -76407,9 +75828,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "9th of March",
                   "March 9th"
@@ -76477,9 +75895,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "9th of March",
                   "March 9th"
@@ -76534,9 +75949,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Camry"
-                ],
                 "dropoff_date": [
                   "9th of March",
                   "March 9th"
@@ -77042,9 +76454,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -77099,9 +76508,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -77495,9 +76901,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "the 9th"
                 ],
@@ -77601,9 +77004,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -77658,9 +77058,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Cruze"
-                ],
                 "dropoff_date": [
                   "March 9th",
                   "the 9th"
@@ -77968,9 +77365,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "Thursday next week"
                 ],
@@ -78308,9 +77702,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "Thursday next week",
                   "march 7th",
@@ -78441,9 +77832,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "Thursday next week",
                   "march 7th",
@@ -78499,9 +77887,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "Thursday next week",
                   "march 7th",
@@ -78750,9 +78135,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -78807,9 +78189,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -79260,9 +78639,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "the 10th"
                 ],
@@ -79391,9 +78767,6 @@
                 "total_price"
               ],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "march 10th",
                   "the 10th"
@@ -79461,9 +78834,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "accord"
-                ],
                 "dropoff_date": [
                   "march 10th",
                   "the 10th"
@@ -79759,9 +79129,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -80150,9 +79517,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "9th of this month"
                 ],
@@ -80256,9 +79620,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -80313,9 +79674,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -80370,9 +79728,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "9th of this month",
                   "March 9th"
@@ -80630,9 +79985,6 @@
               "active_intent": "GetCarsAvailable",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 4th"
                 ],
@@ -80994,9 +80346,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "the 4th"
                 ],
@@ -81129,9 +80478,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -81186,9 +80532,6 @@
               "active_intent": "ReserveCar",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"
@@ -81243,9 +80586,6 @@
               "active_intent": "NONE",
               "requested_slots": [],
               "slot_values": {
-                "car_name": [
-                  "Accord"
-                ],
                 "dropoff_date": [
                   "March 4th",
                   "the 4th"

@@ -15,13 +15,22 @@ Pranav Khaitan
 | Single domain dataset (train + dev) released    | 07/07/2019            |
 | Multi domain dataset (train + dev) released     | 07/23/2019            |
 | Evaluation Scripts released                     | 08/06/2019            |
-| Baseline Released                               | 08/11/2019 (expected) |
+| Baseline Released                               | 09/02/2019            |
 | Test phase begins.                              | 10/07/2019            |
 | Entry submission deadline.                      | 10/13/2019            |
 | Objective evaluation completed.                 | 10/20/2019            |
 
 
 ### Updates
+
+**08/31/2019** - Issue with dialogue state fixed in single and multi domain
+dialogues. Only slots which are present in required/optional slots of an intent
+can be present in the dialogue state. The list of slots removed from the
+dialogue state as a result of this change are: ('Alarm_1', 'alarm_time'),
+('Calendar_1', 'available_start_time'), ('Hotels_1', 'price_per_night'),
+('Hotels_2', 'address'), ('Movies_2', 'title'), ('RentalCars_1', 'car_name'),
+('RentalCars_2', 'car_name'), ('Travel_1', 'attraction_name'), ('Weather_1',
+'temperature').
 
 **08/06/2019** - Scripts for evaluation and computing the different metrics
 have been released. You can access them
@@ -238,12 +247,15 @@ List of possible system acts:
 The dialogue state is the system's estimate of the user's goal based on the
 dialogue context. It is used to identify the appropriate service call to make
 and to assign values to different slots required by the service. The state is
-also used by the system to generate the next actions. In our setup, a separate
-dialogue state is maintained for each service in the corresponding frame. All
-turns in a single domain dialogue have exactly one frame. However, turns in
-multi-domain dialogues may have more than one frame. More details about this
-will be added after the multi domain dataset is released, however no changes
-will be made to single domain dialogues.
+also used by the system to generate the next actions. Please note that only
+those slots which are either required or optional slots for any intent in a
+service can be present in the dialogue state.
+
+In our setup, a separate dialogue state is maintained for each service in the
+corresponding frame. All turns in a single domain dialogue have exactly one
+frame. However, turns in multi-domain dialogues may have more than one frame.
+Only those turns in which the service changes can have more than one frame. All
+other turns have a single frame just like single domain dialogues.
 
 The dialogue state is only available for user turns. Within a frame, the
 dialogue state contains information about the active intent for the
