@@ -4053,25 +4053,25 @@
             "service": "Flights_1",
             "slots": [
               {
-                "exclusive_end": 84,
+                "exclusive_end": 78,
                 "slot": "origin_city",
-                "start": 72
+                "start": 66
               },
               {
-                "exclusive_end": 96,
+                "exclusive_end": 90,
                 "slot": "destination_city",
-                "start": 88
+                "start": 82
               },
               {
-                "exclusive_end": 161,
+                "exclusive_end": 155,
                 "slot": "departure_date",
-                "start": 151
+                "start": 145
               }
             ]
           }
         ],
         "speaker": "SYSTEM",
-        "utterance": "\\u000bPlease do confirm the following details: you will be leaving from Philadelphia to New York. Flight is from Southwest Airlines that will leave on March 12th. Tickets are for 2 persons, economy seating."
+        "utterance": "Please do confirm the following details: you will be leaving from Philadelphia to New York. Flight is from Southwest Airlines that will leave on March 12th. Tickets are for 2 persons, economy seating."
       },
       {
         "frames": [

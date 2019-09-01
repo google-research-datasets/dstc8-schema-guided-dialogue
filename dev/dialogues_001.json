@@ -15787,9 +15787,9 @@
             "service": "Flights_3",
             "slots": [
               {
-                "exclusive_end": 30,
+                "exclusive_end": 28,
                 "slot": "destination_city",
-                "start": 19
+                "start": 17
               },
               {
                 "exclusive_end": 62,
@@ -15820,7 +15820,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "I want to fly from Mexico City to Seattle on the 11th of March."
+        "utterance": "I want to fly to Mexico City from Seattle on the 11th of March."
       },
       {
         "frames": [
@@ -42971,9 +42971,9 @@
                 "start": 33
               },
               {
-                "exclusive_end": 29,
+                "exclusive_end": 27,
                 "slot": "destination_city",
-                "start": 18
+                "start": 16
               }
             ],
             "state": {
@@ -42994,7 +42994,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "I want to go from Los Angeles to Delhi"
+        "utterance": "I want to go to Los Angeles from Delhi"
       },
       {
         "frames": [
@@ -47253,9 +47253,9 @@
             "service": "Flights_3",
             "slots": [
               {
-                "exclusive_end": 21,
+                "exclusive_end": 23,
                 "slot": "origin_city",
-                "start": 13
+                "start": 15
               },
               {
                 "exclusive_end": 34,
@@ -47278,7 +47278,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "I'm going to New York from Seattle."
+        "utterance": "I'm going from New York to Seattle."
       },
       {
         "frames": [

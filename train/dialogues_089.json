@@ -54,9 +54,9 @@
             "service": "Buses_2",
             "slots": [
               {
-                "exclusive_end": 32,
+                "exclusive_end": 30,
                 "slot": "destination",
-                "start": 24
+                "start": 22
               },
               {
                 "exclusive_end": 41,
@@ -87,7 +87,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "I'd like to travel from San Fran to Vegas on 6th of March."
+        "utterance": "I'd like to travel to San Fran from Vegas on 6th of March."
       },
       {
         "frames": [

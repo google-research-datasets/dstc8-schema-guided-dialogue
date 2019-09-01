@@ -10639,7 +10639,7 @@
           }
         ],
         "speaker": "SYSTEM",
-        "utterance": "Do you need help with anything else?\\u000b"
+        "utterance": "Do you need help with anything else?"
       },
       {
         "frames": [
@@ -10930,7 +10930,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "No, thank you!\\u000b"
+        "utterance": "No, thank you!"
       },
       {
         "frames": [
