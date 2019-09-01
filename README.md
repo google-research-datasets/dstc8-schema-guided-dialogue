@@ -180,7 +180,7 @@ Each turn consists of the following fields:
     single service.
 
 Each frame consists of the fields listed below. The fields marked with * will
-be excluded in the test data released to the participants.
+be excluded from all user turns in the test data released to the participants.
 
 *   **service** - The name of the service corresponding to the frame. The slots
     and intents used in the following fields are taken from the schema of this
