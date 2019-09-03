@@ -23,6 +23,10 @@ Pranav Khaitan
 
 ### Updates
 
+**09/02/2019** - The baseline model has been released. The source code for the
+model and the reported metrics on the dev set can be found
+[here](https://github.com/google-research/google-research/tree/master/schema_guided_dst).
+
 **08/31/2019** - Issue with dialogue state fixed in single and multi domain
 dialogues. Only slots which are present in required/optional slots of an intent
 can be present in the dialogue state. The list of slots removed from the
