@@ -14958,6 +14958,9 @@
                 ],
                 "origin_city": [
                   "Phoenix"
+                ],
+                "flight_class": [
+                  "Economy"
                 ]
               }
             }
