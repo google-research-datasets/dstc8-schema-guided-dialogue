@@ -5,6 +5,23 @@ Pranav Khaitan
 
 **Contact -** schema-guided-dst@google.com
 
+## Important Links
+
+1. [Registration form](https://forms.gle/qWwojMR5pAy4KjSu7)
+2. [Baseline model](https://github.com/google-research/google-research/tree/master/schema_guided_dst)
+3. [Paper for dataset and baseline](https://arxiv.org/pdf/1909.05855.pdf)
+
+Please cite the following paper for the dataset or the baseline model:
+
+```shell
+@article{rastogi2019towards,
+  title={Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset},
+  author={Rastogi, Abhinav and Zang, Xiaoxue and Sunkara, Srinivas and Gupta, Raghav and Khaitan, Pranav},
+  journal={arXiv preprint arXiv:1909.05855},
+  year={2019}
+}
+```
+
 ## Important Dates
 
 
@@ -22,6 +39,9 @@ Pranav Khaitan
 
 
 ### Updates
+
+**10/02/2019** - Registration form for participants released. Registrations
+will be open till 10/12/2019. Link to dataset paper and baseline model added.
 
 **09/02/2019** - The baseline model has been released. The source code for the
 model and the reported metrics on the dev set can be found
