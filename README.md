@@ -34,11 +34,13 @@ Please cite the following paper for the dataset or the baseline model:
 | Evaluation Scripts released                     | 08/06/2019            |
 | Baseline Released                               | 09/02/2019            |
 | Test dataset released and test phase begins.    | 10/07/2019            |
-| Entry submission deadline.                      | 10/13/2019            |
+| Entry submission deadline.                      | 10/14/2019            |
 | Objective evaluation completed.                 | 10/20/2019            |
 
 
 ### Updates
+
+**10/12/2019** - Entry submission deadline is extended to 10/14/2019.
 
 **10/07/2019** - Test dataset released and test phase begins. Please remember
 that the entry submission deadline is 10/13/2019.
