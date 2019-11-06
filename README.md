@@ -698,3 +698,61 @@ Python scripts for evaluation and computing the different metrics can be found
 We thank Amir Fayazi, Maria Wang, Ulrich Rueckert and Jindong Chen for their
 valuable suggestions and support in the formulation of this track and collection
 of this dataset.
+
+### Dataset Metadata
+The following table is necessary for this dataset to be indexed by search
+engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
+<div itemscope itemtype="http://schema.org/Dataset">
+<table>
+  <tr>
+    <th>property</th>
+    <th>value</th>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td><code itemprop="name">Schema-Guided Dialogue State Tracking</code></td>
+  </tr>
+  <tr>
+    <td>alternateName</td>
+    <td><code itemprop="alternateName">DSTC 8</code></td>
+  </tr>
+  <tr>
+    <td>url</td>
+    <td><code itemprop="url">https://github.com/google-research-datasets/dstc8-schema-guided-dialogue</code></td>
+  </tr>
+  <tr>
+    <td>sameAs</td>
+    <td><code itemprop="sameAs">https://github.com/google-research-datasets/dstc8-schema-guided-dialogue</code></td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td><code itemprop="description">The dataset consists of conversations between a virtual assistant and a user. These conversations have been generated with the help of a dialogue simulator and paid crowd-workers.</code></td>
+  </tr>
+  <tr>
+    <td>provider</td>
+    <td>
+      <div itemscope itemtype="http://schema.org/Organization" itemprop="provider">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Google</code></td>
+          </tr>
+          <tr>
+            <td>sameAs</td>
+            <td><code itemprop="sameAs">https://en.wikipedia.org/wiki/Google</code></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>citation</td>
+    <td><code itemprop="citation">https://identifiers.org/arxiv:1909.05855</code></td>
+  </tr>
+</table>
+</div>
+
