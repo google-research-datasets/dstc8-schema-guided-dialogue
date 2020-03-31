@@ -5,6 +5,23 @@ Pranav Khaitan
 
 **Contact -** schema-guided-dst@google.com
 
+## Important Links
+
+1. [Registration form](https://forms.gle/qWwojMR5pAy4KjSu7)
+2. [Baseline model](https://github.com/google-research/google-research/tree/master/schema_guided_dst)
+3. [Paper for dataset and baseline](https://arxiv.org/pdf/1909.05855.pdf)
+
+Please cite the following paper for the dataset or the baseline model:
+
+```shell
+@article{rastogi2019towards,
+  title={Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset},
+  author={Rastogi, Abhinav and Zang, Xiaoxue and Sunkara, Srinivas and Gupta, Raghav and Khaitan, Pranav},
+  journal={arXiv preprint arXiv:1909.05855},
+  year={2019}
+}
+```
+
 ## Important Dates
 
 
@@ -16,12 +33,20 @@ Pranav Khaitan
 | Multi domain dataset (train + dev) released     | 07/23/2019            |
 | Evaluation Scripts released                     | 08/06/2019            |
 | Baseline Released                               | 09/02/2019            |
-| Test phase begins.                              | 10/07/2019            |
-| Entry submission deadline.                      | 10/13/2019            |
+| Test dataset released and test phase begins.    | 10/07/2019            |
+| Entry submission deadline.                      | 10/14/2019            |
 | Objective evaluation completed.                 | 10/20/2019            |
 
 
 ### Updates
+
+**10/12/2019** - Entry submission deadline is extended to 10/14/2019.
+
+**10/07/2019** - Test dataset released and test phase begins. Please remember
+that the entry submission deadline is 10/13/2019.
+
+**10/02/2019** - Registration form for participants released. Registrations
+will be open till 10/12/2019. Link to dataset paper and baseline model added.
 
 **09/02/2019** - The baseline model has been released. The source code for the
 model and the reported metrics on the dev set can be found
@@ -673,3 +698,61 @@ Python scripts for evaluation and computing the different metrics can be found
 We thank Amir Fayazi, Maria Wang, Ulrich Rueckert and Jindong Chen for their
 valuable suggestions and support in the formulation of this track and collection
 of this dataset.
+
+### Dataset Metadata
+The following table is necessary for this dataset to be indexed by search
+engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
+<div itemscope itemtype="http://schema.org/Dataset">
+<table>
+  <tr>
+    <th>property</th>
+    <th>value</th>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td><code itemprop="name">Schema-Guided Dialogue State Tracking</code></td>
+  </tr>
+  <tr>
+    <td>alternateName</td>
+    <td><code itemprop="alternateName">DSTC 8</code></td>
+  </tr>
+  <tr>
+    <td>url</td>
+    <td><code itemprop="url">https://github.com/google-research-datasets/dstc8-schema-guided-dialogue</code></td>
+  </tr>
+  <tr>
+    <td>sameAs</td>
+    <td><code itemprop="sameAs">https://github.com/google-research-datasets/dstc8-schema-guided-dialogue</code></td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td><code itemprop="description">The dataset consists of conversations between a virtual assistant and a user. These conversations have been generated with the help of a dialogue simulator and paid crowd-workers.</code></td>
+  </tr>
+  <tr>
+    <td>provider</td>
+    <td>
+      <div itemscope itemtype="http://schema.org/Organization" itemprop="provider">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Google</code></td>
+          </tr>
+          <tr>
+            <td>sameAs</td>
+            <td><code itemprop="sameAs">https://en.wikipedia.org/wiki/Google</code></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>citation</td>
+    <td><code itemprop="citation">https://identifiers.org/arxiv:1909.05855</code></td>
+  </tr>
+</table>
+</div>
+
