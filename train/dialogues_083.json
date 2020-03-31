@@ -76499,20 +76499,20 @@
             "service": "Restaurants_1",
             "slots": [
               {
-                "exclusive_end": 25,
+                "exclusive_end": 61,
                 "slot": "restaurant_name",
-                "start": 18
+                "start": 54
               },
               {
-                "exclusive_end": 53,
+                "exclusive_end": 41,
                 "slot": "city",
-                "start": 40
+                "start": 28
               }
             ]
           }
         ],
         "speaker": "SYSTEM",
-        "utterance": "10 restaurants at alice's restaurant in san francisco"
+        "utterance": "There are 10 restaurants in san francisco. What about alice's restaurant?"
       },
       {
         "frames": [
@@ -76607,7 +76607,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "help me find the salon"
+        "utterance": "I like this place, by the way, can you help me find the salon?"
       },
       {
         "frames": [
@@ -76624,15 +76624,15 @@
             "service": "Services_1",
             "slots": [
               {
-                "exclusive_end": 33,
+                "exclusive_end": 40,
                 "slot": "city",
-                "start": 20
+                "start": 27
               }
             ]
           }
         ],
         "speaker": "SYSTEM",
-        "utterance": "is there a salon in san francisco?"
+        "utterance": "Do you want to find one in san francisco?"
       },
       {
         "frames": [
@@ -76683,20 +76683,20 @@
             "service": "Services_1",
             "slots": [
               {
-                "exclusive_end": 29,
+                "exclusive_end": 55,
                 "slot": "stylist_name",
-                "start": 13
+                "start": 39
               },
               {
-                "exclusive_end": 43,
+                "exclusive_end": 72,
                 "slot": "city",
-                "start": 30
+                "start": 59
               }
             ]
           }
         ],
         "speaker": "SYSTEM",
-        "utterance": "10 salons at 1512 barber shop san Francisco"
+        "utterance": "I found 10 salons there. I'd recommend 1512 barber shop at san Francisco"
       },
       {
         "frames": [
@@ -76704,9 +76704,9 @@
             "service": "Services_1",
             "slots": [
               {
-                "exclusive_end": 34,
+                "exclusive_end": 40,
                 "slot": "appointment_date",
-                "start": 27
+                "start": 33
               }
             ],
             "state": {
@@ -76729,7 +76729,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "I wanna go to the salon on the 6th"
+        "utterance": "Sounds good. I wanna go there on the 6th"
       },
       {
         "frames": [
@@ -76911,9 +76911,9 @@
             "service": "Restaurants_1",
             "slots": [
               {
-                "exclusive_end": 30,
+                "exclusive_end": 71,
                 "slot": "time",
-                "start": 12
+                "start": 53
               }
             ],
             "state": {
@@ -76972,7 +76972,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "4 people at 2 in the afternoon"
+        "utterance": "Sounds great, I want to book a table for 4 people at 2 in the afternoon at the restaurant just mentioned."
       },
       {
         "frames": [
@@ -77251,7 +77251,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "yes that works"
+        "utterance": "yes that works. Does it serve alcohol?"
       },
       {
         "frames": [
@@ -77275,7 +77275,7 @@
           }
         ],
         "speaker": "SYSTEM",
-        "utterance": "it was succesful"
+        "utterance": "Of course, it does. Your booking was succesful."
       },
       {
         "frames": [
@@ -77294,7 +77294,7 @@
           }
         ],
         "speaker": "USER",
-        "utterance": "the cast is on television"
+        "utterance": "I'd like to listen to some music. Can you cast it on TV?"
       },
       {
         "frames": [
