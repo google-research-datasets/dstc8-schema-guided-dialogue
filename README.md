@@ -34,13 +34,11 @@ Please cite the following paper for the dataset or the baseline model:
 | Evaluation Scripts released                     | 08/06/2019            |
 | Baseline Released                               | 09/02/2019            |
 | Test dataset released and test phase begins.    | 10/07/2019            |
-| Entry submission deadline.                      | 10/14/2019            |
+| Entry submission deadline.                      | 10/13/2019            |
 | Objective evaluation completed.                 | 10/20/2019            |
 
 
 ### Updates
-
-**10/12/2019** - Entry submission deadline is extended to 10/14/2019.
 
 **10/07/2019** - Test dataset released and test phase begins. Please remember
 that the entry submission deadline is 10/13/2019.
@@ -309,11 +307,10 @@ module. For date slots, some of the dialogues contain a relative quantifier
 
 The dataset consists of two kinds of dialogues.
 
-| Type of Dialogue | Train files                                  | Dev files                                    |
-| ---------------- | :------------------------------------------: | :------------------------------------------: |
-| Single Domain    | `dialogues_001.json` to `dialogues_043.json` | `dialogues_001.json` to `dialogues_007.json` |
-| Multi Domain     | `dialogues_044.json` to `dialogues_127.json` | `dialogues_008.json` to `dialogues_020.json` |
-
+| Type of Dialogue | Train files                                  | Dev files                                    | Test Files                                   |
+| ---------------- | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: |
+| Single Domain    | `dialogues_001.json` to `dialogues_043.json` | `dialogues_001.json` to `dialogues_007.json` | `dialogues_001.json` to `dialogues_011.json` |
+| Multi Domain     | `dialogues_044.json` to `dialogues_127.json` | `dialogues_008.json` to `dialogues_020.json` | `dialogues_012.json` to `dialogues_034.json` |
 
 The single domain dialogues involve interactions with a single service, possibly
 over multiple intents. The multi-domain dialogues have interactions involving
@@ -327,13 +324,15 @@ The overall statistics of the train and dev sets are given below. The term
 *informable slots* refers to the slots over which the user can specify a
 constraint. For example, slots like *phone_number* are not informable.
 
-
 <table>
     <tr>
         <th rowspan="2"></th>
-        <th colspan="3">Train</th><th colspan="3">Dev</th>
+        <th colspan="3">Train</th><th colspan="3">Dev</th><th colspan="3">Test</th>
     </tr>
     <tr>
+        <td>Single-domain</td>
+        <td>Multi-domain</td>
+        <td>Combined</td>
         <td>Single-domain</td>
         <td>Multi-domain</td>
         <td>Combined</td>
@@ -349,6 +348,9 @@ constraint. For example, slots like *phone_number* are not informable.
         <td align="center">836</td>
         <td align="center">1,646</td>
         <td align="center">2,482</td>
+        <td align="center">1,331</td>
+        <td align="center">2,870</td>
+        <td align="center">4,201</td>
     </tr>
     <tr>
         <td>No. of turns</td>
@@ -356,17 +358,23 @@ constraint. For example, slots like *phone_number* are not informable.
         <td align="center">247,376</td>
         <td align="center">329,964</td>
         <td align="center">11,928</td>
-        <td align="center">36,978</td>
+        <td align="center">36,798</td>
         <td align="center">48,726</td>
+        <td align="center">16,850</td>
+        <td align="center">67,744</td>
+        <td align="center">84,594</td>
     </tr>
     <tr>
         <td>No. of tokens (lower-cased)</td>
         <td align="center">807,562</td>
-        <td align="center">2,409,805</td>
-        <td align="center">3,217,367</td>
-        <td align="center">117,496</td>
+        <td align="center">2,409,857</td>
+        <td align="center">3,217,419</td>
+        <td align="center">117,492</td>
         <td align="center">353,381</td>
-        <td align="center">470,877</td>
+        <td align="center">470,873</td>
+        <td align="center">166,329</td>
+        <td align="center">713,731</td>
+        <td align="center">880,060</td>
     </tr>
      <tr>
         <td>Average turns per dialogue</td>
@@ -376,24 +384,33 @@ constraint. For example, slots like *phone_number* are not informable.
         <td align="center">14.268</td>
         <td align="center">22.356</td>
         <td align="center">19.632</td>
+        <td align="center">12.660</td>
+        <td align="center">23.604</td>
+        <td align="center">20.137</td>
     </tr>
     <tr>
         <td>Average tokens per turn</td>
         <td align="center">9.778</td>
-        <td align="center">9.741</td>
+        <td align="center">9.742</td>
         <td align="center">9.751</td>
         <td align="center">9.850</td>
         <td align="center">9.603</td>
         <td align="center">9.664</td>
+        <td align="center">9.871</td>
+        <td align="center">10.536</td>
+        <td align="center">10.403</td>
     </tr>
     <tr>
         <td>Total unique tokens (lower-cased)</td>
-        <td align="center">16,353</td>
+        <td align="center">16,350</td>
         <td align="center">25,459</td>
-        <td align="center">30,352</td>
+        <td align="center">30,349</td>
         <td align="center">6,803</td>
         <td align="center">10,533</td>
         <td align="center">12,719</td>
+        <td align="center">7,213</td>
+        <td align="center">14,888</td>
+        <td align="center">16,382</td>
     </tr>
     <tr>
         <td>Total no. of slots</td>
@@ -403,15 +420,21 @@ constraint. For example, slots like *phone_number* are not informable.
         <td align="center">134</td>
         <td align="center">132</td>
         <td align="center">136</td>
+        <td align="center">157</td>
+        <td align="center">158</td>
+        <td align="center">159</td>
     </tr>
     <tr>
         <td>Total no. of informable slots</td>
-        <td align="center">143</td>
-        <td align="center">149</td>
-        <td align="center">151</td>
-        <td align="center">94</td>
-        <td align="center">91</td>
-        <td align="center">94</td>
+        <td align="center">138</td>
+        <td align="center">144</td>
+        <td align="center">144</td>
+        <td align="center">89</td>
+        <td align="center">87</td>
+        <td align="center">89</td>
+        <td align="center">109</td>
+        <td align="center">110</td>
+        <td align="center">111</td>
     </tr>
     <tr>
         <td>Total unique slot values (lower-cased)</td>
@@ -421,15 +444,21 @@ constraint. For example, slots like *phone_number* are not informable.
         <td align="center">2,418</td>
         <td align="center">4,182</td>
         <td align="center">5,101</td>
+        <td align="center">2,492</td>
+        <td align="center">5,847</td>
+        <td align="center">6,533</td>
     </tr>
     <tr>
         <td>Total unique informable slot values (lower-cased)</td>
-        <td align="center">3,843</td>
-        <td align="center">6,669</td>
-        <td align="center">7,998</td>
-        <td align="center">1,223</td>
-        <td align="center">2,254</td>
-        <td align="center">2,673</td>
+        <td align="center">3,742</td>
+        <td align="center">6,348</td>
+        <td align="center">7,661</td>
+        <td align="center">1,137</td>
+        <td align="center">2,118</td>
+        <td align="center">2,524</td>
+        <td align="center">1,387</td>
+        <td align="center">3,323</td>
+        <td align="center">3,727</td>
     </tr>
     <tr>
         <td>Total domains</td>
@@ -439,6 +468,9 @@ constraint. For example, slots like *phone_number* are not informable.
         <td align="center">16</td>
         <td align="center">15</td>
         <td align="center">16</td>
+        <td align="center">17</td>
+        <td align="center">18</td>
+        <td align="center">18</td>
     </tr>
     <tr>
         <td>Total services</td>
@@ -448,6 +480,9 @@ constraint. For example, slots like *phone_number* are not informable.
         <td align="center">17</td>
         <td align="center">16</td>
         <td align="center">17</td>
+        <td align="center">20</td>
+        <td align="center">21</td>
+        <td align="center">21</td>
     </tr>
     <tr>
         <td>Total intents</td>
@@ -457,9 +492,11 @@ constraint. For example, slots like *phone_number* are not informable.
         <td align="center">28</td>
         <td align="center">26</td>
         <td align="center">28</td>
+        <td align="center">33</td>
+        <td align="center">34</td>
+        <td align="center">35</td>
     </tr>
 </table>
-
 
 The following table shows how the dialogues and services are distributed among
 different domains for the train and dev sets. In this table, each multi-domain
@@ -470,20 +507,26 @@ test set will similarly have some unseen domains which are neither present in
 the training nor in the dev set. Also, the number in parenthesis represents the
 number of unique services belonging to the corresponding domain.
 
-* In the first column, it indicates the number of unique services for the domain
-  in Train and Dev datasets combined.
+* In the first column, it indicates the number of unique services for the
+  domain in Train, Dev and Test datasets combined.
 * In the fourth column, it indicates the number of such unique services in the
   Train dataset only.
-* In the last column, it indicates the number of such unique services in the Dev
-  dataset only.
+* In the seventh column, it indicates the number of such unique services in
+  the Dev dataset only.
+* In the last column, it indicates the number of such unique services in the
+  Test dataset only.
 
 <table>
     <tr>
         <th rowspan="2"></th>
         <th colspan="3"># Dialogues <br> Train</th>
         <th colspan="3"># Dialogues <br> Dev</th>
+        <th colspan="3"># Dialogues <br> Test</th>
     </tr>
     <tr>
+        <td>Single-domain</td>
+        <td>Multi-domain</td>
+        <td>Combined</td>
         <td>Single-domain</td>
         <td>Multi-domain</td>
         <td>Combined</td>
@@ -499,6 +542,9 @@ number of unique services belonging to the corresponding domain.
         <td align="center">37</td>
         <td align="center">NA</td>
         <td align="center">37 (1)</td>
+        <td align="center">47</td>
+        <td align="center">240</td>
+        <td align="center">287 (1)</td>
     </tr>
     <tr>
         <td>Banks (2)</td>
@@ -508,15 +554,21 @@ number of unique services belonging to the corresponding domain.
         <td align="center">42</td>
         <td align="center">252</td>
         <td align="center">294 (1)</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
     </tr>
     <tr>
-        <td>Buses (2)</td>
+        <td>Buses (3)</td>
         <td align="center">310</td>
         <td align="center">1,970</td>
         <td align="center">2,280 (2)</td>
         <td align="center">44</td>
         <td align="center">285</td>
         <td align="center">329 (1)</td>
+        <td align="center">88</td>
+        <td align="center">438</td>
+        <td align="center">526 (1)</td>
     </tr>
     <tr>
         <td>Calendar (1)</td>
@@ -526,33 +578,45 @@ number of unique services belonging to the corresponding domain.
         <td align="center">NA</td>
         <td align="center">NA</td>
         <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
     </tr>
     <tr>
-        <td>Events (2)</td>
+        <td>Events (3)</td>
         <td align="center">788</td>
         <td align="center">2,721</td>
         <td align="center">3,509 (1)</td>
         <td align="center">73</td>
         <td align="center">345</td>
         <td align="center">418 (1)</td>
+        <td align="center">76</td>
+        <td align="center">516</td>
+        <td align="center">592 (1)</td>
     </tr>
     <tr>
-        <td>Flights (3)</td>
+        <td>Flights (4)</td>
         <td align="center">985</td>
         <td align="center">1,762</td>
         <td align="center">2,747 (2)</td>
         <td align="center">94</td>
         <td align="center">297</td>
         <td align="center">391 (1)</td>
+        <td align="center">87</td>
+        <td align="center">419</td>
+        <td align="center">506 (1)</td>
     </tr>
         <tr>
-        <td>Homes (1)</td>
+        <td>Homes (2)</td>
         <td align="center">268</td>
         <td align="center">579</td>
         <td align="center">847 (1)</td>
         <td align="center">81</td>
         <td align="center">99</td>
         <td align="center">180 (1)</td>
+        <td align="center">89</td>
+        <td align="center">157</td>
+        <td align="center">246 (1)</td>
     </tr>
         <tr>
         <td>Hotels (4)</td>
@@ -562,15 +626,33 @@ number of unique services belonging to the corresponding domain.
         <td align="center">56</td>
         <td align="center">521</td>
         <td align="center">577 (2)</td>
+        <td align="center">177</td>
+        <td align="center">885</td>
+        <td align="center">1062 (2)</td>
     </tr>
         <tr>
-        <td>Media (2)</td>
+        <td>Media (3)</td>
         <td align="center">281</td>
         <td align="center">832</td>
         <td align="center">1,113 (1)</td>
         <td align="center">46</td>
         <td align="center">133</td>
         <td align="center">179 (1)</td>
+        <td align="center">80</td>
+        <td align="center">284</td>
+        <td align="center">364 (1)</td>
+    </tr>
+        <tr>
+        <td>Messaging (1)</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">0</td>
+        <td align="center">298</td>
+        <td align="center">298 (1)</td>
     </tr>
         <tr>
         <td>Movies (2)</td>
@@ -580,24 +662,45 @@ number of unique services belonging to the corresponding domain.
         <td align="center">47</td>
         <td align="center">94</td>
         <td align="center">141 (1)</td>
+        <td align="center">132</td>
+        <td align="center">449</td>
+        <td align="center">581</td>
     </tr>
         <tr>
-        <td>Music (2)</td>
+        <td>Music (3)</td>
         <td align="center">394</td>
         <td align="center">896</td>
         <td align="center">1,290 (2)</td>
         <td align="center">35</td>
         <td align="center">161</td>
         <td align="center">196 (1)</td>
+        <td align="center">25</td>
+        <td align="center">322</td>
+        <td align="center">347 (2)</td>
     </tr>
         <tr>
-        <td>RentalCars (2)</td>
+        <td>Payment (1)</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">36</td>
+        <td align="center">186</td>
+        <td align="center">222 (1)</td>
+    </tr>
+        <tr>
+        <td>RentalCars (3)</td>
         <td align="center">215</td>
         <td align="center">1,370</td>
         <td align="center">1,585 (2)</td>
         <td align="center">39</td>
         <td align="center">342</td>
         <td align="center">381 (1)</td>
+        <td align="center">64</td>
+        <td align="center">480</td>
+        <td align="center">544 (1)</td>
     </tr>
         <tr>
         <td>Restaurants (2)</td>
@@ -607,6 +710,9 @@ number of unique services belonging to the corresponding domain.
         <td align="center">73</td>
         <td align="center">263</td>
         <td align="center">336 (1)</td>
+        <td align="center">73</td>
+        <td align="center">390</td>
+        <td align="center">463 (1)</td>
     </tr>
         <tr>
         <td>RideSharing (2)</td>
@@ -616,6 +722,9 @@ number of unique services belonging to the corresponding domain.
         <td align="center">45</td>
         <td align="center">225</td>
         <td align="center">270 (1)</td>
+        <td align="center">34</td>
+        <td align="center">216</td>
+        <td align="center">250 (1)</td>
     </tr>
         <tr>
         <td>Services (4)</td>
@@ -625,6 +734,21 @@ number of unique services belonging to the corresponding domain.
         <td align="center">44</td>
         <td align="center">157</td>
         <td align="center">201 (1)</td>
+        <td align="center">167</td>
+        <td align="center">489</td>
+        <td align="center">656 (2)</td>
+    </tr>
+        <tr>
+        <td>Trains (1)</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">NA</td>
+        <td align="center">84</td>
+        <td align="center">266</td>
+        <td align="center">350 (1)</td>
     </tr>
         <tr>
         <td>Travel (1)</td>
@@ -634,6 +758,9 @@ number of unique services belonging to the corresponding domain.
         <td align="center">45</td>
         <td align="center">238</td>
         <td align="center">283 (1)</td>
+        <td align="center">24</td>
+        <td align="center">630</td>
+        <td align="center">654 (1)</td>
     </tr>
         <tr>
         <td>Weather (1)</td>
@@ -643,9 +770,11 @@ number of unique services belonging to the corresponding domain.
         <td align="center">35</td>
         <td align="center">322</td>
         <td align="center">357 (1)</td>
+        <td align="center">48</td>
+        <td align="center">427</td>
+        <td align="center">475 (1)</td>
     </tr>
 </table>
-
 
 ## Evaluation
 
@@ -698,61 +827,3 @@ Python scripts for evaluation and computing the different metrics can be found
 We thank Amir Fayazi, Maria Wang, Ulrich Rueckert and Jindong Chen for their
 valuable suggestions and support in the formulation of this track and collection
 of this dataset.
-
-### Dataset Metadata
-The following table is necessary for this dataset to be indexed by search
-engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
-<div itemscope itemtype="http://schema.org/Dataset">
-<table>
-  <tr>
-    <th>property</th>
-    <th>value</th>
-  </tr>
-  <tr>
-    <td>name</td>
-    <td><code itemprop="name">Schema-Guided Dialogue State Tracking</code></td>
-  </tr>
-  <tr>
-    <td>alternateName</td>
-    <td><code itemprop="alternateName">DSTC 8</code></td>
-  </tr>
-  <tr>
-    <td>url</td>
-    <td><code itemprop="url">https://github.com/google-research-datasets/dstc8-schema-guided-dialogue</code></td>
-  </tr>
-  <tr>
-    <td>sameAs</td>
-    <td><code itemprop="sameAs">https://github.com/google-research-datasets/dstc8-schema-guided-dialogue</code></td>
-  </tr>
-  <tr>
-    <td>description</td>
-    <td><code itemprop="description">The dataset consists of conversations between a virtual assistant and a user. These conversations have been generated with the help of a dialogue simulator and paid crowd-workers.</code></td>
-  </tr>
-  <tr>
-    <td>provider</td>
-    <td>
-      <div itemscope itemtype="http://schema.org/Organization" itemprop="provider">
-        <table>
-          <tr>
-            <th>property</th>
-            <th>value</th>
-          </tr>
-          <tr>
-            <td>name</td>
-            <td><code itemprop="name">Google</code></td>
-          </tr>
-          <tr>
-            <td>sameAs</td>
-            <td><code itemprop="sameAs">https://en.wikipedia.org/wiki/Google</code></td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>citation</td>
-    <td><code itemprop="citation">https://identifiers.org/arxiv:1909.05855</code></td>
-  </tr>
-</table>
-</div>
-
