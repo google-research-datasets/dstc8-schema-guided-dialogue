@@ -652,7 +652,7 @@ number of unique services belonging to the corresponding domain.
         <td align="center">NA</td>
         <td align="center">NA</td>
         <td align="center">NA</td>
-        <td align="center">0</td>
+        <td align="center">NA</td>
         <td align="center">298</td>
         <td align="center">298 (1)</td>
     </tr>
