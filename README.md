@@ -35,6 +35,16 @@ paper](https://arxiv.org/pdf/2002.01359.pdf).
 **07/23/2019** - Train and dev sets are publicly released as part of [DSTC8
 challenge](dstc8.md).
 
+## Important Links
+
+* [Paper for dataset and DST baseline](https://arxiv.org/pdf/1909.05855.pdf)
+* [DSTC8 overview paper](https://arxiv.org/pdf/2002.01359.pdf)
+* [Code for DST
+  baseline](https://github.com/google-research/google-research/tree/master/schema_guided_dst)
+* [Natural language generation](https://arxiv.org/pdf/2004.15006.pdf)
+* [Blog post announcing the
+  dataset](https://ai.googleblog.com/2019/10/introducing-schema-guided-dialogue.html)
+
 ## Data
 The dataset consists of schemas outlining the interface of different APIs, and
 annotated dialogues. The dialogues have been generated with the help of a
