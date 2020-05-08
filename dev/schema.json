@@ -34,7 +34,11 @@
         "description": "Get the alarms user has already set",
         "is_transactional": false,
         "required_slots": [],
-        "optional_slots": {}
+        "optional_slots": {},
+        "result_slots": [
+          "alarm_time",
+          "alarm_name"
+        ]
       },
       {
         "name": "AddAlarm",
@@ -45,7 +49,11 @@
         ],
         "optional_slots": {
           "new_alarm_name": "New alarm"
-        }
+        },
+        "result_slots": [
+          "new_alarm_time",
+          "new_alarm_name"
+        ]
       }
     ]
   },
@@ -104,7 +112,11 @@
         "required_slots": [
           "account_type"
         ],
-        "optional_slots": {}
+        "optional_slots": {},
+        "result_slots": [
+          "account_type",
+          "account_balance"
+        ]
       },
       {
         "name": "TransferMoney",
@@ -117,7 +129,14 @@
         ],
         "optional_slots": {
           "recipient_account_type": "checking"
-        }
+        },
+        "result_slots": [
+          "account_type",
+          "recipient_account_type",
+          "transfer_amount",
+          "recipient_name",
+          "transfer_time"
+        ]
       }
     ]
   },
@@ -201,7 +220,18 @@
         ],
         "optional_slots": {
           "travelers": "1"
-        }
+        },
+        "result_slots": [
+          "from_location",
+          "to_location",
+          "from_station",
+          "to_station",
+          "leaving_date",
+          "leaving_time",
+          "fare",
+          "travelers",
+          "transfers"
+        ]
       },
       {
         "name": "BuyBusTicket",
@@ -214,7 +244,18 @@
           "leaving_time",
           "travelers"
         ],
-        "optional_slots": {}
+        "optional_slots": {},
+        "result_slots": [
+          "from_location",
+          "to_location",
+          "from_station",
+          "to_station",
+          "leaving_date",
+          "leaving_time",
+          "fare",
+          "travelers",
+          "transfers"
+        ]
       }
     ]
   },
@@ -300,9 +341,19 @@
           "city_of_event"
         ],
         "optional_slots": {
-          "date": "dontcare",
-          "subcategory": "dontcare"
-        }
+          "subcategory": "dontcare",
+          "date": "dontcare"
+        },
+        "result_slots": [
+          "category",
+          "subcategory",
+          "event_name",
+          "date",
+          "time",
+          "city_of_event",
+          "event_location",
+          "address_of_location"
+        ]
       },
       {
         "name": "BuyEventTickets",
@@ -314,7 +365,16 @@
           "date",
           "city_of_event"
         ],
-        "optional_slots": {}
+        "optional_slots": {},
+        "result_slots": [
+          "event_name",
+          "date",
+          "time",
+          "number_of_seats",
+          "city_of_event",
+          "event_location",
+          "address_of_location"
+        ]
       }
     ]
   },
@@ -465,11 +525,27 @@
           "departure_date"
         ],
         "optional_slots": {
-          "number_checked_bags": "0",
           "airlines": "dontcare",
+          "passengers": "1",
           "flight_class": "Economy",
-          "passengers": "1"
-        }
+          "number_checked_bags": "0"
+        },
+        "result_slots": [
+          "passengers",
+          "flight_class",
+          "origin_city",
+          "destination_city",
+          "origin_airport_name",
+          "destination_airport_name",
+          "departure_date",
+          "number_stops",
+          "outbound_departure_time",
+          "outbound_arrival_time",
+          "price",
+          "number_checked_bags",
+          "airlines",
+          "arrives_next_day"
+        ]
       },
       {
         "name": "SearchRoundtripFlights",
@@ -482,11 +558,30 @@
           "return_date"
         ],
         "optional_slots": {
-          "number_checked_bags": "0",
           "airlines": "dontcare",
+          "passengers": "1",
           "flight_class": "Economy",
-          "passengers": "1"
-        }
+          "number_checked_bags": "0"
+        },
+        "result_slots": [
+          "passengers",
+          "flight_class",
+          "origin_city",
+          "destination_city",
+          "origin_airport_name",
+          "destination_airport_name",
+          "departure_date",
+          "return_date",
+          "number_stops",
+          "outbound_departure_time",
+          "outbound_arrival_time",
+          "inbound_arrival_time",
+          "inbound_departure_time",
+          "price",
+          "number_checked_bags",
+          "airlines",
+          "arrives_next_day"
+        ]
       }
     ]
   },
@@ -581,10 +676,21 @@
           "number_of_beds"
         ],
         "optional_slots": {
-          "number_of_baths": "dontcare",
           "furnished": "dontcare",
+          "number_of_baths": "dontcare",
           "pets_allowed": "dontcare"
-        }
+        },
+        "result_slots": [
+          "area",
+          "address",
+          "property_name",
+          "phone_number",
+          "furnished",
+          "pets_allowed",
+          "rent",
+          "number_of_beds",
+          "number_of_baths"
+        ]
       },
       {
         "name": "ScheduleVisit",
@@ -594,7 +700,18 @@
           "property_name",
           "visit_date"
         ],
-        "optional_slots": {}
+        "optional_slots": {},
+        "result_slots": [
+          "address",
+          "property_name",
+          "phone_number",
+          "furnished",
+          "pets_allowed",
+          "rent",
+          "visit_date",
+          "number_of_beds",
+          "number_of_baths"
+        ]
       }
     ]
   },
@@ -689,7 +806,19 @@
         ],
         "optional_slots": {
           "number_of_rooms": "1"
-        }
+        },
+        "result_slots": [
+          "destination",
+          "number_of_rooms",
+          "check_in_date",
+          "number_of_days",
+          "star_rating",
+          "hotel_name",
+          "street_address",
+          "phone_number",
+          "price_per_night",
+          "has_wifi"
+        ]
       },
       {
         "name": "SearchHotel",
@@ -699,10 +828,20 @@
           "destination"
         ],
         "optional_slots": {
-          "number_of_rooms": "dontcare",
           "has_wifi": "dontcare",
-          "star_rating": "dontcare"
-        }
+          "star_rating": "dontcare",
+          "number_of_rooms": "dontcare"
+        },
+        "result_slots": [
+          "destination",
+          "number_of_rooms",
+          "star_rating",
+          "hotel_name",
+          "street_address",
+          "phone_number",
+          "price_per_night",
+          "has_wifi"
+        ]
       }
     ]
   },
@@ -797,7 +936,19 @@
         ],
         "optional_slots": {
           "number_of_rooms": "1"
-        }
+        },
+        "result_slots": [
+          "location",
+          "number_of_rooms",
+          "check_in_date",
+          "stay_length",
+          "star_rating",
+          "place_name",
+          "street_address",
+          "phone_number",
+          "price_per_night",
+          "smoking_allowed"
+        ]
       },
       {
         "name": "SearchHotel",
@@ -807,10 +958,20 @@
           "location"
         ],
         "optional_slots": {
-          "number_of_rooms": "dontcare",
+          "smoking_allowed": "dontcare",
           "star_rating": "dontcare",
-          "smoking_allowed": "dontcare"
-        }
+          "number_of_rooms": "dontcare"
+        },
+        "result_slots": [
+          "location",
+          "number_of_rooms",
+          "star_rating",
+          "place_name",
+          "street_address",
+          "phone_number",
+          "price_per_night",
+          "smoking_allowed"
+        ]
       }
     ]
   },
@@ -871,7 +1032,15 @@
         "optional_slots": {
           "actors": "dontcare",
           "director": "dontcare"
-        }
+        },
+        "result_slots": [
+          "movie_name",
+          "genre",
+          "subtitle_language",
+          "director",
+          "actors",
+          "price"
+        ]
       },
       {
         "name": "RentMovie",
@@ -882,7 +1051,15 @@
         ],
         "optional_slots": {
           "subtitle_language": "None"
-        }
+        },
+        "result_slots": [
+          "movie_name",
+          "genre",
+          "subtitle_language",
+          "director",
+          "actors",
+          "price"
+        ]
       }
     ]
   },
@@ -928,10 +1105,17 @@
         "is_transactional": false,
         "required_slots": [],
         "optional_slots": {
-          "director": "dontcare",
           "starring": "dontcare",
+          "director": "dontcare",
           "genre": "dontcare"
-        }
+        },
+        "result_slots": [
+          "title",
+          "genre",
+          "aggregate_rating",
+          "starring",
+          "director"
+        ]
       }
     ]
   },
@@ -998,11 +1182,18 @@
         "is_transactional": false,
         "required_slots": [],
         "optional_slots": {
-          "album": "dontcare",
-          "genre": "dontcare",
           "year": "dontcare",
-          "artist": "dontcare"
-        }
+          "genre": "dontcare",
+          "artist": "dontcare",
+          "album": "dontcare"
+        },
+        "result_slots": [
+          "song_name",
+          "artist",
+          "album",
+          "genre",
+          "year"
+        ]
       },
       {
         "name": "PlaySong",
@@ -1012,9 +1203,17 @@
           "song_name"
         ],
         "optional_slots": {
-          "playback_device": "TV",
-          "artist": "dontcare"
-        }
+          "artist": "dontcare",
+          "playback_device": "TV"
+        },
+        "result_slots": [
+          "song_name",
+          "artist",
+          "album",
+          "genre",
+          "year",
+          "playback_device"
+        ]
       }
     ]
   },
@@ -1058,7 +1257,7 @@
       },
       {
         "name": "pickup_city",
-        "description": "City where rental car will be picked up",
+        "description": "City to pick up the rental car",
         "is_categorical": false,
         "possible_values": []
       },
@@ -1088,7 +1287,17 @@
         ],
         "optional_slots": {
           "type": "Standard"
-        }
+        },
+        "result_slots": [
+          "type",
+          "car_name",
+          "pickup_location",
+          "pickup_date",
+          "pickup_time",
+          "pickup_city",
+          "dropoff_date",
+          "total_price"
+        ]
       },
       {
         "name": "ReserveCar",
@@ -1101,7 +1310,16 @@
           "dropoff_date",
           "type"
         ],
-        "optional_slots": {}
+        "optional_slots": {},
+        "result_slots": [
+          "type",
+          "car_name",
+          "pickup_location",
+          "pickup_date",
+          "pickup_time",
+          "dropoff_date",
+          "total_price"
+        ]
       }
     ]
   },
@@ -1211,9 +1429,23 @@
           "time"
         ],
         "optional_slots": {
-          "date": "2019-03-01",
-          "number_of_seats": "2"
-        }
+          "number_of_seats": "2",
+          "date": "2019-03-01"
+        },
+        "result_slots": [
+          "restaurant_name",
+          "date",
+          "time",
+          "has_seating_outdoors",
+          "has_vegetarian_options",
+          "phone_number",
+          "rating",
+          "address",
+          "number_of_seats",
+          "price_range",
+          "location",
+          "category"
+        ]
       },
       {
         "name": "FindRestaurants",
@@ -1224,10 +1456,21 @@
           "location"
         ],
         "optional_slots": {
-          "has_vegetarian_options": "dontcare",
           "price_range": "dontcare",
-          "has_seating_outdoors": "dontcare"
-        }
+          "has_seating_outdoors": "dontcare",
+          "has_vegetarian_options": "dontcare"
+        },
+        "result_slots": [
+          "restaurant_name",
+          "has_seating_outdoors",
+          "has_vegetarian_options",
+          "phone_number",
+          "rating",
+          "address",
+          "price_range",
+          "location",
+          "category"
+        ]
       }
     ]
   },
@@ -1284,7 +1527,14 @@
           "number_of_riders",
           "shared_ride"
         ],
-        "optional_slots": {}
+        "optional_slots": {},
+        "result_slots": [
+          "destination",
+          "shared_ride",
+          "ride_fare",
+          "approximate_ride_duration",
+          "number_of_riders"
+        ]
       }
     ]
   },
@@ -1349,7 +1599,14 @@
           "appointment_time",
           "appointment_date"
         ],
-        "optional_slots": {}
+        "optional_slots": {},
+        "result_slots": [
+          "therapist_name",
+          "phone_number",
+          "address",
+          "appointment_date",
+          "appointment_time"
+        ]
       },
       {
         "name": "FindProvider",
@@ -1359,7 +1616,14 @@
           "city",
           "type"
         ],
-        "optional_slots": {}
+        "optional_slots": {},
+        "result_slots": [
+          "therapist_name",
+          "phone_number",
+          "address",
+          "city",
+          "type"
+        ]
       }
     ]
   },
@@ -1430,10 +1694,18 @@
           "location"
         ],
         "optional_slots": {
+          "free_entry": "dontcare",
           "good_for_kids": "dontcare",
-          "category": "dontcare",
-          "free_entry": "dontcare"
-        }
+          "category": "dontcare"
+        },
+        "result_slots": [
+          "location",
+          "attraction_name",
+          "category",
+          "phone_number",
+          "free_entry",
+          "good_for_kids"
+        ]
       }
     ]
   },
@@ -1488,7 +1760,15 @@
         ],
         "optional_slots": {
           "date": "2019-03-01"
-        }
+        },
+        "result_slots": [
+          "precipitation",
+          "humidity",
+          "wind",
+          "temperature",
+          "city",
+          "date"
+        ]
       }
     ]
   }
