@@ -199,7 +199,8 @@ List of possible user acts:
 *   **INFORM** - Inform the value of a slot to the system. The slot and values
     fields in the corresponding action are always non-empty.
 *   **REQUEST** - Request the value of a slot from the system. The corresponding
-    action always contains a slot parameter but no values.
+    action always contains a slot parameter. It may optionally contain a value,
+    in which case, the user asks the system if the slot has the specified value.
 *   **AFFIRM** - Agree to the system's proposition. Slot and values are always
     empty.
 *   **NEGATE** - Deny the system's proposal. Slot and values are always empty.
