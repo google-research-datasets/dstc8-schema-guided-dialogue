@@ -5636,6 +5636,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Upchurch",
+                "playback_device": "TV",
+                "song_name": "Pond Creek Road"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Creeker",
+                "artist": "Upchurch",
+                "genre": "Rock",
+                "playback_device": "TV",
+                "song_name": "Pond Creek Road"
+              }
+            ],
             "slots": []
           }
         ],
@@ -9760,6 +9777,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Karolina Protsenko",
+                "playback_device": "TV",
+                "song_name": "Despacito"
+              }
+            },
+            "service_results": [
+              {
+                "album": "My Dream",
+                "artist": "Karolina Protsenko",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Despacito"
+              }
+            ],
             "slots": []
           }
         ],
@@ -14274,6 +14308,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Jimmie Allen",
+                "playback_device": "TV",
+                "song_name": "Best Shot"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Mercury Lane",
+                "artist": "Jimmie Allen",
+                "genre": "Country",
+                "playback_device": "TV",
+                "song_name": "Best Shot"
+              }
+            ],
             "slots": []
           }
         ],
@@ -21549,6 +21600,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Drunk Me"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Telling All My Secrets",
+                "artist": "Mitchell Tenpenny",
+                "genre": "Country",
+                "playback_device": "TV",
+                "song_name": "Drunk Me"
+              }
+            ],
             "slots": []
           }
         ],
@@ -23222,6 +23289,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Tyler Shaw",
+                "playback_device": "TV",
+                "song_name": "With You"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Intuition",
+                "artist": "Tyler Shaw",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "With You"
+              }
+            ],
             "slots": []
           }
         ],
@@ -29522,6 +29606,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Adorn"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Kaleidoscope Dream",
+                "artist": "Miguel",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Adorn"
+              }
+            ],
             "slots": []
           }
         ],
@@ -32442,6 +32542,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "James Blake",
+                "playback_device": "TV",
+                "song_name": "Barefoot In The Park"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Assume Form",
+                "artist": "James Blake",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Barefoot In The Park"
+              }
+            ],
             "slots": []
           }
         ],
@@ -34708,6 +34825,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Better Man"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Spectrum",
+                "artist": "Westlife",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Better Man"
+              }
+            ],
             "slots": []
           }
         ],
@@ -43706,6 +43839,21 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "A Little Bit Stronger"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Stronger",
+                "artist": "Sara Evans",
+                "genre": "Country",
+                "song_name": "A Little Bit Stronger"
+              }
+            ],
             "slots": []
           }
         ],
@@ -58817,6 +58965,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Martin Garrix",
+                "playback_device": "TV",
+                "song_name": "No Sleep"
+              }
+            },
+            "service_results": [
+              {
+                "album": "The Martin Garrix Experience",
+                "artist": "Martin Garrix",
+                "genre": "House",
+                "playback_device": "TV",
+                "song_name": "No Sleep"
+              }
+            ],
             "slots": []
           }
         ],
@@ -65609,6 +65774,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Neon Lights"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Demi",
+                "artist": "Demi Lovato",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Neon Lights"
+              }
+            ],
             "slots": []
           }
         ],
@@ -66323,6 +66504,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Sigrid",
+                "playback_device": "TV",
+                "song_name": "Strangers"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Sucker Punch",
+                "artist": "Sigrid",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Strangers"
+              }
+            ],
             "slots": []
           }
         ],
@@ -68733,6 +68931,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Harris J",
+                "playback_device": "TV",
+                "song_name": "Salam Alaikum"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Salam",
+                "artist": "Harris J",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Salam Alaikum"
+              }
+            ],
             "slots": []
           }
         ],

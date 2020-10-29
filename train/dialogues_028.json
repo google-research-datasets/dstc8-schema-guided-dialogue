@@ -92899,6 +92899,24 @@
               }
             ],
             "service": "Services_2",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-13",
+                "appointment_time": "14:30",
+                "dentist_name": "Dr. Christopher J. Bennett"
+              }
+            },
+            "service_results": [
+              {
+                "address": "599 Tomales Road",
+                "appointment_date": "2019-03-13",
+                "appointment_time": "14:30",
+                "dentist_name": "Dr. Christopher J. Bennett",
+                "offers_cosmetic_services": "False",
+                "phone_number": "707-765-7591"
+              }
+            ],
             "slots": []
           }
         ],
@@ -106786,6 +106804,24 @@
               }
             ],
             "service": "Services_2",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-06",
+                "appointment_time": "12:30",
+                "dentist_name": "Kahn Sandra"
+              }
+            },
+            "service_results": [
+              {
+                "address": "1039 Terra Nova Boulevard",
+                "appointment_date": "2019-03-06",
+                "appointment_time": "12:30",
+                "dentist_name": "Kahn Sandra",
+                "offers_cosmetic_services": "False",
+                "phone_number": "650-355-5038"
+              }
+            ],
             "slots": []
           }
         ],

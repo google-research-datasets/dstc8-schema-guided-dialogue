@@ -64221,6 +64221,31 @@
               }
             ],
             "service": "Restaurants_1",
+            "service_call": {
+              "method": "ReserveRestaurant",
+              "parameters": {
+                "city": "San Francisco",
+                "date": "2019-03-07",
+                "party_size": "2",
+                "restaurant_name": "Cala",
+                "time": "12:00"
+              }
+            },
+            "service_results": [
+              {
+                "city": "San Francisco",
+                "cuisine": "Mexican",
+                "date": "2019-03-07",
+                "has_live_music": "False",
+                "party_size": "2",
+                "phone_number": "415-660-7701",
+                "price_range": "expensive",
+                "restaurant_name": "Cala",
+                "serves_alcohol": "True",
+                "street_address": "149 Fell Street",
+                "time": "12:00"
+              }
+            ],
             "slots": []
           }
         ],

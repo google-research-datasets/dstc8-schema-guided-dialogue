@@ -28850,6 +28850,31 @@
               }
             ],
             "service": "Restaurants_1",
+            "service_call": {
+              "method": "ReserveRestaurant",
+              "parameters": {
+                "city": "San Francisco",
+                "date": "2019-03-04",
+                "party_size": "1",
+                "restaurant_name": "Will Sushi",
+                "time": "11:30"
+              }
+            },
+            "service_results": [
+              {
+                "city": "San Francisco",
+                "cuisine": "Japanese",
+                "date": "2019-03-04",
+                "has_live_music": "False",
+                "party_size": "1",
+                "phone_number": "415-566-8088",
+                "price_range": "moderate",
+                "restaurant_name": "Will Sushi",
+                "serves_alcohol": "True",
+                "street_address": "1380 9th Avenue",
+                "time": "11:30"
+              }
+            ],
             "slots": []
           }
         ],
@@ -53289,6 +53314,31 @@
               }
             ],
             "service": "Restaurants_1",
+            "service_call": {
+              "method": "ReserveRestaurant",
+              "parameters": {
+                "city": "Milpitas",
+                "date": "2019-03-01",
+                "party_size": "1",
+                "restaurant_name": "My No.1 Sushi & Tofu",
+                "time": "11:00"
+              }
+            },
+            "service_results": [
+              {
+                "city": "Milpitas",
+                "cuisine": "Japanese",
+                "date": "2019-03-01",
+                "has_live_music": "False",
+                "party_size": "1",
+                "phone_number": "408-946-5100",
+                "price_range": "moderate",
+                "restaurant_name": "My No.1 Sushi & Tofu",
+                "serves_alcohol": "True",
+                "street_address": "1747 North Milpitas Boulevard",
+                "time": "11:00"
+              }
+            ],
             "slots": []
           }
         ],
@@ -62837,6 +62887,31 @@
               }
             ],
             "service": "Restaurants_1",
+            "service_call": {
+              "method": "ReserveRestaurant",
+              "parameters": {
+                "city": "Oakland",
+                "date": "2019-03-13",
+                "party_size": "3",
+                "restaurant_name": "Mua Oakland",
+                "time": "19:30"
+              }
+            },
+            "service_results": [
+              {
+                "city": "Oakland",
+                "cuisine": "American",
+                "date": "2019-03-13",
+                "has_live_music": "False",
+                "party_size": "3",
+                "phone_number": "510-238-1100",
+                "price_range": "moderate",
+                "restaurant_name": "Mua Oakland",
+                "serves_alcohol": "False",
+                "street_address": "2442a Webster Street",
+                "time": "19:30"
+              }
+            ],
             "slots": []
           }
         ],

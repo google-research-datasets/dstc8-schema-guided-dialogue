@@ -15066,6 +15066,25 @@
               }
             ],
             "service": "Services_3",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-03",
+                "appointment_time": "16:30",
+                "doctor_name": "Bastoni Kelly A MD"
+              }
+            },
+            "service_results": [
+              {
+                "appointment_date": "2019-03-03",
+                "appointment_time": "16:30",
+                "average_rating": "3.70",
+                "doctor_name": "Bastoni Kelly A MD",
+                "phone_number": "707-393-4044",
+                "street_address": "1550 Gateway Boulevard",
+                "type": "General Practitioner"
+              }
+            ],
             "slots": []
           }
         ],
@@ -73132,6 +73151,25 @@
               }
             ],
             "service": "Services_3",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-13",
+                "appointment_time": "15:30",
+                "doctor_name": "Abazari Mina MD"
+              }
+            },
+            "service_results": [
+              {
+                "appointment_date": "2019-03-13",
+                "appointment_time": "15:30",
+                "average_rating": "3.70",
+                "doctor_name": "Abazari Mina MD",
+                "phone_number": "949-916-9100",
+                "street_address": "5050 West El Camino Real # 110",
+                "type": "General Practitioner"
+              }
+            ],
             "slots": []
           }
         ],

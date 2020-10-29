@@ -4814,6 +4814,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Dr. Strangelove"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Stanley Kubrick",
+                "genre": "Comedy",
+                "subtitles": "False",
+                "title": "Dr. Strangelove"
+              }
+            ],
             "slots": [
               {
                 "exclusive_end": 38,
@@ -14454,6 +14469,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "The Poseidon Adventure"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Ronald Neame",
+                "genre": "Adventure",
+                "subtitles": "False",
+                "title": "The Poseidon Adventure"
+              }
+            ],
             "slots": []
           }
         ],
@@ -17184,6 +17214,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Green Book"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Peter Farrelly",
+                "genre": "Comedy",
+                "subtitles": "False",
+                "title": "Green Book"
+              }
+            ],
             "slots": []
           }
         ],
@@ -21925,6 +21970,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Dogman"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Matteo Garrone",
+                "genre": "Drama",
+                "subtitles": "False",
+                "title": "Dogman"
+              }
+            ],
             "slots": []
           }
         ],
@@ -32705,6 +32765,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Hellboy"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Neil Marshall",
+                "genre": "Fantasy",
+                "subtitles": "False",
+                "title": "Hellboy"
+              }
+            ],
             "slots": [
               {
                 "exclusive_end": 45,
@@ -41792,6 +41867,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Little"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Tina Gordon",
+                "genre": "Comedy",
+                "subtitles": "False",
+                "title": "Little"
+              }
+            ],
             "slots": [
               {
                 "exclusive_end": 68,
@@ -53124,6 +53214,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Pillow Talk"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Michael Gordon",
+                "genre": "Romance",
+                "subtitles": "False",
+                "title": "Pillow Talk"
+              }
+            ],
             "slots": []
           }
         ],
@@ -54680,6 +54785,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Citizen Kane"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Orson Welles",
+                "genre": "Mystery",
+                "subtitles": "False",
+                "title": "Citizen Kane"
+              }
+            ],
             "slots": []
           }
         ],
@@ -64314,17 +64434,32 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Pet Sematary"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Kevin Kolsch",
+                "genre": "Thriller",
+                "subtitles": "False",
+                "title": "Pet Sematary"
+              }
+            ],
             "slots": [
               {
-                "exclusive_end": 40,
+                "exclusive_end": 30,
                 "slot": "directed_by",
-                "start": 28
+                "start": 18
               }
             ]
           }
         ],
         "speaker": "SYSTEM",
-        "utterance": "Pet Sematary is directed by Kevin Kolsch"
+        "utterance": "It is directed by Kevin Kolsch and I have played the movie."
       },
       {
         "frames": [

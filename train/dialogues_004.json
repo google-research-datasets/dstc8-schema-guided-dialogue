@@ -448,6 +448,31 @@
               }
             ],
             "service": "Restaurants_1",
+            "service_call": {
+              "method": "ReserveRestaurant",
+              "parameters": {
+                "city": "San Bruno",
+                "date": "2019-03-01",
+                "party_size": "2",
+                "restaurant_name": "Bj's Restaurant & Brewhouse",
+                "time": "11:30"
+              }
+            },
+            "service_results": [
+              {
+                "city": "San Bruno",
+                "cuisine": "Take-out",
+                "date": "2019-03-01",
+                "has_live_music": "False",
+                "party_size": "2",
+                "phone_number": "650-243-4530",
+                "price_range": "moderate",
+                "restaurant_name": "Bj's Restaurant & Brewhouse",
+                "serves_alcohol": "True",
+                "street_address": "1140 El Camino Real Suite 271",
+                "time": "11:30"
+              }
+            ],
             "slots": []
           }
         ],
@@ -1972,6 +1997,31 @@
               }
             ],
             "service": "Restaurants_1",
+            "service_call": {
+              "method": "ReserveRestaurant",
+              "parameters": {
+                "city": "San Francisco",
+                "date": "2019-03-01",
+                "party_size": "2",
+                "restaurant_name": "El Tesoro Taqueria & Grill",
+                "time": "19:30"
+              }
+            },
+            "service_results": [
+              {
+                "city": "San Francisco",
+                "cuisine": "Mexican",
+                "date": "2019-03-01",
+                "has_live_music": "False",
+                "party_size": "2",
+                "phone_number": "415-202-0530",
+                "price_range": "inexpensive",
+                "restaurant_name": "El Tesoro Taqueria & Grill",
+                "serves_alcohol": "False",
+                "street_address": "599 O'Farrell Street",
+                "time": "19:30"
+              }
+            ],
             "slots": []
           }
         ],
@@ -8483,6 +8533,31 @@
               }
             ],
             "service": "Restaurants_1",
+            "service_call": {
+              "method": "ReserveRestaurant",
+              "parameters": {
+                "city": "San Francisco",
+                "date": "2019-03-01",
+                "party_size": "2",
+                "restaurant_name": "Acquerello",
+                "time": "18:00"
+              }
+            },
+            "service_results": [
+              {
+                "city": "San Francisco",
+                "cuisine": "American",
+                "date": "2019-03-01",
+                "has_live_music": "False",
+                "party_size": "2",
+                "phone_number": "(415) 567-5432",
+                "price_range": "very expensive",
+                "restaurant_name": "Acquerello",
+                "serves_alcohol": "False",
+                "street_address": "1722 Sacramento Street",
+                "time": "18:00"
+              }
+            ],
             "slots": []
           }
         ],

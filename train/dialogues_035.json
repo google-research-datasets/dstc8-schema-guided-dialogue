@@ -44539,6 +44539,24 @@
               }
             ],
             "service": "Services_2",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-11",
+                "appointment_time": "12:30",
+                "dentist_name": "Bares William R"
+              }
+            },
+            "service_results": [
+              {
+                "address": "2500 Hospital Dr # 5D",
+                "appointment_date": "2019-03-11",
+                "appointment_time": "12:30",
+                "dentist_name": "Bares William R",
+                "offers_cosmetic_services": "False",
+                "phone_number": "650-966-8201"
+              }
+            ],
             "slots": []
           }
         ],
@@ -65234,6 +65252,24 @@
               }
             ],
             "service": "Services_2",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-12",
+                "appointment_time": "17:30",
+                "dentist_name": "Solage Dental"
+              }
+            },
+            "service_results": [
+              {
+                "address": "78 Mission Drive Suite A",
+                "appointment_date": "2019-03-12",
+                "appointment_time": "17:30",
+                "dentist_name": "Solage Dental",
+                "offers_cosmetic_services": "False",
+                "phone_number": "925-523-3695"
+              }
+            ],
             "slots": []
           }
         ],

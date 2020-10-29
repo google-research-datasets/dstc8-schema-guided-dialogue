@@ -22780,6 +22780,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Mikey and Nicky"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Elaine May",
+                "genre": "Mafia",
+                "subtitles": "False",
+                "title": "Mikey and Nicky"
+              }
+            ],
             "slots": []
           }
         ],
@@ -23645,6 +23660,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "The Curse of La Llorona"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Michael Chaves",
+                "genre": "Horror",
+                "subtitles": "False",
+                "title": "The Curse of La Llorona"
+              }
+            ],
             "slots": []
           }
         ],
@@ -24661,6 +24691,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Breakthrough"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Roxann Dawson",
+                "genre": "Biographical",
+                "subtitles": "False",
+                "title": "Breakthrough"
+              }
+            ],
             "slots": []
           }
         ],
@@ -24989,6 +25034,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "The Upside"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Neil Burger",
+                "genre": "Comedy",
+                "subtitles": "False",
+                "title": "The Upside"
+              }
+            ],
             "slots": []
           }
         ],
@@ -27617,6 +27677,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Little Woods"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Nia DaCosta",
+                "genre": "Drama",
+                "subtitles": "False",
+                "title": "Little Woods"
+              }
+            ],
             "slots": []
           }
         ],
@@ -29748,6 +29823,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Red Joan"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Trevor Nunn",
+                "genre": "Drama",
+                "subtitles": "False",
+                "title": "Red Joan"
+              }
+            ],
             "slots": []
           }
         ],
@@ -58334,6 +58424,31 @@
               }
             ],
             "service": "Restaurants_1",
+            "service_call": {
+              "method": "ReserveRestaurant",
+              "parameters": {
+                "city": "Petaluma",
+                "date": "2019-03-01",
+                "party_size": "4",
+                "restaurant_name": "Brixx Pizzeria",
+                "time": "11:30"
+              }
+            },
+            "service_results": [
+              {
+                "city": "Petaluma",
+                "cuisine": "Italian",
+                "date": "2019-03-01",
+                "has_live_music": "True",
+                "party_size": "4",
+                "phone_number": "707-664-1418",
+                "price_range": "moderate",
+                "restaurant_name": "Brixx Pizzeria",
+                "serves_alcohol": "False",
+                "street_address": "16 Kentucky Street",
+                "time": "11:30"
+              }
+            ],
             "slots": []
           }
         ],

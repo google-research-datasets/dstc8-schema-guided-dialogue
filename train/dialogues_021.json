@@ -7783,6 +7783,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Red Joan"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Trevor Nunn",
+                "genre": "Drama",
+                "subtitles": "False",
+                "title": "Red Joan"
+              }
+            ],
             "slots": []
           }
         ],
@@ -8534,6 +8549,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Little Woods"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Nia DaCosta",
+                "genre": "Drama",
+                "subtitles": "False",
+                "title": "Little Woods"
+              }
+            ],
             "slots": []
           }
         ],
@@ -23220,6 +23250,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Little Woods"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Nia DaCosta",
+                "genre": "Drama",
+                "subtitles": "False",
+                "title": "Little Woods"
+              }
+            ],
             "slots": []
           }
         ],
@@ -23635,6 +23680,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Dumbo"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Tim Burton",
+                "genre": "Fantasy",
+                "subtitles": "False",
+                "title": "Dumbo"
+              }
+            ],
             "slots": []
           }
         ],
@@ -25395,6 +25455,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Stockholm"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Robert Budreau",
+                "genre": "Comedy",
+                "subtitles": "False",
+                "title": "Stockholm"
+              }
+            ],
             "slots": []
           }
         ],
@@ -26201,6 +26276,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Hellboy"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Neil Marshall",
+                "genre": "Fantasy",
+                "subtitles": "False",
+                "title": "Hellboy"
+              }
+            ],
             "slots": []
           }
         ],
@@ -34165,6 +34255,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Teen Spirit"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Max Minghella",
+                "genre": "Musical",
+                "subtitles": "False",
+                "title": "Teen Spirit"
+              }
+            ],
             "slots": [
               {
                 "exclusive_end": 54,
@@ -38399,6 +38504,21 @@
               }
             ],
             "service": "Media_1",
+            "service_call": {
+              "method": "PlayMovie",
+              "parameters": {
+                "subtitles": "False",
+                "title": "Pillow Talk"
+              }
+            },
+            "service_results": [
+              {
+                "directed_by": "Michael Gordon",
+                "genre": "Romance",
+                "subtitles": "False",
+                "title": "Pillow Talk"
+              }
+            ],
             "slots": []
           }
         ],

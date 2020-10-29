@@ -39341,6 +39341,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Be Somebody"
+              }
+            },
+            "service_results": [
+              {
+                "album": "The End Is Where We Begin",
+                "artist": "Thousand Foot Krutch",
+                "genre": "Rock",
+                "playback_device": "TV",
+                "song_name": "Be Somebody"
+              }
+            ],
             "slots": []
           }
         ],
@@ -43206,6 +43222,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Alan Walker",
+                "playback_device": "TV",
+                "song_name": "Darkside"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Different World",
+                "artist": "Alan Walker",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Darkside"
+              }
+            ],
             "slots": []
           }
         ],
@@ -44897,6 +44930,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Jake Owen",
+                "playback_device": "TV",
+                "song_name": "Alone With You"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Barefoot Blue Jean Night",
+                "artist": "Jake Owen",
+                "genre": "Country",
+                "playback_device": "TV",
+                "song_name": "Alone With You"
+              }
+            ],
             "slots": []
           }
         ],
@@ -53590,6 +53640,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Lady Gaga",
+                "playback_device": "TV",
+                "song_name": "Bloody Mary"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Born This Way",
+                "artist": "Lady Gaga",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Bloody Mary"
+              }
+            ],
             "slots": []
           }
         ],
@@ -54328,6 +54395,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Kacey Musgraves",
+                "playback_device": "TV",
+                "song_name": "Slow Burn"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Golden Hour",
+                "artist": "Kacey Musgraves",
+                "genre": "Country",
+                "playback_device": "TV",
+                "song_name": "Slow Burn"
+              }
+            ],
             "slots": []
           }
         ],
@@ -56971,6 +57055,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Weekend"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Experiment",
+                "artist": "Kane Brown",
+                "genre": "Country",
+                "playback_device": "TV",
+                "song_name": "Weekend"
+              }
+            ],
             "slots": []
           }
         ],
@@ -58071,6 +58171,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Rihanna",
+                "playback_device": "TV",
+                "song_name": "Man Down"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Loud",
+                "artist": "Rihanna",
+                "genre": "Reggae",
+                "playback_device": "TV",
+                "song_name": "Man Down"
+              }
+            ],
             "slots": []
           }
         ],
@@ -58447,6 +58564,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "In Summer"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Frozen",
+                "artist": "Josh Gad",
+                "genre": "Soundtracks",
+                "playback_device": "TV",
+                "song_name": "In Summer"
+              }
+            ],
             "slots": []
           }
         ],
@@ -66510,6 +66643,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Lotus Flower"
+              }
+            },
+            "service_results": [
+              {
+                "album": "The King Of Limbs",
+                "artist": "Radiohead",
+                "genre": "Electronica",
+                "playback_device": "TV",
+                "song_name": "Lotus Flower"
+              }
+            ],
             "slots": []
           }
         ],
@@ -71708,6 +71857,23 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "artist": "Taylor Swift",
+                "playback_device": "TV",
+                "song_name": "The Story Of Us"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Speak Now",
+                "artist": "Taylor Swift",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "The Story Of Us"
+              }
+            ],
             "slots": [
               {
                 "exclusive_end": 39,
@@ -74488,6 +74654,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Barefoot In The Park"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Assume Form",
+                "artist": "James Blake",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Barefoot In The Park"
+              }
+            ],
             "slots": []
           }
         ],
@@ -75368,6 +75550,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Dem Beats"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Forbidden",
+                "artist": "Todrick Hall",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Dem Beats"
+              }
+            ],
             "slots": []
           }
         ],
@@ -78014,6 +78212,22 @@
               }
             ],
             "service": "Music_2",
+            "service_call": {
+              "method": "PlayMedia",
+              "parameters": {
+                "playback_device": "TV",
+                "song_name": "Adorn"
+              }
+            },
+            "service_results": [
+              {
+                "album": "Kaleidoscope Dream",
+                "artist": "Miguel",
+                "genre": "Pop",
+                "playback_device": "TV",
+                "song_name": "Adorn"
+              }
+            ],
             "slots": []
           }
         ],

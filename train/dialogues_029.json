@@ -18616,6 +18616,24 @@
               }
             ],
             "service": "Services_2",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-11",
+                "appointment_time": "16:00",
+                "dentist_name": "Apple Dental Practice"
+              }
+            },
+            "service_results": [
+              {
+                "address": "1040 Grant Road #103",
+                "appointment_date": "2019-03-11",
+                "appointment_time": "16:00",
+                "dentist_name": "Apple Dental Practice",
+                "offers_cosmetic_services": "False",
+                "phone_number": "650-336-1313"
+              }
+            ],
             "slots": []
           }
         ],
@@ -43793,6 +43811,25 @@
               }
             ],
             "service": "Services_1",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-14",
+                "appointment_time": "15:00",
+                "stylist_name": "1512 Barber Shop"
+              }
+            },
+            "service_results": [
+              {
+                "appointment_date": "2019-03-14",
+                "appointment_time": "15:00",
+                "average_rating": "4.80",
+                "is_unisex": "True",
+                "phone_number": "415-286-4371",
+                "street_address": "1532 20th Street",
+                "stylist_name": "1512 Barber Shop"
+              }
+            ],
             "slots": []
           }
         ],

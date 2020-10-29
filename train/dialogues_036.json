@@ -392,6 +392,24 @@
               }
             ],
             "service": "Services_2",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-05",
+                "appointment_time": "11:30",
+                "dentist_name": "C K Dental Lab"
+              }
+            },
+            "service_results": [
+              {
+                "address": "621 East Campbell Avenue # 2A",
+                "appointment_date": "2019-03-05",
+                "appointment_time": "11:30",
+                "dentist_name": "C K Dental Lab",
+                "offers_cosmetic_services": "False",
+                "phone_number": "408-370-1424"
+              }
+            ],
             "slots": []
           }
         ],
@@ -11961,6 +11979,25 @@
               }
             ],
             "service": "Services_1",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-11",
+                "appointment_time": "17:00",
+                "stylist_name": "Revamp Salon"
+              }
+            },
+            "service_results": [
+              {
+                "appointment_date": "2019-03-11",
+                "appointment_time": "17:00",
+                "average_rating": "4.80",
+                "is_unisex": "True",
+                "phone_number": "415-431-8267",
+                "street_address": "2164 Market Street",
+                "stylist_name": "Revamp Salon"
+              }
+            ],
             "slots": []
           }
         ],
@@ -15723,6 +15760,25 @@
               }
             ],
             "service": "Services_1",
+            "service_call": {
+              "method": "BookAppointment",
+              "parameters": {
+                "appointment_date": "2019-03-03",
+                "appointment_time": "18:00",
+                "stylist_name": "Linda Hair & Nails"
+              }
+            },
+            "service_results": [
+              {
+                "appointment_date": "2019-03-03",
+                "appointment_time": "18:00",
+                "average_rating": "4.40",
+                "is_unisex": "False",
+                "phone_number": "408-365-9888",
+                "street_address": "5823 Cottle Road",
+                "stylist_name": "Linda Hair & Nails"
+              }
+            ],
             "slots": []
           }
         ],
