@@ -4,31 +4,42 @@
 
 ## Overview
 
-The Schema-Guided Dialogue (SGD) dataset consists of over 20k annotated
+The **Schema-Guided Dialogue (SGD)** dataset consists of over 20k annotated
 multi-domain, task-oriented conversations between a human and a virtual
 assistant. These conversations involve interactions with services and APIs
-spanning 20 domains, ranging from banks and events to media, calendar, travel,
-and weather. For most of these domains, the dataset contains multiple different
+spanning 20 domains, such as banks, events, media, calendar, travel, and
+weather. For most of these domains, the dataset contains multiple different
 APIs, many of which have overlapping functionalities but different interfaces,
 which reflects common real-world scenarios. The wide range of available
 annotations can be used for intent prediction, slot filling, dialogue state
-tracking, policy imitation learning, language generation, user simulation
-learning, among other tasks in large-scale virtual assistants. Besides these,
-the dataset has unseen domains and services in the evaluation set to quantify
-the performance in zero-shot or few shot settings.
+tracking, policy imitation learning, language generation, and user simulation
+learning, among other tasks for developing large-scale virtual assistants.
+Additionally, the dataset contains unseen domains and services in the evaluation
+set to quantify the performance in zero-shot or few-shot settings.
 
-**The dataset is provided "AS IS" without any warranty, express or implied.
+**Schema-Guided Dialogue - eXtended (SGD-X)** is a benchmark for measuring the
+robustness of dialogue systems to linguistic variations in schemas. SGD-X
+extends the SGD dataset with 5 crowdsourced variants for every schema, where
+variants are semantically similar yet stylistically diverse. Models trained on
+SGD are evaluated on SGD-X to measure how well they can generalize in a
+real-world setting, where a large variety of linguistic styles exist.
+
+**The datasets are provided "AS IS" without any warranty, express or implied.
 Google disclaims all liability for any damages, direct or indirect, resulting
 from the use of this dataset.**
 
 ## Updates
 
+**10/19/2021** - SGD-X schemas for measuring robustness to linguistic variations
+in schemas released, along with a script to convert dialogue annotations
+according to the new schemas.
+
 **07/05/2020** - Test set annotations released. User actions and service calls
 made during the dialogue are also released for all dialogues.
 
 **10/14/2019** - DSTC8 challenge concluded. Details about the submissions to the
-challenge may be found in the [challenge overview
-paper](https://arxiv.org/pdf/2002.01359.pdf).
+challenge may be found in the
+[DSTC8 overview paper](https://arxiv.org/pdf/2002.01359.pdf).
 
 **10/07/2019** - Test dataset released without the dialogue state annotations.
 
@@ -37,66 +48,79 @@ challenge](dstc8.md).
 
 ## Important Links
 
-* [Paper for dataset and DST baseline](https://arxiv.org/pdf/1909.05855.pdf)
-* [DSTC8 overview paper](https://arxiv.org/pdf/2002.01359.pdf)
-* [Code for DST
-  baseline](https://github.com/google-research/google-research/tree/master/schema_guided_dst)
-* [Natural language generation](https://arxiv.org/pdf/2004.15006.pdf)
-* [Blog post announcing the
-  dataset](https://ai.googleblog.com/2019/10/introducing-schema-guided-dialogue.html)
+*   [SGD dataset and DST baseline paper](https://arxiv.org/pdf/1909.05855.pdf)
+*   [DSTC8 overview paper](https://arxiv.org/pdf/2002.01359.pdf)
+*   [Code for DST baseline](https://github.com/google-research/google-research/tree/master/schema_guided_dst)
+*   [Blog post announcing the dataset](https://ai.googleblog.com/2019/10/introducing-schema-guided-dialogue.html)
+*   [Natural language generation](https://arxiv.org/pdf/2004.15006.pdf)
 
 ## Data
-The dataset consists of schemas outlining the interface of different APIs, and
-annotated dialogues. The dialogues have been generated with the help of a
+
+The SGD dataset consists of schemas outlining the interface of different APIs
+and annotated dialogues. The dialogues have been generated with the help of a
 dialogue simulator and paid crowd-workers. The data collection approach is
-summarized in our [paper](https://arxiv.org/pdf/1801.04871.pdf).
+summarized in this [paper](https://arxiv.org/pdf/1801.04871.pdf).
 
+The SGD-X dataset consists of 5 linguistic variants of every schema in the
+original SGD dataset. Linguistic variants were written by hundreds of paid
+crowd-workers. In the SGD-X directory, `v1` represents the variant closest to
+the original schemas and `v5` the farthest in terms of linguistic distance. To
+evaluate model performance on SGD-X schemas, dialogues must be converted using
+the script `generate_sgdx_dialogues.py`.
 
-### Scheme Representation
+### Schema Representation
+
 A service or API is essentially a set of functions (called intents), each taking
 a set of parameters (called slots). A schema is a normalized representation of
 the interface exposed by a service/API. In addition, the schema also includes
-natural language description of the included functions and their parameters to
-outline the semantics of each element. The schemas have been manually generated
-by the dataset creators. The schema for a service contains the following fields:
+natural language descriptions of the included functions and their parameters to
+outline the semantics of each element. The SGD schemas were manually generated
+by the dataset creators, and SGD-X schema variants were created by having
+crowd-workers paraphrase the original schemas. Each schema is represented as a
+json object containing the following fields:
 
-*   **service_name** - A unique name for the service.
+*   **service_name\*** - A unique name for the service.
 *   **description** - A natural language description of the tasks supported by
     the service.
 *   **slots** - A list of slots/attributes corresponding to the entities present
     in the service. Each slot contains the following fields:
     *   **name** - The name of the slot.
     *   **description** - A natural language description of the slot.
-    *   **is_categorical** - A boolean value. If it is true, the slot has a
-        fixed set of possible values.
-    *   **possible_values** - List of possible values the slot can take. If the
-        slot is a categorical slot, it is a complete list of all the possible
-        values. If the slot is a non categorical slot, it is either an empty
-        list or a small sample of all the values taken by the slot.
+    *   **is_categorical** - A boolean value. If true, the slot has a fixed set
+        of possible values.
+    *   **possible_values** - List of possible values the slot can take on. If
+        the slot is categorical, this lists all the possible values. If the slot
+        not categorical, it is either an empty list or a small sample of all the
+        values the slot can take on.
 *   **intents** - The list of intents/tasks supported by the service. Each
     method contains the following fields:
     *   **name** - The name of the intent.
     *   **description** - A natural language description of the intent.
-    *   **is_transactional** - A boolean value. If true, indicates that the
-        underlying API call is transactional (e.g, a booking or a purchase), as
-        opposed to a search call.
+    *   **is_transactional** - A boolean value. If true, the underlying API call
+        is transactional (e.g, a booking or a purchase), as opposed to a search
+        call.
     *   **required_slots** - A list of slot names whose values must be provided
-        before making a call to the service.
+        before executing an API call.
     *   **optional_slots** - A dictionary mapping slot names to the default
-        value taken by the slot. These slots may be optionally specified by the
-        user and the user may override the default value. An empty default value
-        allows that slot to take any value by default, but the user may override
-        it.
+        value taken by the slot. These slots are optionally specified by the
+        user, and the user may override the default value. An empty default
+        value allows that slot to take any value by default.
     *   **result_slots** - A list of slot names which are present in the results
         returned by a call to the service or API.
 
+\*service_names follow the form "\<domain name\>\_\<number\>" (e.g. Banks_2).
+The number is used to disambiguate services from the same domain. SGD-X variant
+schemas have two-digit numbers, where the first digit is copied from the
+original schema, and the second digit is the SGD-X variant number. For example,
+the first variant of Banks_2 is Banks_21.
+
 ### Dialogue Representation
 
-The dialogue is represented as a list of turns, where each turn contains either
-a user or a system utterance. The annotations for a turn are grouped into
-frames, where each frame corresponds to a single service. Each turn in the
-single domain dataset contains exactly one frame. In multi-domain datasets, some
-turns may have multiple frames.
+Dialogues are represented as a list of turns, where each turn contains either a
+user or system utterance. The annotations for a turn are grouped into frames,
+where each frame corresponds to a single service. Each turn in the single domain
+dataset contains exactly one frame. In multi-domain datasets, some turns may
+have multiple frames.
 
 Each dialogue is represented as a json object with the following fields:
 
@@ -109,11 +133,10 @@ Each turn consists of the following fields:
 *   **speaker** - The speaker for the turn. Possible values are "USER" or
     "SYSTEM".
 *   **utterance** - A string containing the natural language utterance.
-*   **frames** - A list of frames, each frame containing annotations for a
+*   **frames** - A list of frames, where each frame contains annotations for a
     single service.
 
-Each frame consists of the fields listed below. The fields marked with * will
-be excluded from all user turns in the test data released to the participants.
+Each frame consists of the following fields:
 
 *   **service** - The name of the service corresponding to the frame. The slots
     and intents used in the following fields are taken from the schema of this
@@ -217,10 +240,12 @@ List of possible user acts:
 
 ## License
 
-The dataset is released under [**CC BY-SA
-4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license. For the full
-license, see [LICENSE.txt](LICENSE.txt). Please cite the following paper if you
-use this dataset in your work
+The SGD and SGD-X datasets are released under
+[**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/) license. For
+the full license, see [LICENSE.txt](LICENSE.txt). Please cite the following
+papers if you use the datasets in your work:
+
+**SGD**
 
 ```shell
 @article{rastogi2019towards,
@@ -230,7 +255,6 @@ use this dataset in your work
   year={2019}
 }
 ```
-
 
 ## Dataset Metadata
 The following table is necessary for this dataset to be indexed by search
