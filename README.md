@@ -48,16 +48,17 @@ challenge](dstc8.md).
 
 ## Important Links
 
-*   [SGD dataset and DST baseline paper](https://arxiv.org/pdf/1909.05855.pdf)
-*   [DSTC8 overview paper](https://arxiv.org/pdf/2002.01359.pdf)
-*   [Code for DST baseline](https://github.com/google-research/google-research/tree/master/schema_guided_dst)
-*   [Blog post announcing the dataset](https://ai.googleblog.com/2019/10/introducing-schema-guided-dialogue.html)
-*   [Natural language generation](https://arxiv.org/pdf/2004.15006.pdf)
+*   [Paper - SGD dataset and DST baseline](https://arxiv.org/pdf/1909.05855.pdf)
+*   [Paper - DSTC8 overview](https://arxiv.org/pdf/2002.01359.pdf)
+*   [Paper - SGD-X](https://arxiv.org/pdf/2110.06800.pdf)
+*   [Paper - Template-guided Text Generation](https://arxiv.org/pdf/2004.15006.pdf)
+*   [Code - DST baseline](https://github.com/google-research/google-research/tree/master/schema_guided_dst)
+*   [Blog - SGD dataset](https://ai.googleblog.com/2019/10/introducing-schema-guided-dialogue.html)
 
 ## Data
 
 The SGD dataset consists of schemas outlining the interface of different APIs
-and annotated dialogues. The dialogues have been generated with the help of a
+and annotated dialogues. The dialogues were generated with the help of a
 dialogue simulator and paid crowd-workers. The data collection approach is
 summarized in this [paper](https://arxiv.org/pdf/1801.04871.pdf).
 
@@ -112,7 +113,7 @@ json object containing the following fields:
 The number is used to disambiguate services from the same domain. SGD-X variant
 schemas have two-digit numbers, where the first digit is copied from the
 original schema, and the second digit is the SGD-X variant number. For example,
-the first variant of Banks_2 is Banks_21.
+the `v1` variant of Banks_2 is Banks_21.
 
 ### Dialogue Representation
 
@@ -248,11 +249,25 @@ papers if you use the datasets in your work:
 **SGD**
 
 ```shell
-@article{rastogi2019towards,
-  title={Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset},
+@inproceedings{rastogi2020towards,
+  title={Towards scalable multi-domain conversational agents: The schema-guided dialogue dataset},
   author={Rastogi, Abhinav and Zang, Xiaoxue and Sunkara, Srinivas and Gupta, Raghav and Khaitan, Pranav},
-  journal={arXiv preprint arXiv:1909.05855},
-  year={2019}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={05},
+  pages={8689--8696},
+  year={2020}
+}
+```
+
+**SGD-X**
+
+```shell
+@inproceedings{lee2021sgd,
+  title={SGD-X: A Benchmark for Robust Generalization in Schema-Guided Dialogue Systems},
+  author={Lee, Harrison and Gupta, Raghav and Rastogi, Abhinav and Cao, Yuan and Zhang, Bin and Wu, Yonghui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2022}
 }
 ```
 
