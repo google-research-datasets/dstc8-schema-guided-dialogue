@@ -263,10 +263,13 @@ papers if you use the datasets in your work:
 **SGD-X**
 
 ```shell
-@inproceedings{lee2021sgd,
+@inproceedings{lee2022sgd,
   title={SGD-X: A Benchmark for Robust Generalization in Schema-Guided Dialogue Systems},
   author={Lee, Harrison and Gupta, Raghav and Rastogi, Abhinav and Cao, Yuan and Zhang, Bin and Wu, Yonghui},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={10},
+  pages={10938--10946},
   year={2022}
 }
 ```
