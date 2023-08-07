@@ -58,11 +58,11 @@ def replace_dict_keys_with_mapping(d: Dict[Any, Any],
                                    mapping: Dict[Any, Any]) -> None:
   """Replace dictionary keys in-place based on a mapping."""
   keys = list(d.keys())
-  for key in keys:
-    if key in mapping:
-      new_key = mapping[key]
-      # Remove old key and associate value with new key
-      d[new_key] = d.pop(key)
+  values = [d.pop(k) for k in keys]
+  for k, v in zip(keys, values):
+    if k in mapping:
+      k = mapping[k]
+    d[k] = v
 
 
 def replace_dict_value_with_mapping(d: Dict[Any, Any], key: Any,
