@@ -127,7 +127,11 @@ def create_modified_dialogues(
             for action in frame.get('actions', []):
               # Replace values if slot is intent.
               if 'slot' in action:
-                if action['slot'] == 'intent':
+                if (
+                    action['slot'] == 'intent'
+                    # Don't process the slot named "intent" from Homes service.
+                    and action['act'] in ['OFFER_INTENT', 'INFORM_INTENT']
+                ):
                   utils.replace_list_elements_with_mapping(
                       action.get('canonical_values', []), intent_to_name)
                   utils.replace_list_elements_with_mapping(
